@@ -7,7 +7,7 @@
   data/source/image/                             (ローカル画像の照合に使用)
 
 出力:
-  data/json/nfts/<id>.json   1 NFT = 1ファイル
+  data/json/nfts.json        全カードの配列(id昇順)
   data/json/series.json
   data/json/artists.json
   data/ISSUES.md             検出した品質課題のリスト
@@ -19,7 +19,6 @@
 import csv
 import json
 import re
-import shutil
 import sys
 import unicodedata
 from collections import defaultdict
@@ -30,7 +29,6 @@ CSV_PATH = ROOT / "data" / "source" / "NFTs-Export-2022-June-11-0636.csv"
 ENRICHMENT_PATH = ROOT / "data" / "source" / "artists-enrichment.json"
 IMAGE_DIR = ROOT / "data" / "source" / "image"
 JSON_DIR = ROOT / "data" / "json"
-NFTS_DIR = JSON_DIR / "nfts"
 ISSUES_PATH = ROOT / "data" / "ISSUES.md"
 
 # ソースCSVを更新した場合はここも更新する(変換結果の予期しない変動を検出するため)
@@ -439,12 +437,8 @@ def main():
     issues["image_missing"].extend(
         f"`{n['id']}` ({n['name']})" for n in missing)
 
-    # 出力(nfts/ は毎回作り直して消えたレコードの残骸を防ぐ)
-    if NFTS_DIR.exists():
-        shutil.rmtree(NFTS_DIR)
-    NFTS_DIR.mkdir(parents=True)
-    for nft in nfts:
-        write_json(NFTS_DIR / f"{nft['id']}.json", nft)
+    JSON_DIR.mkdir(parents=True, exist_ok=True)
+    write_json(JSON_DIR / "nfts.json", nfts)
     write_json(JSON_DIR / "series.json", series)
     write_json(JSON_DIR / "artists.json", artists)
 
