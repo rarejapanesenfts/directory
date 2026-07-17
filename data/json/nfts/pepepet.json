@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1375,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEPET"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepepet",
+  "image": {
+    "local": null,
+    "source": "PEPEPET.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPEPET",
+  "publishedAt": "2017-09-05",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "pepepet",
+    "ja": "pepepet-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_621ab06bab72e"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 145,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/EATSUSHI"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "eatsushi",
+  "image": {
+    "local": "data/source/image/Memorychain/Fine 9/EATSUSHI.png",
+    "source": "EATSUSHI.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "EATSUSHI",
+  "publishedAt": "2017-08-12",
+  "seriesId": "memorychain/series-9",
+  "slug": {
+    "en": "eatsushi",
+    "ja": "eatsushi-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_622e94d246f1e"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "spells-of-genesis",
+  "card": null,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CNPCARD"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cnpcard",
+  "image": {
+    "local": null,
+    "source": "CNPCARD.jpg"
+  },
+  "issued": {
+    "date": "2015-07",
+    "display": {
+      "en": "Jul 2015",
+      "ja": "2015年7月"
+    }
+  },
+  "name": "CNPCARD",
+  "publishedAt": "2015-07-17",
+  "seriesId": "japanese-sog",
+  "slug": {
+    "en": "cnpcard",
+    "ja": "cnpcard-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_626c193d225e0"
+}

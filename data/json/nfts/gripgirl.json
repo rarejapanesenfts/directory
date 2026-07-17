@@ -1,0 +1,35 @@
+{
+  "artistId": "栗饅頭",
+  "card": 70,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GRIPGIRL"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "gripgirl",
+  "image": {
+    "local": "data/source/image/Memorychain/Favorite Five/GRIPGIRL.png",
+    "source": "GRIPGIRL.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "GRIPGIRL",
+  "publishedAt": "2017-06-10",
+  "seriesId": "memorychain/series-5",
+  "slug": {
+    "en": "gripgirl",
+    "ja": "gripgirl-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622bde0b080dc"
+}

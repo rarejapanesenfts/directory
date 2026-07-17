@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1628,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPECART"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepecart",
+  "image": {
+    "local": null,
+    "source": "PEPECART.gif"
+  },
+  "issued": {
+    "date": "2018-02",
+    "display": {
+      "en": "Feb 2018",
+      "ja": "2018年2月"
+    }
+  },
+  "name": "PEPECART",
+  "publishedAt": "2018-02-11",
+  "seriesId": "japanese-rarepepe/series-33",
+  "slug": {
+    "en": "pepecart",
+    "ja": "pepecart-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621a218584050"
+}

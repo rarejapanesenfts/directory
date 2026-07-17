@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 19,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/RISAVIX"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "risavix",
+  "image": {
+    "local": null,
+    "source": "RISAVIX.jpg"
+  },
+  "issued": {
+    "date": "2016-12",
+    "display": {
+      "en": "Dec 2016",
+      "ja": "2016年12月"
+    }
+  },
+  "name": "RISAVIX",
+  "publishedAt": "2016-12-14",
+  "seriesId": "bitgirls/christmas",
+  "slug": {
+    "en": "risavix",
+    "ja": "risavix-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621cbfb311596"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "m1xxk1ng-w1cked",
+  "card": 6,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CHAOO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "chaoo",
+  "image": {
+    "local": "data/source/image/Memorychain/Memorychiain transfer/CHAOO.png",
+    "source": "CHAOO.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "CHAOO",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "chaoo",
+    "ja": "chaoo-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62326fd8ccf3c"
+}

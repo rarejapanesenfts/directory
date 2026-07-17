@@ -1,0 +1,35 @@
+{
+  "artistId": "x0xb0x",
+  "card": 1319,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ENDRACISMPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "endracismpe",
+  "image": {
+    "local": null,
+    "source": "ENDRACISMPE.jpeg"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "ENDRACISMPE",
+  "publishedAt": "2017-08-28",
+  "seriesId": "japanese-rarepepe/series-27",
+  "slug": {
+    "en": "endracismpe",
+    "ja": "endracismpe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_626bf8464a9e2"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "myon9",
+  "card": 22,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/REJECTEDVIX"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "rejectedvix",
+  "image": {
+    "local": "data/source/image/Memorychain/Second generation(16-25)/REJECTEDVIX.png",
+    "source": "REJECTEDVIX.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "REJECTEDVIX",
+  "publishedAt": "2017-04-26",
+  "seriesId": "memorychain/series-2",
+  "slug": {
+    "en": "rejectedvix",
+    "ja": "rejectedvix-ja"
+  },
+  "totalSupply": 700,
+  "translationKey": "pll_622af9c339636"
+}

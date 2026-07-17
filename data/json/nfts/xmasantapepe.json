@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 370,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XMASANTAPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xmasantapepe",
+  "image": {
+    "local": null,
+    "source": "XMASANTAPEPE.gif"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "XMASANTAPEPE",
+  "publishedAt": "2016-11-14",
+  "seriesId": "japanese-rarepepe/series-08",
+  "slug": {
+    "en": "xmasantapepe",
+    "ja": "xmasantapepe-ja"
+  },
+  "totalSupply": 109,
+  "translationKey": "pll_6233c65a6203f"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "bb",
+  "card": 1749,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEREME"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepereme",
+  "image": {
+    "local": null,
+    "source": "PEPEREME.gif"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "PEPEREME",
+  "publishedAt": "2018-03-25",
+  "seriesId": "japanese-rarepepe/series-35",
+  "slug": {
+    "en": "pepereme",
+    "ja": "pepereme-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62688e3d67532"
+}

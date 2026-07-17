@@ -1,0 +1,35 @@
+{
+  "artistId": "栗饅頭",
+  "card": 1380,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NATIVEPEPETH"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "nativepepeth",
+  "image": {
+    "local": null,
+    "source": "NATIVEPEPETH.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "NATIVEPEPETH",
+  "publishedAt": "2017-09-06",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "nativepepeth",
+    "ja": "nativepepeth-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b6a16799ee"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "エヌ",
+  "card": 1224,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEFRACTAL"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepefractal",
+  "image": {
+    "local": null,
+    "source": "PEPEFRACTAL.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PEPEFRACTAL",
+  "publishedAt": "2017-08-16",
+  "seriesId": "japanese-rarepepe/series-25",
+  "slug": {
+    "en": "pepefractal",
+    "ja": "pepefractal-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_6218e7d26697d"
+}

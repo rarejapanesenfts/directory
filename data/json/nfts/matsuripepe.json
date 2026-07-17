@@ -1,0 +1,35 @@
+{
+  "artistId": "笑猫",
+  "card": 1214,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MATSURIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "matsuripepe",
+  "image": {
+    "local": null,
+    "source": "MATSURIPEPE.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "MATSURIPEPE",
+  "publishedAt": "2017-08-16",
+  "seriesId": "japanese-rarepepe/series-25",
+  "slug": {
+    "en": "matsuripepe",
+    "ja": "matsuripepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621a393e05573"
+}

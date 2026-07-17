@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 1424,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPERIKISHI"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "peperikishi",
+  "image": {
+    "local": null,
+    "source": "PEPERIKISHI.jpg"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPERIKISHI",
+  "publishedAt": "2017-09-25",
+  "seriesId": "japanese-rarepepe/series-29",
+  "slug": {
+    "en": "peperikishi",
+    "ja": "peperikishi-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_621b6b3713a19"
+}

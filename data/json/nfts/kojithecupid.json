@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 4,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KOJITHECUPID"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kojithecupid",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/KOJITHECUPID.png",
+    "source": "KOJITHECUPID.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "KOJITHECUPID",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "kojithecupid",
+    "ja": "kojithecupid-ja"
+  },
+  "totalSupply": 777,
+  "translationKey": "pll_622acd311a754"
+}

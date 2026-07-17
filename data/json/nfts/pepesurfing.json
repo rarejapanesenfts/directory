@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 1408,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPESURFING"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepesurfing",
+  "image": {
+    "local": null,
+    "source": "PEPESURFING.gif"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPESURFING",
+  "publishedAt": "2017-09-23",
+  "seriesId": "japanese-rarepepe/series-29",
+  "slug": {
+    "en": "pepesurfing",
+    "ja": "pepesurfing-2"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b86c979680"
+}

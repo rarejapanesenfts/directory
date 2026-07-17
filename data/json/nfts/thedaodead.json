@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 6,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/THEDAODEAD"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "thedaodead",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/THEDAODEAD.png",
+    "source": "THEDAODEAD.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "THEDAODEAD",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "thedaodead",
+    "ja": "thedaodead-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622acd7536f82"
+}

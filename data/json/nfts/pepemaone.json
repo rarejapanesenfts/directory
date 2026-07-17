@@ -1,0 +1,35 @@
+{
+  "artistId": "x0xb0x",
+  "card": 1035,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEMAONE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepemaone",
+  "image": {
+    "local": null,
+    "source": "PEPEMAONE.jpg"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "PEPEMAONE",
+  "publishedAt": "2017-07-04",
+  "seriesId": "japanese-rarepepe/series-21",
+  "slug": {
+    "en": "pepemaone",
+    "ja": "pepemaone-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_626bfcb8e8e32"
+}

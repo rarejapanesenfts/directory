@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 1722,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PRISONERPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "prisonerpepe",
+  "image": {
+    "local": null,
+    "source": "PRISONERPEPE.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "PRISONERPEPE",
+  "publishedAt": "2018-03-21",
+  "seriesId": "japanese-rarepepe/series-35",
+  "slug": {
+    "en": "prisonerpepe",
+    "ja": "prisonerpepe-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_621b5b84094a1"
+}

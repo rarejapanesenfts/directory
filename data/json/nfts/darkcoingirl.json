@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 35,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DARKCOINGIRL"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "darkcoingirl",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/DARKCOINGIRL.png",
+    "source": "DARKCOINGIRL.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "DARKCOINGIRL",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "darkcoingirl",
+    "ja": "darkcoingirl-ja"
+  },
+  "totalSupply": 2400,
+  "translationKey": "pll_623277739ab16"
+}

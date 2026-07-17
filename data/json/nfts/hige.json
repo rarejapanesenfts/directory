@@ -1,0 +1,35 @@
+{
+  "artistId": "右馬之介信生",
+  "card": 103,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HIGE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "hige",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/HIGE.png",
+    "source": "HIGE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "HIGE",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "hige",
+    "ja": "hige-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d36067f245"
+}

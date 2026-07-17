@@ -1,0 +1,35 @@
+{
+  "artistId": "睡眠",
+  "card": 75,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HOGEHOGE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "hogehoge",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/HOGEHOGE.png",
+    "source": "HOGEHOGE.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "HOGEHOGE",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "hogehoge",
+    "ja": "hogehoge-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_622bdf1718c63"
+}

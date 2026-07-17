@@ -1,0 +1,35 @@
+{
+  "artistId": "onigiri",
+  "card": 77,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KINGOFCC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kingofcc",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/KINGOFCC.png",
+    "source": "KINGOFCC.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "KINGOFCC",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "kingofcc",
+    "ja": "kingofcc-ja"
+  },
+  "totalSupply": 555,
+  "translationKey": "pll_622bdfa21ffdf"
+}

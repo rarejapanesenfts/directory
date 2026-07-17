@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 1608,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MURASAKIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "murasakipepe",
+  "image": {
+    "local": null,
+    "source": "MURASAKIPEPE.jpeg"
+  },
+  "issued": {
+    "date": "2018-02",
+    "display": {
+      "en": "Feb 2018",
+      "ja": "2018年2月"
+    }
+  },
+  "name": "MURASAKIPEPE",
+  "publishedAt": "2018-02-05",
+  "seriesId": "japanese-rarepepe/series-33",
+  "slug": {
+    "en": "murasakipepe",
+    "ja": "murasakipepe-ja"
+  },
+  "totalSupply": 114,
+  "translationKey": "pll_6288b5f86e63d"
+}

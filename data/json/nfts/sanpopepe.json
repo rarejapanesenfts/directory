@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1144,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SANPOPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "sanpopepe",
+  "image": {
+    "local": null,
+    "source": "SANPOPEPE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "SANPOPEPE",
+  "publishedAt": "2017-07-26",
+  "seriesId": "japanese-rarepepe/series-23",
+  "slug": {
+    "en": "sanpopepe",
+    "ja": "sanpopepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621a4198e022c"
+}

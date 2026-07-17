@@ -1,0 +1,35 @@
+{
+  "artistId": "chunri",
+  "card": 434,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MAPEPENEMR"
+    }
+  ],
+  "description": {
+    "en": "The real life model is Mao Zedong, who laid the foundation for the origin and development of the New China of the 20th century. New winds are blowing into China and its strong one-party rule that will change people and change society to create a new culture, and something WACK will arise! This is a piece that expresses ways that the Crypto culture may change what has come down from the historical background. This is a creation, a piece, that has been representing the Crypto genesis of the Chinese nations since 2018, inspired by its creator's time spent living in China at that time, set up in three layers with MAOIZMPEPE, MYRIADMPEPE and the Chinese flag in the background.",
+    "ja": "モデルは新中国を作り、発展基盤を作った毛沢東となっている。 一党独裁色の強い中国において外部からの新しい風、新しい文化で人々や社会が変化し、何かWACKなモノが生まれるんじゃないか！人民的Crypto文化が変化を起こすのではないか、という時代背景を表現した作品。 2018年当時の中国大陸のCrypto創世記を表している作品。 作者が作当時中国に住んでいたことで制作。 MAOIZMPEPE、MYRIADMPEPEと共に、中国旗を背景に3枚セットとして作成。"
+  },
+  "id": "mapepenemr",
+  "image": {
+    "local": null,
+    "source": "ezgif.com-optimize-2.gif"
+  },
+  "issued": {
+    "date": "2016-12",
+    "display": {
+      "en": "Dec 2016",
+      "ja": "2016年12月"
+    }
+  },
+  "name": "MAPEPENEMR",
+  "publishedAt": "2016-12-09",
+  "seriesId": "japanese-rarepepe/series-09",
+  "slug": {
+    "en": "mapepenemr",
+    "ja": "mapepenemr-ja"
+  },
+  "totalSupply": 216,
+  "translationKey": "pll_621a3484ca05a"
+}

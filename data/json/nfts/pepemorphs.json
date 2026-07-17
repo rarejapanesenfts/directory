@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 649,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEMORPHS"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepemorphs",
+  "image": {
+    "local": null,
+    "source": "pepemorphs.png"
+  },
+  "issued": {
+    "date": "2017-02",
+    "display": {
+      "en": "Feb 2017",
+      "ja": "2017年2月"
+    }
+  },
+  "name": "PEPEMORPHS",
+  "publishedAt": "2017-02-28",
+  "seriesId": "japanese-rarepepe/series-13",
+  "slug": {
+    "en": "pepemorphs",
+    "ja": "pepemorphs-ja"
+  },
+  "totalSupply": 142,
+  "translationKey": "pll_62894ade65765"
+}

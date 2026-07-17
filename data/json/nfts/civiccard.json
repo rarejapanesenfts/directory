@@ -1,0 +1,35 @@
+{
+  "artistId": "sasu",
+  "card": 33,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CIVICCARD"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "civiccard",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/CIVICCARD.png",
+    "source": "CIVICCARD.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "CIVICCARD",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "civiccard",
+    "ja": "civiccard-ja"
+  },
+  "totalSupply": 111,
+  "translationKey": "pll_6232771d1162c"
+}

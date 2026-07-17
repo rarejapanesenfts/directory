@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 55,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DASHMAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "dashman",
+  "image": {
+    "local": "data/source/image/Oasis Mining/3rd確定(2017-9-17ローンチ済15枚)/DASHMAN.png",
+    "source": "DASHMAN.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "DASHMAN",
+  "publishedAt": "2017-09-17",
+  "seriesId": "oasis-mining/series-3",
+  "slug": {
+    "en": "dashman",
+    "ja": "dashman-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_6232bcd5e946f"
+}

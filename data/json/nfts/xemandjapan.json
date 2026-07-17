@@ -1,0 +1,35 @@
+{
+  "artistId": "安心院まおら",
+  "card": 14,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XEMANDJAPAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xemandjapan",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/XEMANDJAPAN.png",
+    "source": "XEMANDJAPAN.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "XEMANDJAPAN",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "xemandjapan",
+    "ja": "xemandjapan-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622ad6c855662"
+}

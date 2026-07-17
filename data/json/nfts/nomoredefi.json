@@ -1,0 +1,47 @@
+{
+  "artistId": "bb",
+  "card": 2,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NOMOREDEFI"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=NOMOREDEFI"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=NOMOREDEFI"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=NOMOREDEFI"
+    }
+  ],
+  "description": {
+    "en": "「こんなのでDeFiが一般普及するはずがない」\nDeFiに馴染みのなかったもっちーに、DeFiを触らせた際、あまりの使い勝手の悪さにキレられる。\n\nアーティストからのコメント\n「コーヒーカップのラベルはペペです。」",
+    "ja": "「こんなのでDeFiが一般普及するはずがない」\nDeFiに馴染みのなかったもっちーに、DeFiを触らせた際、あまりの使い勝手の悪さにキレられる。\n\nアーティストからのコメント\n「コーヒーカップのラベルはペペです。」"
+  },
+  "id": "nomoredefi",
+  "image": {
+    "local": null,
+    "source": "NOMOREDEFI.png"
+  },
+  "issued": {
+    "date": "2021-09",
+    "display": {
+      "en": "Sep 2021",
+      "ja": "2021年9月"
+    }
+  },
+  "name": "NOMOREDEFI",
+  "publishedAt": "2021-09-26",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "nomoredefi",
+    "ja": "nomoredefi-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_61fb2f50e4a02"
+}

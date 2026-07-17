@@ -1,0 +1,35 @@
+{
+  "artistId": "bb",
+  "card": 1470,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/LONELYPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "lonelypepe",
+  "image": {
+    "local": null,
+    "source": "LONELYPEPE.jpeg"
+  },
+  "issued": {
+    "date": "2017-10",
+    "display": {
+      "en": "Oct 2017",
+      "ja": "2017年10月"
+    }
+  },
+  "name": "LONELYPEPE",
+  "publishedAt": "2017-10-03",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "lonelypepe",
+    "ja": "lonelypepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62688c173ed88"
+}

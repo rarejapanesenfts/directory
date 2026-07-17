@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 28,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/UASFARMY"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "uasfarmy",
+  "image": {
+    "local": "data/source/image/Memorychain/Third wave(26-37)/UASFARMY.png",
+    "source": "UASFARMY.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "UASFARMY",
+  "publishedAt": "2017-05-09",
+  "seriesId": "memorychain/series-3",
+  "slug": {
+    "en": "uasfarmy",
+    "ja": "uasfarmy-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_622afb263e1aa"
+}

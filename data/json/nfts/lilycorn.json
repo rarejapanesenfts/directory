@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 138,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/LILYCORN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "lilycorn",
+  "image": {
+    "local": null,
+    "source": "LILYCORN.gif"
+  },
+  "issued": {
+    "date": "2019-01",
+    "display": {
+      "en": "Jan 2019",
+      "ja": "2019年1月"
+    }
+  },
+  "name": "LILYCORN",
+  "publishedAt": "2019-01-28",
+  "seriesId": "japanese-corn/harvest-4",
+  "slug": {
+    "en": "lilycorn",
+    "ja": "lilycorn-ja"
+  },
+  "totalSupply": 77,
+  "translationKey": "pll_626bf2f3dbcdb"
+}

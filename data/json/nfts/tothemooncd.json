@@ -1,0 +1,35 @@
+{
+  "artistId": "chunri",
+  "card": 12,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/TOTHEMOONCD"
+    }
+  ],
+  "description": {
+    "en": "XCP has exploded! To the Moon!!　That's what this Memorychain commemorative cards is all about, with a scene featuring the Crypto rabbit together with Chat on the XCP traveling upward toward the moon.",
+    "ja": "MemorychainでXCP爆上げきたーー！To the Moon！！　ということで作られた記念カード。 XCP号に乗ったCrypto兎がチャート共に月へ向かうシーンが描かれている。"
+  },
+  "id": "tothemooncd",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/TOTHEMOONCD.jpg",
+    "source": "TOTHEMOONCD.jpg"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "TOTHEMOONCD",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "tothemooncd",
+    "ja": "tothemooncd-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_622acf76963cb"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 11,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/LTCDOG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ltcdog",
+  "image": {
+    "local": "data/source/image/Oasis Mining/Genesis確定（2017-7-25 ローンチ済 25枚）/LTCDOG.png",
+    "source": "LTCDOG.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "LTCDOG",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "ltcdog",
+    "ja": "ltcdog-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_623270c3c5631"
+}

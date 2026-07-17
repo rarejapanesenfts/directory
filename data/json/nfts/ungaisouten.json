@@ -1,0 +1,35 @@
+{
+  "artistId": "emma",
+  "card": 1492,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/UNGAISOUTEN"
+    }
+  ],
+  "description": {
+    "en": "The four character Japanese phrase \"ungaisouten\" is used to refer to situations where good outcomes await those who strive to overcome difficulties (more poetically, it is similar to the line \"at the end of the storm, there's a golden sky\" from the English song \"You'll Never Walk Alone\").",
+    "ja": "「雲外蒼天（うんがいそうてん）」とは、「努力をして困難を乗り越えれば、その先にはいいことが待っている」という意味です。"
+  },
+  "id": "ungaisouten",
+  "image": {
+    "local": null,
+    "source": "UNGAISOUTEN.jpg"
+  },
+  "issued": {
+    "date": "2017-10",
+    "display": {
+      "en": "Oct 2017",
+      "ja": "2017年10月"
+    }
+  },
+  "name": "UNGAISOUTEN",
+  "publishedAt": "2017-10-11",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "ungaisouten",
+    "ja": "ungaisouten-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_6241781bf4023"
+}

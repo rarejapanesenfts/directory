@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 137,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCFLAMEDC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcflamedc",
+  "image": {
+    "local": null,
+    "source": "FWCFCFLAMEDC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCFLAMEDC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcflamedc",
+    "ja": "fwcfcflamedc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6224b3914d9f2"
+}

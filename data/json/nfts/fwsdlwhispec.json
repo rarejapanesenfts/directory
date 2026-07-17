@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 14,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLWHISPEC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlwhispec",
+  "image": {
+    "local": null,
+    "source": "FWSDLWHISPEC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLWHISPEC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlwhispec",
+    "ja": "fwsdlwhispec-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f62ee61b5a"
+}

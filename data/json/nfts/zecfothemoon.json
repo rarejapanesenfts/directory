@@ -1,0 +1,35 @@
+{
+  "artistId": "chunri",
+  "card": 26,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ZECFOTHEMOON"
+    }
+  ],
+  "description": {
+    "en": "ZEC is just can't be!! It's all hype! A crash. That's what this Memorychain commemorative cards is all about, in which the Crypto rabbit has climbed to the moon with a ZEC going but finds no moon at the end of the rope, and plummets along with Chat.",
+    "ja": "ZECダメじゃん！！勢いだけかよ！！暴落じゃん。　ということで作られた記念カード。 ZECコインを持って月へ登ったCrypto兎がロープの先に月は無く、チャートと共に急落していくシーンが描かれている。"
+  },
+  "id": "zecfothemoon",
+  "image": {
+    "local": "data/source/image/Memorychain/Third wave(26-37)/ZECFOTHEMOON.jpg",
+    "source": "ZECFOTHEMOON.jpg"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "ZECFOTHEMOON",
+  "publishedAt": "2017-05-09",
+  "seriesId": "memorychain/series-3",
+  "slug": {
+    "en": "zecfothemoon",
+    "ja": "zecfothemoon-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_622afac2ad245"
+}

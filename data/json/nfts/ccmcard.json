@@ -1,0 +1,35 @@
+{
+  "artistId": "spells-of-genesis",
+  "card": null,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CCMCARD"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ccmcard",
+  "image": {
+    "local": null,
+    "source": "CCMCARD.jpg"
+  },
+  "issued": {
+    "date": "2016-05",
+    "display": {
+      "en": "May 2016",
+      "ja": "2016年5月"
+    }
+  },
+  "name": "CCMCARD",
+  "publishedAt": "2016-05-13",
+  "seriesId": "japanese-sog",
+  "slug": {
+    "en": "ccmcard",
+    "ja": "ccmcard-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_626c19ef308ad"
+}

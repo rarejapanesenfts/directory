@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1177,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KIGURUMIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kigurumipepe",
+  "image": {
+    "local": null,
+    "source": "KIGURUMIPEPE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "KIGURUMIPEPE",
+  "publishedAt": "2017-07-28",
+  "seriesId": "japanese-rarepepe/series-24",
+  "slug": {
+    "en": "kigurumipepe",
+    "ja": "kigurumipepe-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a1cfb17598"
+}

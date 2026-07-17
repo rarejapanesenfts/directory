@@ -1,0 +1,35 @@
+{
+  "artistId": "ビケルマン",
+  "card": 63,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/RIPULE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ripule",
+  "image": {
+    "local": "data/source/image/Oasis Mining/3rd確定(2017-9-17ローンチ済15枚)/RIPULE.png",
+    "source": "RIPULE.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "RIPULE",
+  "publishedAt": "2017-09-17",
+  "seriesId": "oasis-mining/series-3",
+  "slug": {
+    "en": "ripule",
+    "ja": "ripule-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_623339dfbeff5"
+}

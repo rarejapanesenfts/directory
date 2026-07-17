@@ -1,0 +1,35 @@
+{
+  "artistId": "nftuber",
+  "card": 89,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MAIDSAFECHAN"
+    }
+  ],
+  "description": {
+    "en": "Characterized by a cute maid (Maid) and carrying the expectations of MaidSafe Coin's safe network!",
+    "ja": "MaidSafeコインのセーフネットワークへの期待を込めて可愛いMaidとしてキャラクター化しましたっ!"
+  },
+  "id": "maidsafechan",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/MAIDSAFECHAN.gif",
+    "source": "MAIDSAFECHAN.gif"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "MAIDSAFECHAN",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "maidsafechan",
+    "ja": "maidsafechan-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_622d308056bac"
+}

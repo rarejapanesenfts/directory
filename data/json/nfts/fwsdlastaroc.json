@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 34,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLASTAROC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlastaroc",
+  "image": {
+    "local": null,
+    "source": "FWSDLASTAROC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLASTAROC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlastaroc",
+    "ja": "fwsdlastaroc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f7dd16a4d5"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "タヌ神",
+  "card": 719,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PPPGLOBAL"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pppglobal",
+  "image": {
+    "local": null,
+    "source": "pppglobal.jpg"
+  },
+  "issued": {
+    "date": "2017-03",
+    "display": {
+      "en": "Mar 2017",
+      "ja": "2017年3月"
+    }
+  },
+  "name": "PPPGLOBAL",
+  "publishedAt": "2017-03-05",
+  "seriesId": "japanese-rarepepe/series-15",
+  "slug": {
+    "en": "pppglobal",
+    "ja": "pppglobal-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62894e0616ffd"
+}

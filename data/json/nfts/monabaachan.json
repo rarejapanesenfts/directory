@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 43,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MONABAACHAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "monabaachan",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/MONABAACHAN.png",
+    "source": "MONABAACHAN.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "MONABAACHAN",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "monabaachan",
+    "ja": "monabaachan-ja"
+  },
+  "totalSupply": 555,
+  "translationKey": "pll_6232b86b0e675"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 76,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/INAGO"
+    }
+  ],
+  "description": {
+    "en": "The taste of this dish is as sweet and spicy as ordinary tsukudani, beyond that it also has a refreshing flavor slightly resembling the taste of green tea leaves. The texture is similar to a small shrimp. In Japan, people who flock to rising cryptocurrencies are compared to locusts.",
+    "ja": "味は普通の佃煮と同じように甘辛く、それ以上に緑茶の葉の味に似た爽やかな風味がある。食感は小エビに似ている。 日本では、暗号通貨の高騰に群がる人々をイナゴに例えることがある。 2017年、イナゴの佃煮が量産された。"
+  },
+  "id": "inago",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/INAGO.png",
+    "source": "INAGO.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "INAGO",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "inago",
+    "ja": "inago-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_622bdf427901c"
+}

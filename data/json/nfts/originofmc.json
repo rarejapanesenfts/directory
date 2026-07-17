@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 11,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ORIGINOFMC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "originofmc",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/ORIGINOFMC.PNG",
+    "source": "ORIGINOFMC.jpg"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "ORIGINOFMC",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "originofmc",
+    "ja": "originofmc-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622acf43904dc"
+}

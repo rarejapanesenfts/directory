@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 1166,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HAIKUPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "haikupepe",
+  "image": {
+    "local": null,
+    "source": "HAIKUPEPE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "HAIKUPEPE",
+  "publishedAt": "2017-07-27",
+  "seriesId": "japanese-rarepepe/series-24",
+  "slug": {
+    "en": "haikupepe",
+    "ja": "haikupepe-ja"
+  },
+  "totalSupply": 181,
+  "translationKey": "pll_6233ce2ba60c0"
+}

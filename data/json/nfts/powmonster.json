@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 44,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/POWMONSTER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "powmonster",
+  "image": {
+    "local": "data/source/image/Memorychain/Fantastic fourth(38-54)/POWMONSTER.png",
+    "source": "POWMONSTER.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "POWMONSTER",
+  "publishedAt": "2017-05-27",
+  "seriesId": "memorychain/series-4",
+  "slug": {
+    "en": "powmonster",
+    "ja": "powmonster-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622bd70a56bc9"
+}

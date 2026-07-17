@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 21,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XASICBOOST"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xasicboost",
+  "image": {
+    "local": "data/source/image/Memorychain/Second generation(16-25)/XASICBOOST.PNG",
+    "source": "XASICBOOST.jpg"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "XASICBOOST",
+  "publishedAt": "2017-04-26",
+  "seriesId": "memorychain/series-2",
+  "slug": {
+    "en": "xasicboost",
+    "ja": "xasicboost-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622af9963f2c7"
+}

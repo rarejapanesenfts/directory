@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 8,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SHIRAHOSHIBG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "shirahoshibg",
+  "image": {
+    "local": null,
+    "source": "SHIRAHOSHIBG.jpg"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "SHIRAHOSHIBG",
+  "publishedAt": "2016-11-16",
+  "seriesId": "bitgirls/block2",
+  "slug": {
+    "en": "shirahoshibg",
+    "ja": "shirahoshibg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62176e11525f3"
+}

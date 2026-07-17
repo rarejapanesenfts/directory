@@ -1,0 +1,35 @@
+{
+  "artistId": "響",
+  "card": 51,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XRPTATTOO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xrptattoo",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/XRPTATTOO.png",
+    "source": "XRPTATTOO.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "XRPTATTOO",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "xrptattoo",
+    "ja": "xrptattoo-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_6232b9fd7ba96"
+}

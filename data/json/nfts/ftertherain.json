@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 1255,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FTERTHERAIN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ftertherain",
+  "image": {
+    "local": null,
+    "source": "FTERTHERAIN.gif"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "FTERTHERAIN",
+  "publishedAt": "2017-08-18",
+  "seriesId": "japanese-rarepepe/series-26",
+  "slug": {
+    "en": "ftertherain",
+    "ja": "ftertherain-ja"
+  },
+  "totalSupply": 333,
+  "translationKey": "pll_6218e0a85c81e"
+}

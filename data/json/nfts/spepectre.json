@@ -1,0 +1,35 @@
+{
+  "artistId": "エヌ",
+  "card": 1116,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SPEPECTRE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "spepectre",
+  "image": {
+    "local": null,
+    "source": "SPEPECTRE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "SPEPECTRE",
+  "publishedAt": "2017-07-24",
+  "seriesId": "japanese-rarepepe/series-23",
+  "slug": {
+    "en": "spepectre",
+    "ja": "spepectre-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_6218e5abc0d00"
+}

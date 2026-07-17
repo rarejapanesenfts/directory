@@ -1,0 +1,35 @@
+{
+  "artistId": "べた",
+  "card": 7,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ETHEREUMON"
+    }
+  ],
+  "description": {
+    "en": "\"ETHEREUMON\" is a token made into an electronic monster using old-fashioned pixel art under the motif of Ethereal. A large amount of legal tender and Bitcoin comprised the source of ICO at ERC20, with the appearance in 2017 of various shitcoins, which is expressed using animation as much as possible with this file size.",
+    "ja": "「ETHEREUMON」はイーサリアムをモチーフに、昔ながらのピクセルアートで電子モンスター化したトークンです。 大量の法定通貨やBitcoinがERC20でのICOの原資となり、様々なshitcoinに変わっていく2017年当時の姿を、ファイルサイズ上でできる限りのアニメーションで表現しました。"
+  },
+  "id": "ethereumon",
+  "image": {
+    "local": "data/source/image/Oasis Mining/Genesis確定（2017-7-25 ローンチ済 25枚）/ETHEREUMON.gif",
+    "source": "ETHEREUMON.gif"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "ETHEREUMON",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "ethereumon",
+    "ja": "ethereumon-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_62326fffabffc"
+}

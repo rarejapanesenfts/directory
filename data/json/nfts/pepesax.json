@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1360,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPESAX"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepesax",
+  "image": {
+    "local": null,
+    "source": "PEPESAX.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPESAX",
+  "publishedAt": "2017-09-03",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "pepesax",
+    "ja": "pepesax-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_621aaf9fb0d10"
+}

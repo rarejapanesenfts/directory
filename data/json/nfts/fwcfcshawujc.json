@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 97,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCSHAWUJC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcshawujc",
+  "image": {
+    "local": null,
+    "source": "FWCFCSHAWUJC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCSHAWUJC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcshawujc",
+    "ja": "fwcfcshawujc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_62235e25e5897"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "koji",
+  "card": 344,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HANSEIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "hanseipepe",
+  "image": {
+    "local": null,
+    "source": "hanseipepe.gif"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "HANSEIPEPE",
+  "publishedAt": "2016-11-05",
+  "seriesId": "japanese-rarepepe/series-07",
+  "slug": {
+    "en": "hanseipepe",
+    "ja": "hanseipepe-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6288c8f8baba3"
+}

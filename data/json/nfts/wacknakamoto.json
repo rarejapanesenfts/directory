@@ -1,0 +1,35 @@
+{
+  "artistId": "ごっつ",
+  "card": 1,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/WACKNAKAMOTO"
+    }
+  ],
+  "description": {
+    "en": "<span style=\"font-weight: 400;\">ビットコインの開発者サトシナカモトの正体は未だに分かっていません。そのことを風刺画にしました。イラストに記載しているテキストを英訳すると、「ビットコインを産み出した。その素性は誰も知らない。」になります。Memorychainにおける最初の作品です。</span>",
+    "ja": "ビットコインの開発者サトシナカモトの正体は未だに分かっていません。そのことを風刺画にしました。Memorychainにおける最初の作品です。"
+  },
+  "id": "wacknakamoto",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/WACKNAKAMOTO.png",
+    "source": "WACKNAKAMOTO.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "WACKNAKAMOTO",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "wacknakamoto",
+    "ja": "wacknakamoto-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_61fe30fdf22c9"
+}

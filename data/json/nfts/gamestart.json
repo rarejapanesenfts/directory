@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 141,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GAMESTART"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "gamestart",
+  "image": {
+    "local": "data/source/image/Memorychain/Fine 9/GAMESTART.png",
+    "source": "GAMESTART.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "GAMESTART",
+  "publishedAt": "2017-08-12",
+  "seriesId": "memorychain/series-9",
+  "slug": {
+    "en": "gamestart",
+    "ja": "gamestart-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622e93f61dddd"
+}

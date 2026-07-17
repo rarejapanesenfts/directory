@@ -1,0 +1,35 @@
+{
+  "artistId": "pepe-museum",
+  "card": 87,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MEMEPARTNERS"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "memepartners",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/MEMEPARTNERS.jpg",
+    "source": "MEMEPARTNERS.jpg"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "MEMEPARTNERS",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "memepartners",
+    "ja": "memepartners-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_622d3000b2767"
+}

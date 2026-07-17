@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 3,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SANOMAYABG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "sanomayabg",
+  "image": {
+    "local": null,
+    "source": "SANOMAYABG.jpg"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "SANOMAYABG",
+  "publishedAt": "2016-10-03",
+  "seriesId": "bitgirls/block1",
+  "slug": {
+    "en": "sanomayabg",
+    "ja": "sanomayabg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_621766e049c9c"
+}

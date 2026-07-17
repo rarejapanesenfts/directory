@@ -1,0 +1,35 @@
+{
+  "artistId": "nftuber",
+  "card": 60,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NEOCHANS"
+    }
+  ],
+  "description": {
+    "en": "The NEO chain that began as Antshares, a blockchain from China, is represented by two sexy sisters!",
+    "ja": "中華発のブロックチェーンとしてAntsharesからスタートしたNEOチェーンについて、セクシーな姉妹の可愛いキャラクターにして表現しましたっ！"
+  },
+  "id": "neochans",
+  "image": {
+    "local": "data/source/image/Oasis Mining/3rd確定(2017-9-17ローンチ済15枚)/NEOCHANS.png",
+    "source": "NEOCHANS.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "NEOCHANS",
+  "publishedAt": "2017-09-17",
+  "seriesId": "oasis-mining/series-3",
+  "slug": {
+    "en": "neochans",
+    "ja": "neochans-ja"
+  },
+  "totalSupply": 7777,
+  "translationKey": "pll_6232be011a208"
+}

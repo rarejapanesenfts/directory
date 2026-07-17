@@ -1,0 +1,35 @@
+{
+  "artistId": "onigiri",
+  "card": 1450,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEZAALBINO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepezaalbino",
+  "image": {
+    "local": null,
+    "source": "PEPEZAALBINO.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPEZAALBINO",
+  "publishedAt": "2017-09-30",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "pepezaalbino",
+    "ja": "pepezaalbino-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621aba3c4857e"
+}

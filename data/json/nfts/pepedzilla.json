@@ -1,0 +1,35 @@
+{
+  "artistId": "水瀬-亞里亞",
+  "card": 871,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEDZILLA"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepedzilla",
+  "image": {
+    "local": null,
+    "source": "PEPEDZILLA-1.png"
+  },
+  "issued": {
+    "date": "2017-03",
+    "display": {
+      "en": "Mar 2017",
+      "ja": "2017年3月"
+    }
+  },
+  "name": "PEPEDZILLA",
+  "publishedAt": "2017-03-31",
+  "seriesId": "japanese-rarepepe/series-18",
+  "slug": {
+    "en": "pepedzilla",
+    "ja": "pepedzilla-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_6218cbd808c7b"
+}

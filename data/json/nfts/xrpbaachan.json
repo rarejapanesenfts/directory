@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 24,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XRPBAACHAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xrpbaachan",
+  "image": {
+    "local": "data/source/image/Oasis Mining/Genesis確定（2017-7-25 ローンチ済 25枚）/XRPBAACHAN.png",
+    "source": "XRPBAACHAN.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "XRPBAACHAN",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "xrpbaachan",
+    "ja": "xrpbaachan-ja"
+  },
+  "totalSupply": 555,
+  "translationKey": "pll_6232746fc4627"
+}

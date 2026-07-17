@@ -1,0 +1,35 @@
+{
+  "artistId": "chunri",
+  "card": 86,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/LORDOTHEMOON"
+    }
+  ],
+  "description": {
+    "en": "Isn't it time to crawl up out of the Crypto swamp? It's a long way from the swamp to the moon. This card commemorates such feelings of despair. Behind Chat emerging from the swamp is a scene with a distant road along which the Cryptos and Crypto rabbit seek to become kings of the moon",
+    "ja": "Crypto沼からそろそろ這い上がるのかな？　沼から月まで遠いよな。という絶望感記念カード。 沼の中から顔を出したチャートの後ろで、Crypto達とCrypto兎が月の王になりたいと、遠い道のりを眺めるシーンが描かれている。"
+  },
+  "id": "lordothemoon",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/LORDOTHEMOON.jpg",
+    "source": "LORDOTHEMOON.jpg"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "LORDOTHEMOON",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "lordothemoon",
+    "ja": "lordothemoon-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_622d2fcf1cd5b"
+}

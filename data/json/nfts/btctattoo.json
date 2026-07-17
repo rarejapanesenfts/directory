@@ -1,0 +1,35 @@
+{
+  "artistId": "響",
+  "card": 41,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BTCTATTOO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "btctattoo",
+  "image": {
+    "local": "data/source/image/Memorychain/Fantastic fourth(38-54)/BTCTATTOO.jpg",
+    "source": "BTCTATTOO.jpg"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "BTCTATTOO",
+  "publishedAt": "2017-05-27",
+  "seriesId": "memorychain/series-4",
+  "slug": {
+    "en": "btctattoo",
+    "ja": "btctattoo-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_622bd675739e7"
+}

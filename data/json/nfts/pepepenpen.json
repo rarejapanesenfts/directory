@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 1239,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEPENPEN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepepenpen",
+  "image": {
+    "local": null,
+    "source": "PEPEPENPEN.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PEPEPENPEN",
+  "publishedAt": "2017-08-17",
+  "seriesId": "japanese-rarepepe/series-25",
+  "slug": {
+    "en": "pepepenpen",
+    "ja": "pepepenpen-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b77904d5d8"
+}

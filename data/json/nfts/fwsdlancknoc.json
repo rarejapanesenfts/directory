@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 35,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLANCKNOC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlancknoc",
+  "image": {
+    "local": null,
+    "source": "FWSDLANCKNOC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLANCKNOC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlancknoc",
+    "ja": "fwsdlancknoc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f7e400de0d"
+}

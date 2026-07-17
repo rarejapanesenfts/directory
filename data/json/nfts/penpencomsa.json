@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 62,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PENPENCOMSA"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "penpencomsa",
+  "image": {
+    "local": "data/source/image/Oasis Mining/3rd確定(2017-9-17ローンチ済15枚)/PENPENCOMSA.png",
+    "source": "PENPENCOMSA.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PENPENCOMSA",
+  "publishedAt": "2017-09-17",
+  "seriesId": "oasis-mining/series-3",
+  "slug": {
+    "en": "penpencomsa",
+    "ja": "penpencomsa-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_623339aebff09"
+}

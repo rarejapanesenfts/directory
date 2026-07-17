@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 315,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MONDRIANCORN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "mondriancorn",
+  "image": {
+    "local": null,
+    "source": "MONDRIANCORN.png"
+  },
+  "issued": {
+    "date": "2021-11",
+    "display": {
+      "en": "Nov 2021",
+      "ja": "2021年11月"
+    }
+  },
+  "name": "MONDRIANCORN",
+  "publishedAt": "2021-11-23",
+  "seriesId": "japanese-corn/harvest-15",
+  "slug": {
+    "en": "mondriancorn",
+    "ja": "mondriancorn-ja"
+  },
+  "totalSupply": 30,
+  "translationKey": "pll_626897e90ad59"
+}

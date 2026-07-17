@@ -1,0 +1,47 @@
+{
+  "artistId": "kappepe",
+  "card": 15,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GOXGIRL"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=GOXGIRL"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=GOXGIRL"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=GOXGIRL"
+    }
+  ],
+  "description": {
+    "en": "Where is our money ?\n\n&nbsp;\n\nアーティストからのコメント\n\n「最近再生計画案が承認されたのでbtcとbchをばら撒いているところで、それを表現してみました。 破綻から再生へといった感じでしょうか」",
+    "ja": "Where is our money ?\n\n&nbsp;\n\nアーティストからのコメント\n\n「最近再生計画案が承認されたのでbtcとbchをばら撒いているところで、それを表現してみました。 破綻から再生へといった感じでしょうか」"
+  },
+  "id": "goxgirl",
+  "image": {
+    "local": null,
+    "source": "GOXGIRL-1.png"
+  },
+  "issued": {
+    "date": "2021-12",
+    "display": {
+      "en": "Dec 2021",
+      "ja": "2021年12月"
+    }
+  },
+  "name": "GOXGIRL",
+  "publishedAt": "2021-12-10",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "goxgirl",
+    "ja": "goxgirl-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_622707a4b27d5"
+}

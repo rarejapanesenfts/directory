@@ -1,0 +1,35 @@
+{
+  "artistId": "emma",
+  "card": 1344,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FLOWERPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "flowerpepe",
+  "image": {
+    "local": null,
+    "source": "FLOWERPEPE.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "FLOWERPEPE",
+  "publishedAt": "2017-09-04",
+  "seriesId": "japanese-rarepepe/series-27",
+  "slug": {
+    "en": "flowerpepe",
+    "ja": "flowerpepe-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_624178d8997d0"
+}

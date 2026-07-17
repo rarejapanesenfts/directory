@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 1018,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KABUKIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kabukipepe",
+  "image": {
+    "local": null,
+    "source": "KABUKIPEPE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "KABUKIPEPE",
+  "publishedAt": "2017-07-03",
+  "seriesId": "japanese-rarepepe/series-21",
+  "slug": {
+    "en": "kabukipepe",
+    "ja": "kabukipepe-ja"
+  },
+  "totalSupply": 181,
+  "translationKey": "pll_6233cbdee1821"
+}

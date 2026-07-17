@@ -1,0 +1,35 @@
+{
+  "artistId": "spells-of-genesis",
+  "card": null,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ZAIFCARD"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "zaifcard",
+  "image": {
+    "local": null,
+    "source": "ZAIFCARD.jpg"
+  },
+  "issued": {
+    "date": "2015-10",
+    "display": {
+      "en": "Oct 2015",
+      "ja": "2015年10月"
+    }
+  },
+  "name": "ZAIFCARD",
+  "publishedAt": "2015-10-13",
+  "seriesId": "japanese-sog",
+  "slug": {
+    "en": "zaifcard",
+    "ja": "zaifcard-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_626c11461f8a2"
+}

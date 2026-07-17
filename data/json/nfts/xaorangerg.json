@@ -1,0 +1,35 @@
+{
+  "artistId": "念能力トレーダーm",
+  "card": 50,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XAORANGERG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xaorangerg",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/2nd修正版/XAORANGERG.gif",
+    "source": "XAORANGERG-.gif"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "XAORANGERG",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "xaorangerg",
+    "ja": "xaorangerg-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_6232b9d8ec575"
+}

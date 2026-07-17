@@ -1,0 +1,35 @@
+{
+  "artistId": "ミツコア",
+  "card": 42,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DOGECHAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "dogechan",
+  "image": {
+    "local": "data/source/image/Memorychain/Fantastic fourth(38-54)/DOGECHAN.png",
+    "source": "DOGECHAN.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "DOGECHAN",
+  "publishedAt": "2017-05-27",
+  "seriesId": "memorychain/series-4",
+  "slug": {
+    "en": "dogechan",
+    "ja": "dogechan-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_622bd6af54127"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "nftuber",
+  "card": 147,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NEOCHAN"
+    }
+  ],
+  "description": {
+    "en": "The NEO chain that began as Antshares, a blockchain from China, is represented by this cute character wearing traditional Chinese clothing!",
+    "ja": "中華発のブロックチェーンとしてAntsharesからスタートしたNEOチェーンについて、チャイナ服姿の可愛いキャラクターにしてみましたっ！"
+  },
+  "id": "neochan",
+  "image": {
+    "local": "data/source/image/Memorychain/Fine 9/NEOCHAN.png",
+    "source": "NEOCHAN.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "NEOCHAN",
+  "publishedAt": "2017-08-12",
+  "seriesId": "memorychain/series-9",
+  "slug": {
+    "en": "neochan",
+    "ja": "neochan-ja"
+  },
+  "totalSupply": 5000,
+  "translationKey": "pll_622e95254389f"
+}

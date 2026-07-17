@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 1350,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/JAPANESEPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "japanesepepe",
+  "image": {
+    "local": null,
+    "source": "JAPANESEPEPE.gif"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "JAPANESEPEPE",
+  "publishedAt": "2017-09-03",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "japanesepepe",
+    "ja": "japanesepepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b79749c4f3"
+}

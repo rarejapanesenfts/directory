@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 240,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NFCORN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "nfcorn",
+  "image": {
+    "local": null,
+    "source": "NFCORN.png"
+  },
+  "issued": {
+    "date": "2021-09",
+    "display": {
+      "en": "Sep 2021",
+      "ja": "2021年9月"
+    }
+  },
+  "name": "NFCORN",
+  "publishedAt": "2021-09-10",
+  "seriesId": "japanese-corn/harvest-14",
+  "slug": {
+    "en": "nfcorn",
+    "ja": "nfcorn-ja"
+  },
+  "totalSupply": 30,
+  "translationKey": "pll_62689638cd506"
+}

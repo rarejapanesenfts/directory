@@ -1,0 +1,47 @@
+{
+  "artistId": "kappepe",
+  "card": 12,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEBAZAAR"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=PEPEBAZAAR"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=PEPEBAZAAR"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=PEPEBAZAAR"
+    }
+  ],
+  "description": {
+    "en": "Kojiさんの名言\n「正直、自分でも何やってるんだろうと思います」\n\nアーティストからのコメント\n「名言的なものをということだったので、当初の作品に手を加えて無理やりこじつけてみました。某取引所リスペクトな作品に仕上がりましたw」",
+    "ja": "Kojiさんの名言\n「正直、自分でも何やってるんだろうと思います」\n\nアーティストからのコメント\n「名言的なものをということだったので、当初の作品に手を加えて無理やりこじつけてみました。某取引所リスペクトな作品に仕上がりましたw」"
+  },
+  "id": "pepebazaar",
+  "image": {
+    "local": null,
+    "source": "PEPEBAZAAR-1.png"
+  },
+  "issued": {
+    "date": "2021-11",
+    "display": {
+      "en": "Nov 2021",
+      "ja": "2021年11月"
+    }
+  },
+  "name": "PEPEBAZAAR",
+  "publishedAt": "2021-11-20",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "pepebazaar",
+    "ja": "pepebazaar-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_622705fd1ed85"
+}

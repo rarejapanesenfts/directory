@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 78,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCTHENAMC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcthenamc",
+  "image": {
+    "local": null,
+    "source": "FWCFCTHENAMC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCTHENAMC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcthenamc",
+    "ja": "fwcfcthenamc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_62221ca7a08a3"
+}

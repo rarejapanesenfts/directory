@@ -1,0 +1,35 @@
+{
+  "artistId": "aya",
+  "card": 311,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BREATHEDPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "breathedpepe",
+  "image": {
+    "local": null,
+    "source": "BREATHEDPEPE.gif"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "BREATHEDPEPE",
+  "publishedAt": "2016-10-27",
+  "seriesId": "japanese-rarepepe/series-07",
+  "slug": {
+    "en": "breathedpepe",
+    "ja": "breathedpepe-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_6288ad66b618c"
+}

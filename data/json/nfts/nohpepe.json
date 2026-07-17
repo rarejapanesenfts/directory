@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 1318,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NOHPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "nohpepe",
+  "image": {
+    "local": null,
+    "source": "NOHPEPE.jpg"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "NOHPEPE",
+  "publishedAt": "2017-08-28",
+  "seriesId": "japanese-rarepepe/series-27",
+  "slug": {
+    "en": "nohpepe",
+    "ja": "nohpepe-ja"
+  },
+  "totalSupply": 181,
+  "translationKey": "pll_6233cf53ce774"
+}

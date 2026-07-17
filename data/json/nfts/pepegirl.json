@@ -1,0 +1,35 @@
+{
+  "artistId": "エヌ",
+  "card": 1047,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEGIRL"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepegirl",
+  "image": {
+    "local": null,
+    "source": "PEPEGIRL.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "PEPEGIRL",
+  "publishedAt": "2017-07-04",
+  "seriesId": "japanese-rarepepe/series-21",
+  "slug": {
+    "en": "pepegirl",
+    "ja": "pepegirl-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_6218e509158f7"
+}

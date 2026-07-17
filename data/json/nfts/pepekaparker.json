@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1188,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEKAPARKER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepekaparker",
+  "image": {
+    "local": null,
+    "source": "PEPEKAPARKER.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "PEPEKAPARKER",
+  "publishedAt": "2017-07-30",
+  "seriesId": "japanese-rarepepe/series-24",
+  "slug": {
+    "en": "pepekaparker",
+    "ja": "pepekaparker-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a1dddadd4e"
+}

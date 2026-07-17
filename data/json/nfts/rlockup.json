@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 18,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/RLOCKUP"
+    }
+  ],
+  "description": {
+    "en": "The lockup plan is to lock up 90% (55 billion XRP) of Ripple's 63 billion XRP supply and release XRP to the market from January 2018 up to 1 billion XRP every month.",
+    "ja": "<div class=\"Qr7Oae\" role=\"listitem\">\n<div class=\"OxAavc NVbRL\" data-required=\"true\" data-item-id=\"1288746809\">\n<div class=\"Ih4Dzb\">\n<div class=\"q4tvle JqSWld yqQS1\">ロックアップ計画は、リップル社の供給量630億XRPの90％（550億XRP）をロックアップし、2018年1月から毎月10億XRPを上限にXRPを市場に放出するというものです。</div>\n</div>\n</div>\n</div>\n<div class=\"Qr7Oae\" role=\"listitem\">\n<div class=\"OxAavc NVbRL\" data-required=\"true\" data-item-id=\"882642373\">\n<div class=\"pYfr3c\">\n<div class=\"prOLdf\">\n<div class=\"g53bl\"></div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  "id": "rlockup",
+  "image": {
+    "local": "data/source/image/Oasis Mining/Genesis確定（2017-7-25 ローンチ済 25枚）/RLOCKUP.png",
+    "source": "RLOCKUP.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "RLOCKUP",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "rlockup",
+    "ja": "rlockup-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_623272373f5a6"
+}

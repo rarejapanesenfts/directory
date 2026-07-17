@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 296,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEGREEN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepegreen",
+  "image": {
+    "local": null,
+    "source": "PEPEGREEN.jpg"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "PEPEGREEN",
+  "publishedAt": "2016-10-25",
+  "seriesId": "japanese-rarepepe/series-06",
+  "slug": {
+    "en": "pepegreen",
+    "ja": "pepegreen-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_6233c2d491b22"
+}

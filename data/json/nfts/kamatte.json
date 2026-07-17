@@ -1,0 +1,47 @@
+{
+  "artistId": "pom779",
+  "card": 3,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KAMATTE"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=KAMATTE"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=KAMATTE%20Badger"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=KAMATTE%20Badger"
+    }
+  ],
+  "description": {
+    "en": "じっちゃまの名言\n\n「お前はただの構ってちゃんだ」\n\nKJ氏のツイートに対し、金融界隈の愛されキャラじっちゃまが引用リツイート「なんだ貴様っ！お前は単にリングにあがりたくてウズウズしているただの構ってちゃんだ。折りたたみ椅子でひっぱたくぞ！」\nこれを機に、ビットコイナー反省会で「今月のタカオ」コーナーを設ける。後日そのコーナーは廃止となるが、じっちゃまから「悲しいじゃないか」という感想がKJ氏のもとに届く。\n\nアーティストからのコメント\n「じっちゃまツイートをディスコ＆ファンキーな感じで描きました。発言のその後も「かまってチャンは折りたたみ椅子でひっぱたく！」といったやりとりやネタを何度か見ていたので、バックダンサーに折りたたみ椅子達を登場させました。」",
+    "ja": "じっちゃまの名言\n\n「お前はただの構ってちゃんだ」\n\nKJ氏のツイートに対し、金融界隈の愛されキャラじっちゃまが引用リツイート「なんだ貴様っ！お前は単にリングにあがりたくてウズウズしているただの構ってちゃんだ。折りたたみ椅子でひっぱたくぞ！」\nこれを機に、ビットコイナー反省会で「今月のタカオ」コーナーを設ける。後日そのコーナーは廃止となるが、じっちゃまから「悲しいじゃないか」という感想がKJ氏のもとに届く。\n\nアーティストからのコメント\n「じっちゃまツイートをディスコ＆ファンキーな感じで描きました。発言のその後も「かまってチャンは折りたたみ椅子でひっぱたく！」といったやりとりやネタを何度か見ていたので、バックダンサーに折りたたみ椅子達を登場させました。」"
+  },
+  "id": "kamatte",
+  "image": {
+    "local": null,
+    "source": "HanseikaiNFT_jityama-779-pom.png"
+  },
+  "issued": {
+    "date": "2021-10",
+    "display": {
+      "en": "Oct 2021",
+      "ja": "2021年10月"
+    }
+  },
+  "name": "KAMATTE",
+  "publishedAt": "2021-10-05",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "kamatte",
+    "ja": "kamatte-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_6226e46954b5f"
+}

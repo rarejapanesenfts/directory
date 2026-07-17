@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1114,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPETARO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepetaro",
+  "image": {
+    "local": null,
+    "source": "PEPETARO.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "PEPETARO",
+  "publishedAt": "2017-07-25",
+  "seriesId": "japanese-rarepepe/series-23",
+  "slug": {
+    "en": "pepetaro",
+    "ja": "pepetaro-2"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62022e787d6cc"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 1679,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPESGYM"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepesgym",
+  "image": {
+    "local": null,
+    "source": "PEPESGYM.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "PEPESGYM",
+  "publishedAt": "2018-03-03",
+  "seriesId": "japanese-rarepepe/series-34",
+  "slug": {
+    "en": "pepesgym",
+    "ja": "pepesgym-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621b5a6acfcd7"
+}

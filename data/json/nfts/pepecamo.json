@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 305,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPECAMO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepecamo",
+  "image": {
+    "local": null,
+    "source": "pepecamo1.jpg"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "PEPECAMO",
+  "publishedAt": "2016-10-26",
+  "seriesId": "japanese-rarepepe/series-07",
+  "slug": {
+    "en": "pepecamo",
+    "ja": "pepecamo-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_6233c32f7fc4b"
+}

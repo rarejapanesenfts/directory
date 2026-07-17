@@ -1,0 +1,35 @@
+{
+  "artistId": "チノ",
+  "card": 13,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NEMBAE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "nembae",
+  "image": {
+    "local": "data/source/image/Oasis Mining/Genesis確定（2017-7-25 ローンチ済 25枚）/NEMBAE.png",
+    "source": "NEMBAE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "NEMBAE",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "nembae",
+    "ja": "nembae-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_6232713b3be0a"
+}

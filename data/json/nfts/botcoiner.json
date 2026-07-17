@@ -1,0 +1,35 @@
+{
+  "artistId": "verylongunagi",
+  "card": 40,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BOTCOINER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "botcoiner",
+  "image": {
+    "local": "data/source/image/Memorychain/Fantastic fourth(38-54)/BOTCOINER.png",
+    "source": "BOTCOINER.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "BOTCOINER",
+  "publishedAt": "2017-05-27",
+  "seriesId": "memorychain/series-4",
+  "slug": {
+    "en": "botcoiner",
+    "ja": "botcoiner-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_622b02453c8b7"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 1461,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPETTER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepetter",
+  "image": {
+    "local": null,
+    "source": "PEPETTER.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPETTER",
+  "publishedAt": "2017-09-30",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "pepetter",
+    "ja": "pepetter-ja"
+  },
+  "totalSupply": 195,
+  "translationKey": "pll_621b579f56111"
+}

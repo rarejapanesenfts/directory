@@ -1,0 +1,35 @@
+{
+  "artistId": "らくがきac",
+  "card": 15,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MONASEGWIT"
+    }
+  ],
+  "description": {
+    "en": "A celebratory card made in praise of MonaCoin's Segwit.",
+    "ja": "モナコインのセグウィットをお祝いするために作られた、めでたいメモリーチェーンカードです。"
+  },
+  "id": "monasegwit",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/MONASEGWIT.png",
+    "source": "MONASEGWIT.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "MONASEGWIT",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "monasegwit",
+    "ja": "monasegwit-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622ad6f81d2c4"
+}

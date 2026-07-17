@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 73,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MASTERINGPC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "masteringpc",
+  "image": {
+    "local": "data/source/image/Memorychain/Fantastic fourth(38-54)/MASTERINGPC.png",
+    "source": "MASTERINGPC-1.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "MASTERINGPC",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "masteringpc",
+    "ja": "masteringpc-ja"
+  },
+  "totalSupply": 555,
+  "translationKey": "pll_622bdeba7061e"
+}

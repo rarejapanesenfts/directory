@@ -1,0 +1,39 @@
+{
+  "artistId": "tky",
+  "card": 23,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/JOSHIKI"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=JOSHIKI"
+    }
+  ],
+  "description": {
+    "en": "「諦めるしかない」／もっちー\n\nhttps://www.youtube.com/watch?v=SuQcp_EB7Vg\n\n&nbsp;\n\nアーティストからのコメント\n\n「”手元に50万円しかなくて 50万円以上のBTC現物を買いたい時どうする？”と質問され，つい育ちの良さが出てしまったもっちーさんの名言。顔は笑っていましたが，心の中ではこんな表情だったのではないでしょうか。負債を抱えないようにという啓蒙ポスターのようでもあります笑」",
+    "ja": "「諦めるしかない」／もっちー\n\nhttps://www.youtube.com/watch?v=SuQcp_EB7Vg\n\n&nbsp;\n\nアーティストからのコメント\n\n「”手元に50万円しかなくて 50万円以上のBTC現物を買いたい時どうする？”と質問され，つい育ちの良さが出てしまったもっちーさんの名言。顔は笑っていましたが，心の中ではこんな表情だったのではないでしょうか。負債を抱えないようにという啓蒙ポスターのようでもあります笑」"
+  },
+  "id": "joshiki",
+  "image": {
+    "local": null,
+    "source": "JOSHIKI.png"
+  },
+  "issued": {
+    "date": "2022-01",
+    "display": {
+      "en": "Jan 2022",
+      "ja": "2022年1月"
+    }
+  },
+  "name": "JOSHIKI",
+  "publishedAt": "2022-01-13",
+  "seriesId": "badger-capsule/badger-innovation-zone",
+  "slug": {
+    "en": "joshiki",
+    "ja": "joshiki-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_61eb05bdcf7c2"
+}

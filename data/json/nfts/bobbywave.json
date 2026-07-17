@@ -1,0 +1,35 @@
+{
+  "artistId": "verylongunagi",
+  "card": 53,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BOBBYWAVE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "bobbywave",
+  "image": {
+    "local": "data/source/image/Oasis Mining/3rd確定(2017-9-17ローンチ済15枚)/BOBBYWAVE.png",
+    "source": "BOBBYWAVE.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "BOBBYWAVE",
+  "publishedAt": "2017-09-17",
+  "seriesId": "oasis-mining/series-3",
+  "slug": {
+    "en": "bobbywave",
+    "ja": "bobbywave-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_6232bc86c252c"
+}

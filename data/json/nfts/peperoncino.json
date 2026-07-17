@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 1336,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPERONCINO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "peperoncino",
+  "image": {
+    "local": null,
+    "source": "PEPERONCINO.jpg"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PEPERONCINO",
+  "publishedAt": "2017-08-31",
+  "seriesId": "japanese-rarepepe/series-27",
+  "slug": {
+    "en": "peperoncino",
+    "ja": "peperoncino-ja"
+  },
+  "totalSupply": 181,
+  "translationKey": "pll_6233d0066c80f"
+}

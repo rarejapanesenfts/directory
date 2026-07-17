@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 23,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/YAMAGUCHIABG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "yamaguchiabg",
+  "image": {
+    "local": null,
+    "source": "YAMAGUCHIABG.jpg"
+  },
+  "issued": {
+    "date": "2017-01",
+    "display": {
+      "en": "Jan 2017",
+      "ja": "2017年1月"
+    }
+  },
+  "name": "YAMAGUCHIABG",
+  "publishedAt": "2017-01-23",
+  "seriesId": "bitgirls/block3",
+  "slug": {
+    "en": "yamaguchiabg",
+    "ja": "yamaguchiabg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_621367e6100af"
+}

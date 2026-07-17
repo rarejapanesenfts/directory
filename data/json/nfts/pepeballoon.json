@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1765,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEBALLOON"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepeballoon",
+  "image": {
+    "local": null,
+    "source": "PEPEBALLOON.gif"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "PEPEBALLOON",
+  "publishedAt": "2018-03-28",
+  "seriesId": "japanese-rarepepe/series-36",
+  "slug": {
+    "en": "pepeballoon",
+    "ja": "pepeballoon-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a23cd9d42b"
+}

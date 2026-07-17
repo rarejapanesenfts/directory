@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 626,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CRYSTALPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "crystalpepe",
+  "image": {
+    "local": null,
+    "source": "crystalpepe.gif"
+  },
+  "issued": {
+    "date": "2017-02",
+    "display": {
+      "en": "Feb 2017",
+      "ja": "2017年2月"
+    }
+  },
+  "name": "CRYSTALPEPE",
+  "publishedAt": "2017-02-27",
+  "seriesId": "japanese-rarepepe/series-13",
+  "slug": {
+    "en": "crystalpepe",
+    "ja": "crystalpepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_628949d03344c"
+}

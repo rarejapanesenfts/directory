@@ -1,0 +1,35 @@
+{
+  "artistId": "空廻ロジカ-sorane-logica",
+  "card": 32,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CCLOVERSNEM"
+    }
+  ],
+  "description": {
+    "en": "Anthropomorphic NEM images (Otome game style) for young girls.",
+    "ja": "NEMの乙女向け（Otome game style）擬人化です。"
+  },
+  "id": "ccloversnem",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/CCLOVERSNEM.png",
+    "source": "CCLOVERSNEM.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "CCLOVERSNEM",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "ccloversnem",
+    "ja": "ccloversnem-ja"
+  },
+  "totalSupply": 899,
+  "translationKey": "pll_623276c441cf8"
+}

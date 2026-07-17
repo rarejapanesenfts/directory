@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 81,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCSERVANC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcservanc",
+  "image": {
+    "local": null,
+    "source": "FWCFCSERVANC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCSERVANC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcservanc",
+    "ja": "fwcfcservanc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_62221ec86ca50"
+}

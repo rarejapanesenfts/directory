@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 3,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GOXANDTHEDAO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "goxandthedao",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/GOXANDTHEDAO.gif",
+    "source": "GOXANDTHEDAO.gif"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "GOXANDTHEDAO",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "goxandthedao",
+    "ja": "goxandthedao-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622acc9fab1e1"
+}

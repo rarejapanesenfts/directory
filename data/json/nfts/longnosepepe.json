@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 291,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/LONGNOSEPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "longnosepepe",
+  "image": {
+    "local": null,
+    "source": "LONGNOSEPEPE.gif"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "LONGNOSEPEPE",
+  "publishedAt": "2016-10-24",
+  "seriesId": "japanese-rarepepe/series-06",
+  "slug": {
+    "en": "longnosepepe",
+    "ja": "longnosepepe-ja"
+  },
+  "totalSupply": 109,
+  "translationKey": "pll_6233c27b9b475"
+}

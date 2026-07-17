@@ -1,0 +1,35 @@
+{
+  "artistId": "onigiri",
+  "card": 94,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BUNRETSU"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "bunretsu",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/BUNRETSU.png",
+    "source": "BUNRETSU.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "BUNRETSU",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "bunretsu",
+    "ja": "bunretsu-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d319616e54"
+}

@@ -1,0 +1,47 @@
+{
+  "artistId": "bb",
+  "card": 11,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HWFASHION"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=HWFASHION"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=HWFASHION"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=HWFASHION"
+    }
+  ],
+  "description": {
+    "en": "ジョーさんの名言\n「ハードウェアウォレットはファッションです」\n\nハードウェアウォレットであるLedger Nano Sを首飾りのファッションとして愛用しているビットコイナーが話題に。\n\nアーティストからのコメント\n「情報源はTwitterである事を宮本さんにお伝えください」",
+    "ja": "ジョーさんの名言\n「ハードウェアウォレットはファッションです」\n\nハードウェアウォレットであるLedger Nano Sを首飾りのファッションとして愛用しているビットコイナーが話題に。\n\nアーティストからのコメント\n「情報源はTwitterである事を宮本さんにお伝えください」"
+  },
+  "id": "hwfashion",
+  "image": {
+    "local": null,
+    "source": "HWFASHION.png"
+  },
+  "issued": {
+    "date": "2021-11",
+    "display": {
+      "en": "Nov 2021",
+      "ja": "2021年11月"
+    }
+  },
+  "name": "HWFASHION",
+  "publishedAt": "2021-11-09",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "hwfashion",
+    "ja": "hwfashion-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_622705a806f8a"
+}

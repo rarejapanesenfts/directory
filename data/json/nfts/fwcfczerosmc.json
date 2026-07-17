@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 144,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCZEROSMC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfczerosmc",
+  "image": {
+    "local": null,
+    "source": "FWCFCZEROSMC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCZEROSMC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfczerosmc",
+    "ja": "fwcfczerosmc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6224b92edde13"
+}

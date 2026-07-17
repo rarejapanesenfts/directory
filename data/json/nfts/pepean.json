@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1455,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepean",
+  "image": {
+    "local": null,
+    "source": "PEPEAN.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPEAN",
+  "publishedAt": "2017-09-30",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "pepean",
+    "ja": "pepean-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621ab38221dd8"
+}

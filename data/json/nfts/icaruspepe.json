@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 1004,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ICARUSPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "icaruspepe",
+  "image": {
+    "local": null,
+    "source": "ICARUSPEPE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "ICARUSPEPE",
+  "publishedAt": "2017-07-02",
+  "seriesId": "japanese-rarepepe/series-21",
+  "slug": {
+    "en": "icaruspepe",
+    "ja": "icaruspepe-ja"
+  },
+  "totalSupply": 3333,
+  "translationKey": "pll_6218dff9a287f"
+}

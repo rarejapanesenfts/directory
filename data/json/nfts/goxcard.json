@@ -1,0 +1,35 @@
+{
+  "artistId": "spells-of-genesis",
+  "card": null,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GOXCARD"
+    }
+  ],
+  "description": {
+    "en": "<!-- wp:paragraph -->\n<p><a href=\"https://spellsofgenesis.tumblr.com/post/132088125045/the-stealing-of-mountain-gox\">https://spellsofgenesis.tumblr.com/post/132088125045/the-stealing-of-mountain-gox</a></p>\n<!-- /wp:paragraph -->",
+    "ja": "<!-- wp:paragraph -->\n<p><a href=\"https://spellsofgenesis.tumblr.com/post/132088125045/the-stealing-of-mountain-gox\">https://spellsofgenesis.tumblr.com/post/132088125045/the-stealing-of-mountain-gox</a></p>\n<!-- /wp:paragraph -->"
+  },
+  "id": "goxcard",
+  "image": {
+    "local": null,
+    "source": "GOXCARD.jpg"
+  },
+  "issued": {
+    "date": "2015-10",
+    "display": {
+      "en": "Oct 2015",
+      "ja": "2015年10月"
+    }
+  },
+  "name": "GOXCARD",
+  "publishedAt": "2015-10-30",
+  "seriesId": "japanese-sog",
+  "slug": {
+    "en": "goxcard",
+    "ja": "goxcard-ja"
+  },
+  "totalSupply": 1200,
+  "translationKey": "pll_62898cea7f821"
+}

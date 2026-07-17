@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 6,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/TSUKASABG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "tsukasabg",
+  "image": {
+    "local": null,
+    "source": "TSUKASABG.jpg"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "TSUKASABG",
+  "publishedAt": "2016-10-03",
+  "seriesId": "bitgirls/block1",
+  "slug": {
+    "en": "tsukasabg",
+    "ja": "tsukasabg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62176ca435d84"
+}

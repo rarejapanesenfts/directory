@@ -1,0 +1,39 @@
+{
+  "artistId": "pom779",
+  "card": 8,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HAGEPEPE"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=HAGEPEPE"
+    }
+  ],
+  "description": {
+    "en": "なまはげ氏の名言\n「BSCは肥溜めとしては優秀」\n\nアーティストからのコメント\n「発言のパンチを活かしつつ、かわいい肥溜めを目指しました。」",
+    "ja": "なまはげ氏の名言\n「BSCは肥溜めとしては優秀」\n\nアーティストからのコメント\n「発言のパンチを活かしつつ、かわいい肥溜めを目指しました。」"
+  },
+  "id": "hagepepe",
+  "image": {
+    "local": null,
+    "source": "KOEDAME_pom-779-pom.png"
+  },
+  "issued": {
+    "date": "2021-10",
+    "display": {
+      "en": "Oct 2021",
+      "ja": "2021年10月"
+    }
+  },
+  "name": "HAGEPEPE",
+  "publishedAt": "2021-10-31",
+  "seriesId": "badger-capsule/badger-innovation-zone",
+  "slug": {
+    "en": "hagepepe",
+    "ja": "hagepepe-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_6227041525de0"
+}

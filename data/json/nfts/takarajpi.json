@@ -1,0 +1,35 @@
+{
+  "artistId": "kassy",
+  "card": 31,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/TAKARAJPI"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "takarajpi",
+  "image": {
+    "local": "data/source/image/Memorychain/Third wave(26-37)/TAKARAJPI.png",
+    "source": "TAKARAJPI.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "TAKARAJPI",
+  "publishedAt": "2017-05-10",
+  "seriesId": "memorychain/series-3",
+  "slug": {
+    "en": "takarajpi",
+    "ja": "takarajpi-ja"
+  },
+  "totalSupply": 108,
+  "translationKey": "pll_622afbe0619a8"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1711,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEADDICTS"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepeaddicts",
+  "image": {
+    "local": null,
+    "source": "PEPEADDICTS.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "PEPEADDICTS",
+  "publishedAt": "2018-03-18",
+  "seriesId": "japanese-rarepepe/series-35",
+  "slug": {
+    "en": "pepeaddicts",
+    "ja": "pepeaddicts-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a23062fa94"
+}

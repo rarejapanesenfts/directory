@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 7,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MIZUKIBG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "mizukibg",
+  "image": {
+    "local": null,
+    "source": "MIZUKIBG.jpg"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "MIZUKIBG",
+  "publishedAt": "2016-11-16",
+  "seriesId": "bitgirls/block2",
+  "slug": {
+    "en": "mizukibg",
+    "ja": "mizukibg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62176d5da1786"
+}

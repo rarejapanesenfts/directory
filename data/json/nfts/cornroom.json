@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 338,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CORNROOM"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cornroom",
+  "image": {
+    "local": null,
+    "source": "CORNROOM.gif"
+  },
+  "issued": {
+    "date": "2021-12",
+    "display": {
+      "en": "Dec 2021",
+      "ja": "2021年12月"
+    }
+  },
+  "name": "CORNROOM",
+  "publishedAt": "2021-12-12",
+  "seriesId": "japanese-corn/harvest-15",
+  "slug": {
+    "en": "cornroom",
+    "ja": "cornroom-ja"
+  },
+  "totalSupply": 30,
+  "translationKey": "pll_626bf0c880f09"
+}

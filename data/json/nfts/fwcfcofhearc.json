@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 70,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCOFHEARC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcofhearc",
+  "image": {
+    "local": null,
+    "source": "FWCFCOFHEARC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCOFHEARC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcofhearc",
+    "ja": "fwcfcofhearc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_62220a67313ec"
+}

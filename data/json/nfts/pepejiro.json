@@ -1,0 +1,35 @@
+{
+  "artistId": "onigiri",
+  "card": 1041,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEJIRO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepejiro",
+  "image": {
+    "local": null,
+    "source": "PEPEJIRO.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "PEPEJIRO",
+  "publishedAt": "2017-07-04",
+  "seriesId": "japanese-rarepepe/series-21",
+  "slug": {
+    "en": "pepejiro",
+    "ja": "pepejiro-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_621ab5940b9d6"
+}

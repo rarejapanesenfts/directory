@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 329,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPETODAMOON"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepetodamoon",
+  "image": {
+    "local": null,
+    "source": "todamoon.jpg"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "PEPETODAMOON",
+  "publishedAt": "2016-11-02",
+  "seriesId": "japanese-rarepepe/series-07",
+  "slug": {
+    "en": "pepetodamoon",
+    "ja": "pepetodamoon-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_6233c4b37135f"
+}

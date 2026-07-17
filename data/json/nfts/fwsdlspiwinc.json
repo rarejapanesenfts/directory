@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 19,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLSPIWINC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlspiwinc",
+  "image": {
+    "local": null,
+    "source": "FWSDLSPIWINC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLSPIWINC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlspiwinc",
+    "ja": "fwsdlspiwinc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f6d0c446a9"
+}

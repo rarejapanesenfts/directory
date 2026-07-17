@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 18,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLTAMAFAC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdltamafac",
+  "image": {
+    "local": null,
+    "source": "FWSDLTAMAFAC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLTAMAFAC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdltamafac",
+    "ja": "fwsdltamafac-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f65010a608"
+}

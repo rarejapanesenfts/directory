@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 98,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FICOB"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ficob",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/FICOB.PNG",
+    "source": "FICOB.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "FICOB",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "ficob",
+    "ja": "ficob-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d3348cf259"
+}

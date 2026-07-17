@@ -1,0 +1,35 @@
+{
+  "artistId": "笑猫",
+  "card": 1707,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KYUDOPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kyudopepe",
+  "image": {
+    "local": null,
+    "source": "KYUDOPEPE.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "KYUDOPEPE",
+  "publishedAt": "2018-03-17",
+  "seriesId": "japanese-rarepepe/series-35",
+  "slug": {
+    "en": "kyudopepe",
+    "ja": "kyudopepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621a3cb03eaaa"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 432,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DRONEPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "dronepepe",
+  "image": {
+    "local": null,
+    "source": "DRONEPEPE.gif"
+  },
+  "issued": {
+    "date": "2016-12",
+    "display": {
+      "en": "Dec 2016",
+      "ja": "2016年12月"
+    }
+  },
+  "name": "DRONEPEPE",
+  "publishedAt": "2016-12-08",
+  "seriesId": "japanese-rarepepe/series-09",
+  "slug": {
+    "en": "dronepepe",
+    "ja": "dronepepe-ja"
+  },
+  "totalSupply": 999999,
+  "translationKey": "pll_6233c8c327207"
+}

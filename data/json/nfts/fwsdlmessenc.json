@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 28,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLMESSENC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlmessenc",
+  "image": {
+    "local": null,
+    "source": "FWSDLMESSENC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLMESSENC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlmessenc",
+    "ja": "fwsdlmessenc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f7ad7bf7d6"
+}

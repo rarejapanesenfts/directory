@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 1577,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEPRAKEK"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepeprakek",
+  "image": {
+    "local": null,
+    "source": "PEPEPRAKEK.png"
+  },
+  "issued": {
+    "date": "2018-01",
+    "display": {
+      "en": "Jan 2018",
+      "ja": "2018年1月"
+    }
+  },
+  "name": "PEPEPRAKEK",
+  "publishedAt": "2018-01-31",
+  "seriesId": "japanese-rarepepe/series-32",
+  "slug": {
+    "en": "pepeprakek",
+    "ja": "pepeprakek-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_6218e190f41d5"
+}

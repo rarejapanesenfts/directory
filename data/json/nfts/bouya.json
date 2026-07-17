@@ -1,0 +1,35 @@
+{
+  "artistId": "hirosu",
+  "card": 4,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BOUYA"
+    }
+  ],
+  "description": {
+    "en": "\"My dad's job will disappear in a few years. AI or robots will take over that kind of job. It's just too inefficient, the way it's being done now. It's fine, though. I earn more than him. But I can't tell him. It would hurt him too much.\"\nThis year, the children's income from online mining far exceeded their father's annual pay.",
+    "ja": "「僕のパパは数年後にはAIロボに仕事を奪われるような非効率な職についているんだ。 まぁ、でも大丈夫だよ。もうパパの稼ぎは超えてるから。でも言っちゃだめだよ。 パパ傷つくから。」 この年、子供たちのマイニング収益は、お父さんの年収をはるかに超えていました。"
+  },
+  "id": "bouya",
+  "image": {
+    "local": "data/source/image/Oasis Mining/Genesis確定（2017-7-25 ローンチ済 25枚）/BOUYA.png",
+    "source": "BOUYA.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "BOUYA",
+  "publishedAt": "2017-07-25",
+  "seriesId": "oasis-mining/series-1",
+  "slug": {
+    "en": "bouya",
+    "ja": "bouya-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62326f0f8fa17"
+}

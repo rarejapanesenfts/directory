@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 1677,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEMERMAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepemerman",
+  "image": {
+    "local": null,
+    "source": "PEPEMERMAN.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "PEPEMERMAN",
+  "publishedAt": "2018-03-03",
+  "seriesId": "japanese-rarepepe/series-34",
+  "slug": {
+    "en": "pepemerman",
+    "ja": "pepemerman-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b59c6dcc29"
+}

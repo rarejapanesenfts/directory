@@ -1,0 +1,35 @@
+{
+  "artistId": "bb",
+  "card": 1503,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPECAFFE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepecaffe",
+  "image": {
+    "local": null,
+    "source": "PEPECAFFE.gif"
+  },
+  "issued": {
+    "date": "2018-01",
+    "display": {
+      "en": "Jan 2018",
+      "ja": "2018年1月"
+    }
+  },
+  "name": "PEPECAFFE",
+  "publishedAt": "2018-01-24",
+  "seriesId": "japanese-rarepepe/series-31",
+  "slug": {
+    "en": "pepecaffe",
+    "ja": "pepecaffe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62688d1cd8ce5"
+}

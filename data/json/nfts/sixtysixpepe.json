@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 323,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SIXTYSIXPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "sixtysixpepe",
+  "image": {
+    "local": null,
+    "source": "SIXTYSIXPEPE.gif"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "SIXTYSIXPEPE",
+  "publishedAt": "2016-10-31",
+  "seriesId": "japanese-rarepepe/series-07",
+  "slug": {
+    "en": "sixtysixpepe",
+    "ja": "sixtysixpepe-ja"
+  },
+  "totalSupply": 299,
+  "translationKey": "pll_6233c4518690d"
+}

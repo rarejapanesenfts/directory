@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 131,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCSTALKIC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcstalkic",
+  "image": {
+    "local": null,
+    "source": "FWCFCSTALKIC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCSTALKIC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcstalkic",
+    "ja": "fwcfcstalkic-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6224b14cba4d5"
+}

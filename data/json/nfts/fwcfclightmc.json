@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 63,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCLIGHTMC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfclightmc",
+  "image": {
+    "local": null,
+    "source": "FWCFCLIGHTMC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCLIGHTMC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfclightmc",
+    "ja": "fwcfclightmc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6220cfc00bbc7"
+}

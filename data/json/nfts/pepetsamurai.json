@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 1484,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPETSAMURAI"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepetsamurai",
+  "image": {
+    "local": null,
+    "source": "PEPETSAMURAI.jpg"
+  },
+  "issued": {
+    "date": "2017-10",
+    "display": {
+      "en": "Oct 2017",
+      "ja": "2017年10月"
+    }
+  },
+  "name": "PEPETSAMURAI",
+  "publishedAt": "2017-10-07",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "pepetsamurai",
+    "ja": "pepetsamurai-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b6beed5cc9"
+}

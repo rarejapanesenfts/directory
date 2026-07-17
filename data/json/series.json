@@ -1,0 +1,640 @@
+[
+  {
+    "collectionId": "badger-capsule",
+    "collectionName": "Badger Capsule",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "badger-capsule/badger-innovation-zone",
+    "name": "Badger Innovation Zone",
+    "nftCount": 13
+  },
+  {
+    "collectionId": "badger-capsule",
+    "collectionName": "Badger Capsule",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "badger-capsule/series-1",
+    "name": "Series 1",
+    "nftCount": 16
+  },
+  {
+    "collectionId": "bitgirls",
+    "collectionName": "BitGirls",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "bitgirls/block1",
+    "name": "Block1",
+    "nftCount": 6
+  },
+  {
+    "collectionId": "bitgirls",
+    "collectionName": "BitGirls",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "bitgirls/block2",
+    "name": "Block2",
+    "nftCount": 6
+  },
+  {
+    "collectionId": "bitgirls",
+    "collectionName": "BitGirls",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "bitgirls/block3",
+    "name": "Block3",
+    "nftCount": 6
+  },
+  {
+    "collectionId": "bitgirls",
+    "collectionName": "BitGirls",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "bitgirls/christmas",
+    "name": "Christmas",
+    "nftCount": 7
+  },
+  {
+    "collectionId": "bitgirls",
+    "collectionName": "BitGirls",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "bitgirls/special",
+    "name": "Special",
+    "nftCount": 2
+  },
+  {
+    "collectionId": "force-of-will",
+    "collectionName": "Force of Will",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "force-of-will",
+    "name": null,
+    "nftCount": 160
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-1",
+    "name": "Harvest #1",
+    "nftCount": 7
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-14",
+    "name": "Harvest #14",
+    "nftCount": 3
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-15",
+    "name": "Harvest #15",
+    "nftCount": 10
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-16",
+    "name": "Harvest #16",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-2",
+    "name": "Harvest #2",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-3",
+    "name": "Harvest #3",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-corn",
+    "collectionName": "Japanese Corn",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-corn/harvest-4",
+    "name": "Harvest #4",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-01",
+    "name": "Series 01",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-05",
+    "name": "Series 05",
+    "nftCount": 4
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-06",
+    "name": "Series 06",
+    "nftCount": 6
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-07",
+    "name": "Series 07",
+    "nftCount": 10
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-08",
+    "name": "Series 08",
+    "nftCount": 9
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-09",
+    "name": "Series 09",
+    "nftCount": 7
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-10",
+    "name": "Series 10",
+    "nftCount": 6
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-12",
+    "name": "Series 12",
+    "nftCount": 2
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-13",
+    "name": "Series 13",
+    "nftCount": 4
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-15",
+    "name": "Series 15",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-16",
+    "name": "Series 16",
+    "nftCount": 1
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-17",
+    "name": "Series 17",
+    "nftCount": 3
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-18",
+    "name": "Series 18",
+    "nftCount": 2
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-20",
+    "name": "Series 20",
+    "nftCount": 4
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-21",
+    "name": "Series 21",
+    "nftCount": 8
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-22",
+    "name": "Series 22",
+    "nftCount": 3
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-23",
+    "name": "Series 23",
+    "nftCount": 8
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-24",
+    "name": "Series 24",
+    "nftCount": 8
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-25",
+    "name": "Series 25",
+    "nftCount": 8
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-26",
+    "name": "Series 26",
+    "nftCount": 9
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-27",
+    "name": "Series 27",
+    "nftCount": 10
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-28",
+    "name": "Series 28",
+    "nftCount": 11
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-29",
+    "name": "Series 29",
+    "nftCount": 13
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-30",
+    "name": "Series 30",
+    "nftCount": 13
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-31",
+    "name": "Series 31",
+    "nftCount": 3
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-32",
+    "name": "Series 32",
+    "nftCount": 3
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-33",
+    "name": "Series 33",
+    "nftCount": 3
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-34",
+    "name": "Series 34",
+    "nftCount": 4
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-35",
+    "name": "Series 35",
+    "nftCount": 6
+  },
+  {
+    "collectionId": "japanese-rarepepe",
+    "collectionName": "Japanese Rarepepe",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-rarepepe/series-36",
+    "name": "Series 36",
+    "nftCount": 4
+  },
+  {
+    "collectionId": "japanese-sog",
+    "collectionName": "Japanese SoG",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "japanese-sog",
+    "name": null,
+    "nftCount": 14
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-1",
+    "name": "Series 1",
+    "nftCount": 15
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-2",
+    "name": "Series 2",
+    "nftCount": 10
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-3",
+    "name": "Series 3",
+    "nftCount": 13
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-4",
+    "name": "Series 4",
+    "nftCount": 15
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-5",
+    "name": "Series 5",
+    "nftCount": 17
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-6",
+    "name": "Series 6",
+    "nftCount": 20
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-7",
+    "name": "Series 7",
+    "nftCount": 29
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-8",
+    "name": "Series 8",
+    "nftCount": 18
+  },
+  {
+    "collectionId": "memorychain",
+    "collectionName": "Memorychain",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "memorychain/series-9",
+    "name": "Series 9",
+    "nftCount": 15
+  },
+  {
+    "collectionId": "oasis-mining",
+    "collectionName": "Oasis Mining",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "oasis-mining/series-1",
+    "name": "Series 1",
+    "nftCount": 25
+  },
+  {
+    "collectionId": "oasis-mining",
+    "collectionName": "Oasis Mining",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "oasis-mining/series-2",
+    "name": "Series 2",
+    "nftCount": 26
+  },
+  {
+    "collectionId": "oasis-mining",
+    "collectionName": "Oasis Mining",
+    "description": {
+      "en": null,
+      "ja": null
+    },
+    "id": "oasis-mining/series-3",
+    "name": "Series 3",
+    "nftCount": 15
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 16,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DOGEMUSK"
+    }
+  ],
+  "description": {
+    "en": "真面目ってなんだろう。\n\nhttps://youtu.be/6dY0FJuthuU?t=1234\n\n&nbsp;\n\nアーティストからのコメント\n\n「柴犬ブームに乗れなかった私の心境を表現してみました。」",
+    "ja": "真面目ってなんだろう。\n\nhttps://youtu.be/6dY0FJuthuU?t=1234\n\n&nbsp;\n\nアーティストからのコメント\n\n「柴犬ブームに乗れなかった私の心境を表現してみました。」"
+  },
+  "id": "dogemusk",
+  "image": {
+    "local": null,
+    "source": "DOGEMUSK-1.png"
+  },
+  "issued": {
+    "date": "2021-12",
+    "display": {
+      "en": "Dec 2021",
+      "ja": "2021年12月"
+    }
+  },
+  "name": "DOGEMUSK",
+  "publishedAt": "2021-12-20",
+  "seriesId": "badger-capsule/badger-innovation-zone",
+  "slug": {
+    "en": "dogemusk",
+    "ja": "dogemusk-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_62270819063b0"
+}

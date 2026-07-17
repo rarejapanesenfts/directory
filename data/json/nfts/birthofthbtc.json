@@ -1,0 +1,35 @@
+{
+  "artistId": "chunri",
+  "card": 92,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BIRTHOFTHBTC"
+    }
+  ],
+  "description": {
+    "en": "This has been issued as a card commemorating Cryptocurrency industry events.\nThe card commemorating the birth of BTC was initially not sold but created instead as a gift for anyone interested in XCP tokens.",
+    "ja": "仮想通貨界隈で起きた出来事をイラストにしたNFTとして発行されました。 BTCの誕生を記念するカードで、当初販売することはなく、XCPトークンに興味を持ってくれた人へのプレゼントとして作成されました。"
+  },
+  "id": "birthofthbtc",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/BIRTHOFTHBTC.png",
+    "source": "BIRTHOFTHBTC.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "BIRTHOFTHBTC",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "birthofthbtc",
+    "ja": "birthofthbtc-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d310c65673"
+}

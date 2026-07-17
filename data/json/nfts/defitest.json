@@ -1,0 +1,39 @@
+{
+  "artistId": "オクナモ",
+  "card": 21,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DEFITEST"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=DEFITEST"
+    }
+  ],
+  "description": {
+    "en": "Defi Test",
+    "ja": "Defi Test\n\nアーティストからのコメント\n\n「そのうちまじでゲンスラーあたりが\"Defi Test\"言い出すんじゃないかと思うので今のうちにチェーンに刻んでおきます。その時はぜカナゴールドさんに「私言いましたよね」って言ってほしいです。」"
+  },
+  "id": "defitest",
+  "image": {
+    "local": null,
+    "source": "DEFITEST.png"
+  },
+  "issued": {
+    "date": "2021-12",
+    "display": {
+      "en": "Dec 2021",
+      "ja": "2021年12月"
+    }
+  },
+  "name": "DEFITEST",
+  "publishedAt": "2021-12-30",
+  "seriesId": "badger-capsule/badger-innovation-zone",
+  "slug": {
+    "en": "defitest",
+    "ja": "defitest-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62270b0c20316"
+}

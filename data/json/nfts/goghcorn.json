@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 59,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GOGHCORN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "goghcorn",
+  "image": {
+    "local": null,
+    "source": "GOGHCORN.jpg"
+  },
+  "issued": {
+    "date": "2018-05",
+    "display": {
+      "en": "May 2018",
+      "ja": "2018年5月"
+    }
+  },
+  "name": "GOGHCORN",
+  "publishedAt": "2018-05-21",
+  "seriesId": "japanese-corn/harvest-1",
+  "slug": {
+    "en": "goghcorn",
+    "ja": "goghcorn-ja"
+  },
+  "totalSupply": 54,
+  "translationKey": "pll_6268935811b05"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 58,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLGOURMAC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlgourmac",
+  "image": {
+    "local": null,
+    "source": "FWSDLGOURMAC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLGOURMAC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlgourmac",
+    "ja": "fwsdlgourmac-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6220cc3793d83"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1225,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEFUYU"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepefuyu",
+  "image": {
+    "local": null,
+    "source": "PEPEFUYU.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PEPEFUYU",
+  "publishedAt": "2017-08-16",
+  "seriesId": "japanese-rarepepe/series-25",
+  "slug": {
+    "en": "pepefuyu",
+    "ja": "pepefuyu-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621aacee75873"
+}

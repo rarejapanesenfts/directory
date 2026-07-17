@@ -1,0 +1,35 @@
+{
+  "artistId": "エヌ",
+  "card": 13,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BIGONESTEP"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "bigonestep",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/BIGONESTEP.PNG",
+    "source": "BIGONESTEP.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "BIGONESTEP",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "bigonestep",
+    "ja": "bigonestep-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_622ad4c13e866"
+}

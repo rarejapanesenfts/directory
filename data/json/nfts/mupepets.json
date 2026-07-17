@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 1751,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MUPEPETS"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "mupepets",
+  "image": {
+    "local": null,
+    "source": "MUPEPETS.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "MUPEPETS",
+  "publishedAt": "2018-03-27",
+  "seriesId": "japanese-rarepepe/series-36",
+  "slug": {
+    "en": "mupepets",
+    "ja": "mupepets-ja"
+  },
+  "totalSupply": 117,
+  "translationKey": "pll_62898525a1e59"
+}

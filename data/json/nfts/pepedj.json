@@ -1,0 +1,35 @@
+{
+  "artistId": "tomocici",
+  "card": 1205,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEDJ"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepedj",
+  "image": {
+    "local": null,
+    "source": "PEPEDJ.jpg"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PEPEDJ",
+  "publishedAt": "2017-08-15",
+  "seriesId": "japanese-rarepepe/series-25",
+  "slug": {
+    "en": "pepedj",
+    "ja": "pepedj-2"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62896de6114f5"
+}

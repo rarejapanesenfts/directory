@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 36,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/EHARDFORK"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ehardfork",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/EHARDFORK.png",
+    "source": "EHARDFORK.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "EHARDFORK",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "ehardfork",
+    "ja": "ehardfork-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_6232779f2cf6d"
+}

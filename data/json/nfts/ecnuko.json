@@ -1,0 +1,35 @@
+{
+  "artistId": "メルキャット",
+  "card": 122,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ECNUKO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ecnuko",
+  "image": {
+    "local": "data/source/image/Memorychain/Elite 8/ECNUKO.png",
+    "source": "ECNUKO.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "ECNUKO",
+  "publishedAt": "2017-07-27",
+  "seriesId": "memorychain/series-8",
+  "slug": {
+    "en": "ecnuko",
+    "ja": "ecnuko-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622e8e93bb32d"
+}

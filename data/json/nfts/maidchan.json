@@ -1,0 +1,35 @@
+{
+  "artistId": "nftuber",
+  "card": 106,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MAIDCHAN"
+    }
+  ],
+  "description": {
+    "en": "Characterized by the cute sexy little Maid and carrying the expectations of MaidSafe Coin's safe network!",
+    "ja": "MaidSafeコインのセーフネットワークへの期待を込めてちょこっとセクシーで可愛いMaidとしてキャラクター化しましたっ!"
+  },
+  "id": "maidchan",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/MAIDCHAN.png",
+    "source": "MAIDCHAN.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "MAIDCHAN",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "maidchan",
+    "ja": "maidchan-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d36b5bc64a"
+}

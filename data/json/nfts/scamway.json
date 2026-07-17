@@ -1,0 +1,47 @@
+{
+  "artistId": "tky",
+  "card": 25,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SCAMWAY"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=SCAMWAY"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=SCAMWAY"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=SCAMWAY"
+    }
+  ],
+  "description": {
+    "en": "「良いスキャムと悪いスキャム」\n\n&nbsp;\n\nhttps://www.youtube.com/watch?v=3yfsXeT0JVc\n\n&nbsp;\n\nアーティストからのコメント\n\n「フォントで勝負シリーズの第2弾です」",
+    "ja": "「良いスキャムと悪いスキャム」\n\n&nbsp;\n\nhttps://www.youtube.com/watch?v=3yfsXeT0JVc\n\n&nbsp;\n\nアーティストからのコメント\n\n「フォントで勝負シリーズの第2弾です」"
+  },
+  "id": "scamway",
+  "image": {
+    "local": null,
+    "source": "SCAMWAY.png"
+  },
+  "issued": {
+    "date": "2022-01",
+    "display": {
+      "en": "Jan 2022",
+      "ja": "2022年1月"
+    }
+  },
+  "name": "SCAMWAY",
+  "publishedAt": "2022-01-18",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "scamway",
+    "ja": "scamway-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_61eb04c071bb3"
+}

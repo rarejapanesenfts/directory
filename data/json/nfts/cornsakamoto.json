@@ -1,0 +1,35 @@
+{
+  "artistId": "bb",
+  "card": 256,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CORNSAKAMOTO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cornsakamoto",
+  "image": {
+    "local": null,
+    "source": "CORNSAKAMOTO.png"
+  },
+  "issued": {
+    "date": "2021-10",
+    "display": {
+      "en": "Oct 2021",
+      "ja": "2021年10月"
+    }
+  },
+  "name": "CORNSAKAMOTO",
+  "publishedAt": "2021-10-14",
+  "seriesId": "japanese-corn/harvest-15",
+  "slug": {
+    "en": "cornsakamoto",
+    "ja": "cornsakamoto-ja"
+  },
+  "totalSupply": 10,
+  "translationKey": "pll_626a188135390"
+}

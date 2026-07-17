@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 42,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ISLANDSARU"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "islandsaru",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/ISLANDSARU.gif",
+    "source": "ISLANDSARU.gif"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "ISLANDSARU",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "islandsaru",
+    "ja": "islandsaru-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_6232b83ba9d26"
+}

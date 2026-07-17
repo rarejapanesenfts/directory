@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 13,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLWINDMAC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwsdlwindmac",
+  "image": {
+    "local": null,
+    "source": "FWSDLWINDMAC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWSDLWINDMAC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwsdlwindmac",
+    "ja": "fwsdlwindmac-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621f626df3f0e"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "x0xb0x",
+  "card": 321,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CORNSQUIGGLE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cornsquiggle",
+  "image": {
+    "local": null,
+    "source": "CORNSQUIGGLE.png"
+  },
+  "issued": {
+    "date": "2021-11",
+    "display": {
+      "en": "Nov 2021",
+      "ja": "2021年11月"
+    }
+  },
+  "name": "CORNSQUIGGLE",
+  "publishedAt": "2021-11-24",
+  "seriesId": "japanese-corn/harvest-15",
+  "slug": {
+    "en": "cornsquiggle",
+    "ja": "cornsquiggle-ja"
+  },
+  "totalSupply": 40,
+  "translationKey": "pll_626bf69e462ed"
+}

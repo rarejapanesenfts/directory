@@ -1,0 +1,35 @@
+{
+  "artistId": "mekabu",
+  "card": 1294,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HAPPYRAINY"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "happyrainy",
+  "image": {
+    "local": null,
+    "source": "HAPPYRAINY.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "HAPPYRAINY",
+  "publishedAt": "2017-08-22",
+  "seriesId": "japanese-rarepepe/series-26",
+  "slug": {
+    "en": "happyrainy",
+    "ja": "happyrainy-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_6233cf9567bcf"
+}

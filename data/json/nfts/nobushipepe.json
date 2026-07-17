@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 1710,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/NOBUSHIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "nobushipepe",
+  "image": {
+    "local": null,
+    "source": "NOBUSHIPEPE.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "NOBUSHIPEPE",
+  "publishedAt": "2018-05-18",
+  "seriesId": "japanese-rarepepe/series-35",
+  "slug": {
+    "en": "nobushipepe",
+    "ja": "nobushipepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_6288b7fb60a4e"
+}

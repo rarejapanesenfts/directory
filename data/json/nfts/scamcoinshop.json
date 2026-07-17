@@ -1,0 +1,35 @@
+{
+  "artistId": "響",
+  "card": 74,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SCAMCOINSHOP"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "scamcoinshop",
+  "image": {
+    "local": "data/source/image/Memorychain/Sixth sense/SCAMCOINSHOP.png",
+    "source": "SCAMCOINSHOP.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "SCAMCOINSHOP",
+  "publishedAt": "2017-06-25",
+  "seriesId": "memorychain/series-6",
+  "slug": {
+    "en": "scamcoinshop",
+    "ja": "scamcoinshop-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_622bdeeb502bc"
+}

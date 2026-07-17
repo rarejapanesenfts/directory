@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 1394,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/TEMPURAPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "tempurapepe",
+  "image": {
+    "local": null,
+    "source": "TEMPURAPEPE.gif"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "TEMPURAPEPE",
+  "publishedAt": "2017-09-13",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "tempurapepe",
+    "ja": "tempurapepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b7a1e3e7f8"
+}

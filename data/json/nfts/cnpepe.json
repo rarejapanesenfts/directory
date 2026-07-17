@@ -1,0 +1,35 @@
+{
+  "artistId": "koji",
+  "card": 619,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CNPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cnpepe",
+  "image": {
+    "local": null,
+    "source": "cnpepe.png"
+  },
+  "issued": {
+    "date": "2017-02",
+    "display": {
+      "en": "Feb 2017",
+      "ja": "2017年2月"
+    }
+  },
+  "name": "CNPEPE",
+  "publishedAt": "2017-02-27",
+  "seriesId": "japanese-rarepepe/series-13",
+  "slug": {
+    "en": "cnpepe",
+    "ja": "cnpepe-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6288c9f08c0de"
+}

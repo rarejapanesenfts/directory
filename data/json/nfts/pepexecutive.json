@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 1028,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEXECUTIVE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepexecutive",
+  "image": {
+    "local": null,
+    "source": "PEPEXECUTIVE.gif"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "PEPEXECUTIVE",
+  "publishedAt": "2017-07-05",
+  "seriesId": "japanese-rarepepe/series-21",
+  "slug": {
+    "en": "pepexecutive",
+    "ja": "pepexecutive-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_6233cc863d2fc"
+}

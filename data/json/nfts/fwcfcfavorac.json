@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 105,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCFAVORAC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcfavorac",
+  "image": {
+    "local": null,
+    "source": "FWCFCFAVORAC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCFAVORAC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcfavorac",
+    "ja": "fwcfcfavorac-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_62236e07c4e99"
+}

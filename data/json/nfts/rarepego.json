@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1524,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/RAREPEGO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "rarepego",
+  "image": {
+    "local": null,
+    "source": "RAREPEGO.gif"
+  },
+  "issued": {
+    "date": "2018-01",
+    "display": {
+      "en": "Jan 2018",
+      "ja": "2018年1月"
+    }
+  },
+  "name": "RAREPEGO",
+  "publishedAt": "2018-01-27",
+  "seriesId": "japanese-rarepepe/series-31",
+  "slug": {
+    "en": "rarepego",
+    "ja": "rarepego-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a20afb5f4c"
+}

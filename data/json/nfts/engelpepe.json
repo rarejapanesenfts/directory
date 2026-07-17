@@ -1,0 +1,35 @@
+{
+  "artistId": "響",
+  "card": 1066,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ENGELPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "engelpepe",
+  "image": {
+    "local": null,
+    "source": "ENGELPEPE.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "ENGELPEPE",
+  "publishedAt": "2017-07-06",
+  "seriesId": "japanese-rarepepe/series-22",
+  "slug": {
+    "en": "engelpepe",
+    "ja": "engelpepe-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a3dc526587"
+}

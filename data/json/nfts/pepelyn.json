@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 455,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPELYN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepelyn",
+  "image": {
+    "local": null,
+    "source": "pepelyncomplete.gif"
+  },
+  "issued": {
+    "date": "2016-12",
+    "display": {
+      "en": "Dec 2016",
+      "ja": "2016年12月"
+    }
+  },
+  "name": "PEPELYN",
+  "publishedAt": "2016-12-23",
+  "seriesId": "japanese-rarepepe/series-10",
+  "slug": {
+    "en": "pepelyn",
+    "ja": "pepelyn-ja"
+  },
+  "totalSupply": 999999,
+  "translationKey": "pll_6218dcbf43de1"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "spells-of-genesis",
+  "card": null,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCTHEMONC"
+    }
+  ],
+  "description": {
+    "en": "<!-- wp:paragraph -->\n<p><a href=\"https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration\">https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration</a></p>\n<!-- /wp:paragraph -->",
+    "ja": "<!-- wp:paragraph -->\n<p><a href=\"https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration\">https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration</a></p>\n<!-- /wp:paragraph -->"
+  },
+  "id": "fwcfcthemonc-sog",
+  "image": {
+    "local": null,
+    "source": "FWCFCTHEMONC.jpg"
+  },
+  "issued": {
+    "date": "2017-02",
+    "display": {
+      "en": "Feb 2017",
+      "ja": "2017年2月"
+    }
+  },
+  "name": "FWCFCTHEMONC",
+  "publishedAt": "2017-02-07",
+  "seriesId": "japanese-sog",
+  "slug": {
+    "en": "fwcfcthemonc-sog",
+    "ja": "fwcfcthemonc-sog-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_628996c3409c9"
+}

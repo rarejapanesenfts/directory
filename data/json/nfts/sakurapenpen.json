@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 1669,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SAKURAPENPEN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "sakurapenpen",
+  "image": {
+    "local": null,
+    "source": "SAKURAPENPEN.png"
+  },
+  "issued": {
+    "date": "2018-03",
+    "display": {
+      "en": "Mar 2018",
+      "ja": "2018年3月"
+    }
+  },
+  "name": "SAKURAPENPEN",
+  "publishedAt": "2018-03-02",
+  "seriesId": "japanese-rarepepe/series-34",
+  "slug": {
+    "en": "sakurapenpen",
+    "ja": "sakurapenpen-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621b897780adc"
+}

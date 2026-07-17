@@ -1,0 +1,35 @@
+{
+  "artistId": "koji",
+  "card": 208,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KOJIPEPE"
+    }
+  ],
+  "description": {
+    "en": "<span style=\"font-weight: 400;\">KOJIPEPEはRarepepeエコシステムへの貢献の感謝の印として、ROBNESSがKoji Higashiの為にデザインしたトークンです。その経緯もあり、今もKOJIPEPEはカウンターパーティやRarepepeへの貢献者に感謝の印として個別に配布されており、それ以外は市場で売りに出されることは滅多にありません。また、KOJIPEPEはシリーズ5以降Japanese Pepeが生み出されるきっかけとなった作品でもあります。</span>",
+    "ja": "<span style=\"font-weight: 400;\">KOJIPEPEはRarepepeエコシステムへの貢献の感謝の印として、ROBNESSがKoji Higashiの為にデザインしたトークンです。その経緯もあり、今もKOJIPEPEはカウンターパーティやRarepepeへの貢献者に感謝の印として個別に配布されており、それ以外は市場で売りに出されることは滅多にありません。また、KOJIPEPEはシリーズ5以降Japanese Pepeが生み出されるきっかけとなった作品でもあります。</span>"
+  },
+  "id": "kojipepe",
+  "image": {
+    "local": null,
+    "source": "kojipepe.jpg"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "KOJIPEPE",
+  "publishedAt": "2016-10-15",
+  "seriesId": "japanese-rarepepe/series-05",
+  "slug": {
+    "en": "kojipepe",
+    "ja": "kojipepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_61fe148fc5f44"
+}

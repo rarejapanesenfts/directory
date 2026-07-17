@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1259,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPESUMMER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepesummer",
+  "image": {
+    "local": null,
+    "source": "PEPESUMMER.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PEPESUMMER",
+  "publishedAt": "2017-08-18",
+  "seriesId": "japanese-rarepepe/series-26",
+  "slug": {
+    "en": "pepesummer",
+    "ja": "pepesummer-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_621aad93d041c"
+}

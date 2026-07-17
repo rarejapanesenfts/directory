@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 1367,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEZONCARD"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepezoncard",
+  "image": {
+    "local": null,
+    "source": "PEPEZONCARD.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPEZONCARD",
+  "publishedAt": "2017-09-04",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "pepezoncard",
+    "ja": "pepezoncard-ja"
+  },
+  "totalSupply": 200,
+  "translationKey": "pll_621b559ce0354"
+}

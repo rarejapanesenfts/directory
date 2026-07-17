@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 24,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ECOBITMAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ecobitman",
+  "image": {
+    "local": "data/source/image/Memorychain/Second generation(16-25)/ECOBITMAN.png",
+    "source": "ECOBITMAN.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "ECOBITMAN",
+  "publishedAt": "2017-04-26",
+  "seriesId": "memorychain/series-2",
+  "slug": {
+    "en": "ecobitman",
+    "ja": "ecobitman-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622afa27cd942"
+}

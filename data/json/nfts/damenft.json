@@ -1,0 +1,39 @@
+{
+  "artistId": "tky",
+  "card": 24,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/DAMENFT"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=DAMENFT"
+    }
+  ],
+  "description": {
+    "en": "DAMENFT",
+    "ja": null
+  },
+  "id": "damenft",
+  "image": {
+    "local": null,
+    "source": "DAMENFT.png"
+  },
+  "issued": {
+    "date": "2022-01",
+    "display": {
+      "en": "Jan 2022",
+      "ja": "2022年1月"
+    }
+  },
+  "name": "DAMENFT",
+  "publishedAt": "2022-01-18",
+  "seriesId": "badger-capsule/badger-innovation-zone",
+  "slug": {
+    "en": "damenft",
+    "ja": "damenft-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_61eb028e84bb2"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "aya",
+  "card": 17,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/HAIRPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "hairpepe",
+  "image": {
+    "local": null,
+    "source": "HAIRPEPE.png"
+  },
+  "issued": {
+    "date": "2016-09",
+    "display": {
+      "en": "Sep 2016",
+      "ja": "2016年9月"
+    }
+  },
+  "name": "HAIRPEPE",
+  "publishedAt": "2016-09-23",
+  "seriesId": "japanese-rarepepe/series-01",
+  "slug": {
+    "en": "hairpepe",
+    "ja": "hairpepe-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_626c146100310"
+}

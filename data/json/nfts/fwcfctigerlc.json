@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 128,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCTIGERLC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfctigerlc",
+  "image": {
+    "local": null,
+    "source": "FWCFCTIGERLC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCTIGERLC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfctigerlc",
+    "ja": "fwcfctigerlc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6224b0204f0ad"
+}

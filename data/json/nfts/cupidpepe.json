@@ -1,0 +1,35 @@
+{
+  "artistId": "tomocici",
+  "card": 1372,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CUPIDPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cupidpepe",
+  "image": {
+    "local": null,
+    "source": "CUPIDPEPE.jpg"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "CUPIDPEPE",
+  "publishedAt": "2017-09-05",
+  "seriesId": "japanese-rarepepe/series-28",
+  "slug": {
+    "en": "cupidpepe",
+    "ja": "cupidpepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_62896f7547f20"
+}

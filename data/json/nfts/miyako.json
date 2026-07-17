@@ -1,0 +1,35 @@
+{
+  "artistId": "藤堂竜白",
+  "card": 1472,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MIYAKO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "miyako",
+  "image": {
+    "local": null,
+    "source": "MIYAKO.png"
+  },
+  "issued": {
+    "date": "2017-10",
+    "display": {
+      "en": "Oct 2017",
+      "ja": "2017年10月"
+    }
+  },
+  "name": "MIYAKO",
+  "publishedAt": "2017-10-02",
+  "seriesId": "japanese-rarepepe/series-30",
+  "slug": {
+    "en": "miyako",
+    "ja": "miyako-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_621a3eaadd9ee"
+}

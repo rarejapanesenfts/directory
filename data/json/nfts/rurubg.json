@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 12,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/RURUBG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "rurubg",
+  "image": {
+    "local": null,
+    "source": "RURUBG.jpg"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "RURUBG",
+  "publishedAt": "2016-11-17",
+  "seriesId": "bitgirls/block2",
+  "slug": {
+    "en": "rurubg",
+    "ja": "rurubg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62184ca73ef58"
+}

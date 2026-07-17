@@ -1,0 +1,35 @@
+{
+  "artistId": "myon9",
+  "card": 596,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/THISPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "thispepe",
+  "image": {
+    "local": null,
+    "source": "thispepe3.png"
+  },
+  "issued": {
+    "date": "2017-02",
+    "display": {
+      "en": "Feb 2017",
+      "ja": "2017年2月"
+    }
+  },
+  "name": "THISPEPE",
+  "publishedAt": "2017-02-20",
+  "seriesId": "japanese-rarepepe/series-12",
+  "slug": {
+    "en": "thispepe",
+    "ja": "thispepe-ja"
+  },
+  "totalSupply": 666,
+  "translationKey": "pll_621a1ae69732f"
+}

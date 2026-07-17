@@ -1,0 +1,35 @@
+{
+  "artistId": "onigiri",
+  "card": 1444,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEDARKSIDE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepedarkside",
+  "image": {
+    "local": null,
+    "source": "PEPEDARKSIDE.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPEDARKSIDE",
+  "publishedAt": "2017-09-28",
+  "seriesId": "japanese-rarepepe/series-29",
+  "slug": {
+    "en": "pepedarkside",
+    "ja": "pepedarkside-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_621ab993ede45"
+}

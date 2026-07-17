@@ -1,0 +1,35 @@
+{
+  "artistId": "ウーピン",
+  "card": 142,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MGOINVADER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "mgoinvader",
+  "image": {
+    "local": "data/source/image/Memorychain/Fine 9/MGOINVADER.png",
+    "source": "MGOINVADER.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "MGOINVADER",
+  "publishedAt": "2017-08-12",
+  "seriesId": "memorychain/series-9",
+  "slug": {
+    "en": "mgoinvader",
+    "ja": "mgoinvader-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622e9425e245d"
+}

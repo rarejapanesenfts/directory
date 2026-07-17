@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 24,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SHIMARENABG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "shimarenabg",
+  "image": {
+    "local": null,
+    "source": "SHIMARENABG.jpg"
+  },
+  "issued": {
+    "date": "2017-01",
+    "display": {
+      "en": "Jan 2017",
+      "ja": "2017年1月"
+    }
+  },
+  "name": "SHIMARENABG",
+  "publishedAt": "2017-01-23",
+  "seriesId": "bitgirls/block3",
+  "slug": {
+    "en": "shimarenabg",
+    "ja": "shimarenabg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_621cc389cbdb8"
+}

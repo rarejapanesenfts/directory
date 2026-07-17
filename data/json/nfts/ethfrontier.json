@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 36,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ETHFRONTIER"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ethfrontier",
+  "image": {
+    "local": "data/source/image/Memorychain/Third wave(26-37)/ETHFRONTIER.png",
+    "source": "ETHFRONTIER.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "ETHFRONTIER",
+  "publishedAt": "2017-05-10",
+  "seriesId": "memorychain/series-3",
+  "slug": {
+    "en": "ethfrontier",
+    "ja": "ethfrontier-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622b01399b07d"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "ミツコア",
+  "card": 108,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MOMEJINJA"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "momejinja",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/MOMEJINJA.png",
+    "source": "MOMEJINJA.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "MOMEJINJA",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "momejinja",
+    "ja": "momejinja-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d370dc6335"
+}

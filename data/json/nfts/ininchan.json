@@ -1,0 +1,35 @@
+{
+  "artistId": "emma",
+  "card": 41,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ININCHAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ininchan",
+  "image": {
+    "local": "data/source/image/Oasis Mining/2nd確定(2017-8-8 ローンチ済 26枚)/ININCHAN.png",
+    "source": "ININCHAN.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "ININCHAN",
+  "publishedAt": "2017-08-08",
+  "seriesId": "oasis-mining/series-2",
+  "slug": {
+    "en": "ininchan",
+    "ja": "ininchan-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_6232b815a50ac"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "force-of-will",
+  "card": 66,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWCFCOFSCORC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "fwcfcofscorc",
+  "image": {
+    "local": null,
+    "source": "FWCFCOFSCORC.png"
+  },
+  "issued": {
+    "date": "2016-11",
+    "display": {
+      "en": "Nov 2016",
+      "ja": "2016年11月"
+    }
+  },
+  "name": "FWCFCOFSCORC",
+  "publishedAt": "2016-11-28",
+  "seriesId": "force-of-will",
+  "slug": {
+    "en": "fwcfcofscorc",
+    "ja": "fwcfcofscorc-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6220d11bbe843"
+}

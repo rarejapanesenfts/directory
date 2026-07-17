@@ -1,0 +1,35 @@
+{
+  "artistId": "たろふあ",
+  "card": 810,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KAPPAPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kappapepe",
+  "image": {
+    "local": null,
+    "source": "kappapepe.jpg"
+  },
+  "issued": {
+    "date": "2017-03",
+    "display": {
+      "en": "Mar 2017",
+      "ja": "2017年3月"
+    }
+  },
+  "name": "KAPPAPEPE",
+  "publishedAt": "2017-03-23",
+  "seriesId": "japanese-rarepepe/series-17",
+  "slug": {
+    "en": "kappapepe",
+    "ja": "kappapepe-ja"
+  },
+  "totalSupply": 108,
+  "translationKey": "pll_6233ca849f973"
+}

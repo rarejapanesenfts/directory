@@ -1,0 +1,35 @@
+{
+  "artistId": "エヌ",
+  "card": 1295,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KUMADORIPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kumadoripepe",
+  "image": {
+    "local": null,
+    "source": "KUMADORIPEPE.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "KUMADORIPEPE",
+  "publishedAt": "2017-08-22",
+  "seriesId": "japanese-rarepepe/series-26",
+  "slug": {
+    "en": "kumadoripepe",
+    "ja": "kumadoripepe-ja"
+  },
+  "totalSupply": 222,
+  "translationKey": "pll_6218e8c12e7bc"
+}

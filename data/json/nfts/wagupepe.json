@@ -1,0 +1,47 @@
+{
+  "artistId": "pom779",
+  "card": 18,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/WAGUPEPE"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=WAGUPEPE"
+    },
+    {
+      "name": "Ethereum",
+      "url": "https://opensea.io/assets?search[chains][0]=ETHEREUM&search[query]=WAGUPEPE"
+    },
+    {
+      "name": "Polygon",
+      "url": "https://opensea.io/assets?search[chains][0]=MATIC&search[query]=WAGUPEPE"
+    }
+  ],
+  "description": {
+    "en": "No, we are not going to make it.\n\nアーティストからのコメント\n「2021年中にだんだん聞こえてくるようになった合言葉、\"wagmi\"カードです。ちなみに We are going to make it. や We're all gonna make it.の略で、「私たち、みんなうまくいく。」「みんなハッピーになれる」といった意味です。Twitter やReddit でよく見られます。」",
+    "ja": "No, we are not going to make it.\n\nアーティストからのコメント\n「2021年中にだんだん聞こえてくるようになった合言葉、\"wagmi\"カードです。ちなみに We are going to make it. や We're all gonna make it.の略で、「私たち、みんなうまくいく。」「みんなハッピーになれる」といった意味です。Twitter やReddit でよく見られます。」"
+  },
+  "id": "wagupepe",
+  "image": {
+    "local": null,
+    "source": "WAGUPEPE.png"
+  },
+  "issued": {
+    "date": "2021-12",
+    "display": {
+      "en": "Dec 2021",
+      "ja": "2021年12月"
+    }
+  },
+  "name": "WAGUPEPE",
+  "publishedAt": "2021-12-26",
+  "seriesId": "badger-capsule/series-1",
+  "slug": {
+    "en": "wagupepe",
+    "ja": "wagupepe-ja"
+  },
+  "totalSupply": 250,
+  "translationKey": "pll_622709d0322f5"
+}

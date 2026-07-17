@@ -1,0 +1,35 @@
+{
+  "artistId": "swingo",
+  "card": 1291,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/SWAROPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "swaropepe",
+  "image": {
+    "local": null,
+    "source": "SWAROPEPE.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "SWAROPEPE",
+  "publishedAt": "2017-08-22",
+  "seriesId": "japanese-rarepepe/series-26",
+  "slug": {
+    "en": "swaropepe",
+    "ja": "swaropepe-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_621a1f96d0257"
+}

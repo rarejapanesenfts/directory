@@ -1,0 +1,35 @@
+{
+  "artistId": "栗饅頭",
+  "card": 136,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MCWASHOY"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "mcwashoy",
+  "image": {
+    "local": "data/source/image/Memorychain/Elite 8/MCWASHOY.gif",
+    "source": "MCWASHOY.gif"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "MCWASHOY",
+  "publishedAt": "2017-07-27",
+  "seriesId": "memorychain/series-8",
+  "slug": {
+    "en": "mcwashoy",
+    "ja": "mcwashoy-ja"
+  },
+  "totalSupply": 841,
+  "translationKey": "pll_622e9186ec017"
+}

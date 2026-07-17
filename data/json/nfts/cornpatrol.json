@@ -1,0 +1,35 @@
+{
+  "artistId": "bb",
+  "card": 46,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/CORNPATROL"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "cornpatrol",
+  "image": {
+    "local": null,
+    "source": "CORNPATROL.png"
+  },
+  "issued": {
+    "date": "2018-05",
+    "display": {
+      "en": "May 2018",
+      "ja": "2018年5月"
+    }
+  },
+  "name": "CORNPATROL",
+  "publishedAt": "2018-05-07",
+  "seriesId": "japanese-corn/harvest-1",
+  "slug": {
+    "en": "cornpatrol",
+    "ja": "cornpatrol-ja"
+  },
+  "totalSupply": 50,
+  "translationKey": "pll_626a16934d2d4"
+}

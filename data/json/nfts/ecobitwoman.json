@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 37,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ECOBITWOMAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ecobitwoman",
+  "image": {
+    "local": "data/source/image/Memorychain/Third wave(26-37)/ECOBITWOMAN.png",
+    "source": "ECOBITWOMAN.png"
+  },
+  "issued": {
+    "date": "2017-05",
+    "display": {
+      "en": "May 2017",
+      "ja": "2017年5月"
+    }
+  },
+  "name": "ECOBITWOMAN",
+  "publishedAt": "2017-05-10",
+  "seriesId": "memorychain/series-3",
+  "slug": {
+    "en": "ecobitwoman",
+    "ja": "ecobitwoman-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622b0198ecc24"
+}

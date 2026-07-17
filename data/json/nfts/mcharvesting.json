@@ -1,0 +1,35 @@
+{
+  "artistId": "水瀬-亞里亞",
+  "card": 58,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MCHARVESTING"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "mcharvesting",
+  "image": {
+    "local": "data/source/image/Memorychain/Favorite Five/MCHARVESTING.png",
+    "source": "MCHARVESTING.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "MCHARVESTING",
+  "publishedAt": "2017-06-10",
+  "seriesId": "memorychain/series-5",
+  "slug": {
+    "en": "mcharvesting",
+    "ja": "mcharvesting-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_622bdacc213c2"
+}

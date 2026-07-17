@@ -1,0 +1,35 @@
+{
+  "artistId": "tomopen",
+  "card": 151,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PENPENBTC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "penpenbtc",
+  "image": {
+    "local": "data/source/image/Memorychain/Fine 9/PENPENBTC.png",
+    "source": "PENPENBTC.png"
+  },
+  "issued": {
+    "date": "2017-08",
+    "display": {
+      "en": "Aug 2017",
+      "ja": "2017年8月"
+    }
+  },
+  "name": "PENPENBTC",
+  "publishedAt": "2017-08-12",
+  "seriesId": "memorychain/series-9",
+  "slug": {
+    "en": "penpenbtc",
+    "ja": "penpenbtc-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622e95f596e0a"
+}

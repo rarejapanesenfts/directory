@@ -1,0 +1,35 @@
+{
+  "artistId": "amazingjapepeneseman",
+  "card": 49,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MOISTERINGBC"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "moisteringbc",
+  "image": {
+    "local": null,
+    "source": "MOISTERINGBC.png"
+  },
+  "issued": {
+    "date": "2018-05",
+    "display": {
+      "en": "May 2018",
+      "ja": "2018年5月"
+    }
+  },
+  "name": "MOISTERINGBC",
+  "publishedAt": "2018-05-10",
+  "seriesId": "japanese-corn/harvest-1",
+  "slug": {
+    "en": "moisteringbc",
+    "ja": "moisteringbc-ja"
+  },
+  "totalSupply": 260,
+  "translationKey": "pll_628c5b522f755"
+}

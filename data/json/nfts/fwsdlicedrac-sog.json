@@ -1,0 +1,35 @@
+{
+  "artistId": "spells-of-genesis",
+  "card": null,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FWSDLICEDRAC"
+    }
+  ],
+  "description": {
+    "en": "<!-- wp:paragraph -->\n<p><a href=\"https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration\">https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration</a></p>\n<!-- /wp:paragraph -->",
+    "ja": "<!-- wp:paragraph -->\n<p><a href=\"https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration\">https://spellsofgenesis.tumblr.com/post/156893292955/spells-of-genesis-force-of-will-collaboration</a></p>\n<!-- /wp:paragraph -->"
+  },
+  "id": "fwsdlicedrac-sog",
+  "image": {
+    "local": null,
+    "source": "FWSDLICEDRAC.jpg"
+  },
+  "issued": {
+    "date": "2017-02",
+    "display": {
+      "en": "Feb 2017",
+      "ja": "2017年2月"
+    }
+  },
+  "name": "FWSDLICEDRAC",
+  "publishedAt": "2017-02-07",
+  "seriesId": "japanese-sog",
+  "slug": {
+    "en": "fwsdlicedrac-sog",
+    "ja": "fwsdlicedrac-sog-ja"
+  },
+  "totalSupply": 1000,
+  "translationKey": "pll_6289954dc3a96"
+}

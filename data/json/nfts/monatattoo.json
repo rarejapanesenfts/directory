@@ -1,0 +1,35 @@
+{
+  "artistId": "響",
+  "card": 61,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/MONATATTOO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "monatattoo",
+  "image": {
+    "local": "data/source/image/Memorychain/Favorite Five/MONATATTOO.png",
+    "source": "MONATATTOO.png"
+  },
+  "issued": {
+    "date": "2017-06",
+    "display": {
+      "en": "Jun 2017",
+      "ja": "2017年6月"
+    }
+  },
+  "name": "MONATATTOO",
+  "publishedAt": "2017-06-10",
+  "seriesId": "memorychain/series-5",
+  "slug": {
+    "en": "monatattoo",
+    "ja": "monatattoo-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_622bdc03a609d"
+}

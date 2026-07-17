@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 1134,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/GNITEPEPE"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "gnitepepe",
+  "image": {
+    "local": null,
+    "source": "GNITEPEPE.gif"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "GNITEPEPE",
+  "publishedAt": "2017-07-26",
+  "seriesId": "japanese-rarepepe/series-23",
+  "slug": {
+    "en": "gnitepepe",
+    "ja": "gnitepepe-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_6233cddf863bb"
+}

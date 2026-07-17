@@ -1,0 +1,39 @@
+{
+  "artistId": "rey",
+  "card": 29,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/TAKANELASER"
+    },
+    {
+      "name": "Monaparty",
+      "url": "https://card.mona.jp/explorer/card_detail?asset=TAKANELASER"
+    }
+  ],
+  "description": {
+    "en": "アーティストからのコメント\n「超本気！色んな知恵やノウハウ、技術を持ちよって、皆んなで高値掴みをする、それが未来の人類3.0の姿だと確信しています！」",
+    "ja": "アーティストからのコメント\n「超本気！色んな知恵やノウハウ、技術を持ちよって、皆んなで高値掴みをする、それが未来の人類3.0の姿だと確信しています！」"
+  },
+  "id": "takanelaser",
+  "image": {
+    "local": null,
+    "source": "TAKANELASER.png"
+  },
+  "issued": {
+    "date": "2022-01",
+    "display": {
+      "en": "Jan 2022",
+      "ja": "2022年1月"
+    }
+  },
+  "name": "TAKANELASER",
+  "publishedAt": "2022-01-31",
+  "seriesId": "badger-capsule/badger-innovation-zone",
+  "slug": {
+    "en": "takanelaser",
+    "ja": "takanelaser-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_61fb2d1bd3f78"
+}

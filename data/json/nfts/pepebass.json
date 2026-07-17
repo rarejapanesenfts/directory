@@ -1,0 +1,35 @@
+{
+  "artistId": "kappepe",
+  "card": 1442,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/PEPEBASS"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "pepebass",
+  "image": {
+    "local": null,
+    "source": "PEPEBASS.png"
+  },
+  "issued": {
+    "date": "2017-09",
+    "display": {
+      "en": "Sep 2017",
+      "ja": "2017年9月"
+    }
+  },
+  "name": "PEPEBASS",
+  "publishedAt": "2017-09-28",
+  "seriesId": "japanese-rarepepe/series-29",
+  "slug": {
+    "en": "pepebass",
+    "ja": "pepebass-ja"
+  },
+  "totalSupply": 150,
+  "translationKey": "pll_621ab2cc89102"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "tky",
+  "card": 115,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/STATUSICO"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "statusico",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/STATUSICO.png",
+    "source": "STATUSICO.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "STATUSICO",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "statusico",
+    "ja": "statusico-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d38a6290fd"
+}

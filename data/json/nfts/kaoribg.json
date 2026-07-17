@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 1,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/KAORIBG"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "kaoribg",
+  "image": {
+    "local": null,
+    "source": "KAORIBG.jpg"
+  },
+  "issued": {
+    "date": "2016-10",
+    "display": {
+      "en": "Oct 2016",
+      "ja": "2016年10月"
+    }
+  },
+  "name": "KAORIBG",
+  "publishedAt": "2016-10-04",
+  "seriesId": "bitgirls/block1",
+  "slug": {
+    "en": "kaoribg",
+    "ja": "kaoribg-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_62173daaa428c"
+}

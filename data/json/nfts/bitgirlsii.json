@@ -1,0 +1,35 @@
+{
+  "artistId": "bitgirls",
+  "card": 21,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/BITGIRLSII"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "bitgirlsii",
+  "image": {
+    "local": null,
+    "source": "BITGIRLSII.png"
+  },
+  "issued": {
+    "date": "2016-12",
+    "display": {
+      "en": "Dec 2016",
+      "ja": "2016年12月"
+    }
+  },
+  "name": "BITGIRLSII",
+  "publishedAt": "2016-12-14",
+  "seriesId": "bitgirls/special",
+  "slug": {
+    "en": "bitgirlsii",
+    "ja": "bitgirlsii-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_621cc1abc038a"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "ミツコア",
+  "card": 25,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/ETCCHAN"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "etcchan",
+  "image": {
+    "local": "data/source/image/Memorychain/Second generation(16-25)/ETCCHAN.png",
+    "source": "ETCCHAN.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "ETCCHAN",
+  "publishedAt": "2017-04-26",
+  "seriesId": "memorychain/series-2",
+  "slug": {
+    "en": "etcchan",
+    "ja": "etcchan-ja"
+  },
+  "totalSupply": 500,
+  "translationKey": "pll_622afa658a5c5"
+}

@@ -1,0 +1,35 @@
+{
+  "artistId": "トレスト",
+  "card": 5,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/XEMURAI"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "xemurai",
+  "image": {
+    "local": "data/source/image/Genesis Block(1-15)/XEMURAI.png",
+    "source": "XEMURAI.png"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "XEMURAI",
+  "publishedAt": "2017-04-18",
+  "seriesId": "memorychain/series-1",
+  "slug": {
+    "en": "xemurai",
+    "ja": "xemurai-ja"
+  },
+  "totalSupply": 300,
+  "translationKey": "pll_622acde33f454"
+}

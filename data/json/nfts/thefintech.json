@@ -1,0 +1,35 @@
+{
+  "artistId": "davinci9",
+  "card": 16,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/THEFINTECH"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "thefintech",
+  "image": {
+    "local": "data/source/image/Memorychain/Second generation(16-25)/THEFINTECH.gif",
+    "source": "THEFINTECH.gif"
+  },
+  "issued": {
+    "date": "2017-04",
+    "display": {
+      "en": "Apr 2017",
+      "ja": "2017年4月"
+    }
+  },
+  "name": "THEFINTECH",
+  "publishedAt": "2017-04-26",
+  "seriesId": "memorychain/series-2",
+  "slug": {
+    "en": "thefintech",
+    "ja": "thefintech-ja"
+  },
+  "totalSupply": 100,
+  "translationKey": "pll_622ad72f1e6f7"
+}

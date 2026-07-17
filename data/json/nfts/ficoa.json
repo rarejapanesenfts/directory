@@ -1,0 +1,35 @@
+{
+  "artistId": "anonymous",
+  "card": 97,
+  "chains": [
+    {
+      "name": "Counterparty",
+      "url": "https://xchain.io/asset/FICOA"
+    }
+  ],
+  "description": {
+    "en": null,
+    "ja": null
+  },
+  "id": "ficoa",
+  "image": {
+    "local": "data/source/image/Memorychain/Lucky 7/FICOA.PNG",
+    "source": "FICOA.png"
+  },
+  "issued": {
+    "date": "2017-07",
+    "display": {
+      "en": "Jul 2017",
+      "ja": "2017年7月"
+    }
+  },
+  "name": "FICOA",
+  "publishedAt": "2017-07-04",
+  "seriesId": "memorychain/series-7",
+  "slug": {
+    "en": "ficoa",
+    "ja": "ficoa-ja"
+  },
+  "totalSupply": 10000,
+  "translationKey": "pll_622d33239e138"
+}
