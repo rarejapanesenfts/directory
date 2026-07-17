@@ -145,7 +145,7 @@ typo・複製・誤混入の可能性。
 
 ## ローカル画像が無いNFT (428件)
 
-`image.local` が null。画像は本番サイトURL(`image.source`)のみ存在する。
+`image.local` が null。旧サイトでの画像ファイル名(`image.source`)のみ判明しており、実ファイルは未取得。画像を入手したらファイル名で紐付けられる。
 
 - `batcorn` (BATCORN)
 - `bigstone` (BIGSTONE)
@@ -586,8 +586,9 @@ typo・複製・誤混入の可能性。
 - `空廻ロジカ《Sorane Logica》`: xlsx「その他」欄の記載はJSON未収載(掲載可否は編集判断): 空廻ロジカ《Sorane Logica》
 - `藤堂竜白`: xlsx「その他」欄の記載はJSON未収載(掲載可否は編集判断): メモチェンカード図鑑(http://kasaneate.starfree.jp/mc/)・レアペペディレクトリ(http://kasaneate.starfre…
 
-## ソースデータに関する既知の注意事項 (4件)
+## ソースデータに関する既知の注意事項 (5件)
 
+- 旧サイト(rarejapanesenfts.com)は閉鎖済みで、CSV中の画像URLは参照できない。このためJSONにはURLを保持せず、画像ファイル名(`image.source`。全646作品で一意)のみを識別子として保持している。
 - `data/source/other/ビンテージNFT日本人アーティスト状況.xlsx` と同名の「のコピー」ファイルが併存しており二重管理状態。変換には前者の「220526～追加分」シートを使用している。
 - `data/source/image/Memorychain/Memorychiain transfer/` はフォルダ名にtypoあり(chiain)。
 - `data/source/image/Oasis Mining/3rd確定(2017-9-17ローンチ済15枚)/WHOISSATOSHI.png.docx` は画像フォルダに誤混入したWordファイル。

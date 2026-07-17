@@ -48,7 +48,7 @@ scripts/
 | `issued.display.{en,ja}` | 発行時期の表示用文字列(例: `Nov 2021` / `2021年11月`) |
 | `totalSupply` | 発行数 |
 | `chains[]` | `{name, url}` の配列。発行チェーンとトークン照会リンク(xchain.io等) |
-| `image.source` | 旧サイトのフィーチャー画像URL(全作品にあり。正となる参照) |
+| `image.source` | 旧サイトでのフィーチャー画像ファイル名(全646作品で一意)。旧サイトは閉鎖済みでURLは参照できないため、サイト構築時に画像を配置する際の紐付けキーとして使う |
 | `image.local` | リポジトリ内で照合できた画像パス(無い作品は null。218/646件) |
 | `publishedAt` | 旧サイトでの投稿日(来歴) |
 | `translationKey` | 元CSVの対訳キー(再変換時の突合用) |

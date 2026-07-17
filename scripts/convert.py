@@ -239,7 +239,9 @@ def build_nft(pair, image_index, claimed_images, issues):
         },
         "totalSupply": parse_int(en["total_supply"]),
         "chains": chains,
-        "image": {"source": featured or None, "local": local},
+        # 旧サイト(rarejapanesenfts.com)は閉鎖済みでURLは参照できないため、
+        # 画像の識別子としてファイル名のみを保持する(646作品で一意)
+        "image": {"source": featured_basename, "local": local},
         "publishedAt": en["Date"].strip() or None,
         "translationKey": en["post_translations"].strip() or None,
     }
@@ -373,12 +375,16 @@ ISSUE_SECTIONS = [
     ("image_unclaimed", "どのNFTにも紐づかなかったローカル画像ファイル",
      "typo・複製・誤混入の可能性。"),
     ("image_missing", "ローカル画像が無いNFT",
-     "`image.local` が null。画像は本番サイトURL(`image.source`)のみ存在する。"),
+     "`image.local` が null。旧サイトでの画像ファイル名(`image.source`)のみ判明しており、"
+     "実ファイルは未取得。画像を入手したらファイル名で紐付けられる。"),
     ("artists", "アーティスト情報の突合結果", None),
     ("static", "ソースデータに関する既知の注意事項", None),
 ]
 
 STATIC_NOTES = [
+    "旧サイト(rarejapanesenfts.com)は閉鎖済みで、CSV中の画像URLは参照できない。"
+    "このためJSONにはURLを保持せず、画像ファイル名(`image.source`。全646作品で一意)のみを"
+    "識別子として保持している。",
     "`data/source/other/ビンテージNFT日本人アーティスト状況.xlsx` と同名の「のコピー」ファイルが"
     "併存しており二重管理状態。変換には前者の「220526～追加分」シートを使用している。",
     "`data/source/image/Memorychain/Memorychiain transfer/` はフォルダ名にtypoあり(chiain)。",
