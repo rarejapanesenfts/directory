@@ -13,7 +13,7 @@ data/
 │   ├── NFTs-Export-2022-June-11-0636.csv    # WordPressエクスポート(変換の入力)
 │   ├── NFTs-Export-2022-June-11-0636 - sheet1.csv  # 上記の10列抜粋(参考。変換には未使用)
 │   ├── artists-enrichment.json              # scripts/enrich_artists.py の出力(中間データ)
-│   ├── image/               # ローカル画像 243枚(シリーズ別フォルダ)
+│   ├── image/               # ローカル画像 242枚(シリーズ別フォルダ)
 │   └── other/               # Excel台帳・ホワイトペーパー・サイト文言などの原稿類
 ├── json/                    # ★正規化済みデータ(サイトはここを読む)
 │   ├── nfts.json            # 全カードの配列(646作品、id昇順)
@@ -48,7 +48,7 @@ scripts/
 | `issued.display.{en,ja}` | 発行時期の表示用文字列(例: `Nov 2021` / `2021年11月`) |
 | `totalSupply` | 発行数 |
 | `chains[]` | `{name, url}` の配列。発行チェーンとトークン照会リンク(xchain.io等) |
-| `image.source` | 旧サイトのフィーチャー画像ファイル名(全作品にあり。正となる参照) |
+| `image.source` | 旧サイトのフィーチャー画像URL(全作品にあり。正となる参照) |
 | `image.local` | リポジトリ内で照合できた画像パス(無い作品は null。218/646件) |
 | `publishedAt` | 旧サイトでの投稿日(来歴) |
 | `translationKey` | 元CSVの対訳キー(再変換時の突合用) |
@@ -90,6 +90,6 @@ python3 scripts/convert.py                # CSV → data/json/ + data/ISSUES.md
 ## スコープ外(今後の課題)
 
 - `data/source/other/` のdocx原稿(シリーズ紹介文・ホワイトペーパー・コラム)のJSON/Markdown化
-- 画像のリネーム・再配置(ローカル画像は243/646と不完全なため、全量取得時にまとめて実施)
+- 画像のリネーム・再配置(ローカル画像は242枚と不完全なため、全量取得時にまとめて実施)
 - BitGirls出演者の実名対応表(`データ入力.xlsx`)の扱い(公開可否の編集判断が必要)
 - `data/ISSUES.md` に列挙された元データの修正(typo画像ファイル、xlsxの二重管理など)

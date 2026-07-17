@@ -239,7 +239,7 @@ def build_nft(pair, image_index, claimed_images, issues):
         },
         "totalSupply": parse_int(en["total_supply"]),
         "chains": chains,
-        "image": {"source": featured_basename, "local": local},
+        "image": {"source": featured or None, "local": local},
         "publishedAt": en["Date"].strip() or None,
         "translationKey": en["post_translations"].strip() or None,
     }
@@ -319,6 +319,13 @@ def build_artists(pairs, issues):
             issues["artists"].append(f"`{artist}`: アーティストxlsxに該当行なし(補足情報なし)")
         if extra.get("needsReview"):
             issues["artists"].append(f"`{artist}`: xlsxで「データ未入力or修正必要」フラグあり")
+        note = extra.get("notes")
+        if note:
+            excerpt = " ".join(note.split())
+            if len(excerpt) > 80:
+                excerpt = excerpt[:80] + "…"
+            issues["artists"].append(
+                f"`{artist}`: xlsx「その他」欄の記載はJSON未収載(掲載可否は編集判断): {excerpt}")
         artists.append({
             "id": artist_id,
             "name": {"en": artist, "ja": names[artist]},
@@ -352,6 +359,9 @@ ISSUE_SECTIONS = [
      "英日1件ずつの想定から外れたレコード。"),
     ("mismatch", "対訳ペア間の言語非依存フィールド不一致",
      "英語版・日本語版で同一のはずの値が食い違っている。変換では英語版を正として採用した。"),
+    ("duplicates", "同名トークンの重複レコード",
+     "旧サイト由来で同じトークンが複数コレクションに別レコードとして掲載されている。"
+     "作品数の集計時は二重計上に注意。"),
     ("normalized", "自動正規化した値",
      "機械的に安全と判断して変換時に正規化したもの。元CSVは未修整。"),
     ("leftover", "取り込めなかったデータ",
@@ -428,6 +438,29 @@ def main():
     for nft in nfts:
         assert nft["seriesId"] is None or nft["seriesId"] in series_ids, nft["id"]
         assert nft["artistId"] in artist_ids, nft["id"]
+
+    # 同名トークンの重複レコード検出(FoW/SoG両掲載など)
+    by_name = defaultdict(list)
+    for nft in nfts:
+        by_name[nft["name"]].append(nft)
+    for dup_name in sorted(by_name):
+        group = by_name[dup_name]
+        if len(group) < 2:
+            continue
+        ids = ", ".join(f"`{n['id']}`" for n in group)
+        same_chains = all(n["chains"] == group[0]["chains"] for n in group[1:])
+        detail = ("トークン照会URLも同一(オンチェーン上は同一資産の二重掲載)"
+                  if same_chains else "チェーン情報は異なる")
+        issues["duplicates"].append(f"**{dup_name}**: {ids} — {detail}")
+
+    # 取り込んでいない旧スラッグ履歴の記録
+    old_slug_rows = [r for r in rows
+                     if r["Status"] == "publish" and r["_wp_old_slug"].strip()]
+    if old_slug_rows:
+        uniq = {r["_wp_old_slug"].strip() for r in old_slug_rows}
+        issues["leftover"].append(
+            f"`_wp_old_slug`(旧スラッグ履歴){len(old_slug_rows)}行・{len(uniq)}種は"
+            "取り込んでいない(旧URLリダイレクト用。必要なら元CSV参照)")
 
     # 画像の消化状況
     all_images = {p for paths in image_index.values() for p in paths}
