@@ -127,6 +127,7 @@ main.wrap {
 .lang a {
 	text-decoration: none;
 	font-size: 0.85rem;
+	white-space: nowrap;
 	padding: 0.35rem 0.7rem;
 	border: 1px solid var(--border);
 	border-radius: 999px;
@@ -135,6 +136,28 @@ main.wrap {
 .lang a:hover {
 	border-color: var(--accent);
 	color: var(--accent);
+}
+
+/* Compact header on small phones: drop the tagline and shrink the wordmark so
+   it stays on one line next to the language toggle instead of double-wrapping. */
+@media (max-width: 430px) {
+	.header-inner {
+		padding-top: 0.55rem;
+		padding-bottom: 0.55rem;
+	}
+	.brand {
+		gap: 0.5rem;
+	}
+	.brand-mark {
+		width: 1.75rem;
+		height: 1.75rem;
+	}
+	.brand-text strong {
+		font-size: 0.92rem;
+	}
+	.brand-text small {
+		display: none;
+	}
 }
 
 /* Footer */

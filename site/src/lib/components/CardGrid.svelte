@@ -15,8 +15,16 @@
 <style>
 	.grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-		gap: 1rem;
+		/* Small phones (down to 320px): always 2 columns. minmax(0,1fr) keeps
+		   long names from blowing out the track. auto-fill takes over ≥480px. */
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 0.75rem;
+	}
+	@media (min-width: 480px) {
+		.grid {
+			grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+			gap: 1rem;
+		}
 	}
 	@media (min-width: 640px) {
 		.grid {
