@@ -13,6 +13,11 @@ export type ResolvedImage = {
 	full: string;
 	/** Manifest-relative full path (no base), e.g. 'img/foo.webp' — for absolute OGP URLs. */
 	rawFull: string;
+	/**
+	 * Intrinsic size of the FULL image. The thumbnail shares the same aspect
+	 * ratio (and the grid tile crops to 1/1 via CSS), so CardTile reuses these
+	 * for the thumb's width/height — the ratio is what reserves layout space.
+	 */
 	width: number;
 	height: number;
 };

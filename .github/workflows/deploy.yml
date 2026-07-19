@@ -12,9 +12,10 @@ permissions:
   pages: write
   id-token: write
 
-# Allow one concurrent deployment; don't cancel an in-progress prod deploy.
+# Separate group per ref so PR build checks don't serialize behind (or block)
+# the production Pages deploy. Never cancel an in-progress prod deploy.
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -52,12 +53,18 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Typecheck
+        run: bun run check
+
       - name: Build
         env:
           BASE_PATH: /directory
         run: bun run build
 
+      # Only the production deploy consumes the artifact; skip the upload on PRs
+      # (they run this job purely as a build/typecheck check).
       - name: Upload Pages artifact
+        if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3
         with:
           path: site/build

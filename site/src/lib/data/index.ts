@@ -37,17 +37,22 @@ export function getArtist(id: string): Artist | undefined {
 export function joinCard(nft: Nft): JoinedNft {
 	return {
 		...nft,
-		series: seriesById.get(nft.seriesId) ?? null,
-		artist: artistById.get(nft.artistId) ?? null
+		// Go through getSeries/getArtist so references resolve NFC-insensitively,
+		// same as every other lookup (a raw get here would silently return null
+		// on a normalization mismatch, dropping the artist/series link).
+		series: getSeries(nft.seriesId) ?? null,
+		artist: getArtist(nft.artistId) ?? null
 	};
 }
 
 export function getCardsBySeries(seriesId: string): Nft[] {
-	return nfts.filter((n) => n.seriesId === seriesId);
+	const key = norm(seriesId);
+	return nfts.filter((n) => norm(n.seriesId) === key);
 }
 
 export function getCardsByArtist(artistId: string): Nft[] {
-	return nfts.filter((n) => n.artistId === artistId);
+	const key = norm(artistId);
+	return nfts.filter((n) => norm(n.artistId) === key);
 }
 
 /** All series grouped by their collection, preserving first-seen order. */

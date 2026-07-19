@@ -102,68 +102,89 @@ async function main() {
 
 		const isGif = extname(input).toLowerCase() === '.gif';
 		const thumbName = `${slug}-thumb.webp`;
-		const fullName = isGif ? `${slug}.webp` : `${slug}.webp`;
+		const fullName = `${slug}.webp`;
+		const gifName = `${slug}.gif`;
 		const thumbPath = resolve(OUT_DIR, thumbName);
 		const fullPath = resolve(OUT_DIR, fullName);
-		usedFiles.add(thumbName);
-		usedFiles.add(fullName);
 
 		const hash = fileHash(input);
 		const cached = cache[source];
-		if (cached && cached.hash === hash && existsSync(thumbPath) && existsSync(fullPath)) {
-			manifest[source] = cached.entry;
-			skipped++;
-			continue;
+		if (cached && cached.hash === hash) {
+			// Only trust the cache if the referenced outputs still exist on disk.
+			const outputsExist = [cached.entry.thumb, cached.entry.full].every((p) =>
+				existsSync(resolve(OUT_DIR, p.replace(/^img\//, '')))
+			);
+			if (outputsExist) {
+				manifest[source] = cached.entry;
+				usedFiles.add(cached.entry.thumb.replace(/^img\//, ''));
+				usedFiles.add(cached.entry.full.replace(/^img\//, ''));
+				skipped++;
+				continue;
+			}
 		}
 
+		// Read real source dimensions up front so we can record accurate
+		// width/height even if an encode step later fails.
+		let srcWidth = FULL_WIDTH;
+		let srcHeight = FULL_WIDTH;
 		try {
-			// full: animated for GIFs, static otherwise; never upscale.
-			const fullInput = sharp(input, { animated: isGif });
-			const meta = await fullInput.metadata();
-			// For animated inputs, metadata().height is the full filmstrip height;
-			// pageHeight is the per-frame height we want to report.
-			const srcWidth = meta.width ?? FULL_WIDTH;
-			const srcHeight = (meta.pageHeight ?? meta.height ?? srcWidth) as number;
+			const meta = await sharp(input, { animated: isGif }).metadata();
+			srcWidth = meta.width ?? FULL_WIDTH;
+			// For animated inputs metadata().height is the whole filmstrip;
+			// pageHeight is the per-frame height we actually want.
+			srcHeight = (meta.pageHeight ?? meta.height ?? srcWidth) as number;
+		} catch {
+			/* keep defaults */
+		}
+		const fullTargetW = Math.min(FULL_WIDTH, srcWidth);
+		const outW = fullTargetW;
+		const outH = Math.round((srcHeight / srcWidth) * fullTargetW);
 
-			const fullTargetW = Math.min(FULL_WIDTH, srcWidth);
-			await fullInput
+		let thumbOut = `img/${thumbName}`;
+		let fullOut = `img/${fullName}`;
+		let ok = true;
+
+		// full: animated for GIFs, static otherwise; never upscale.
+		try {
+			await sharp(input, { animated: isGif })
 				.resize({ width: fullTargetW, withoutEnlargement: true })
 				.webp({ quality: WEBP_QUALITY })
 				.toFile(fullPath);
+			usedFiles.add(fullName);
+		} catch (err) {
+			ok = false;
+			console.error(`[optimize-images] FULL encode FAILED for ${source}: ${(err as Error).message}`);
+			// Fallback: copy the original GIF verbatim so the card still shows.
+			if (isGif) {
+				copyFileSync(input, resolve(OUT_DIR, gifName));
+				usedFiles.add(gifName);
+				fullOut = `img/${gifName}`;
+			}
+		}
 
-			// thumb: always static (first frame), for a light grid.
+		// thumb: always a static first frame, independent of the full encode,
+		// so the grid never has to load a multi-MB animated GIF.
+		try {
 			await sharp(input, { animated: false, pages: 1 })
 				.resize({ width: THUMB_WIDTH, withoutEnlargement: true })
 				.webp({ quality: WEBP_QUALITY })
 				.toFile(thumbPath);
+			usedFiles.add(thumbName);
+		} catch (err) {
+			ok = false;
+			console.error(`[optimize-images] THUMB encode FAILED for ${source}: ${(err as Error).message}`);
+			thumbOut = fullOut; // last resort: reuse whatever the full asset is
+		}
 
-			const outW = fullTargetW;
-			const outH = Math.round((srcHeight / srcWidth) * fullTargetW);
-			const entry: ImageEntry = {
-				thumb: `img/${thumbName}`,
-				full: `img/${fullName}`,
-				width: outW,
-				height: outH
-			};
-			manifest[source] = entry;
+		const entry: ImageEntry = { thumb: thumbOut, full: fullOut, width: outW, height: outH };
+		manifest[source] = entry;
+		if (ok) {
 			cache[source] = { hash, entry };
 			processed++;
-		} catch (err) {
-			// Fallback: copy the original GIF verbatim so the card still shows.
-			console.warn(`[optimize-images] encode failed for ${source}: ${(err as Error).message}`);
-			if (isGif) {
-				const gifName = `${slug}.gif`;
-				copyFileSync(input, resolve(OUT_DIR, gifName));
-				usedFiles.add(gifName);
-				const entry: ImageEntry = {
-					thumb: `img/${gifName}`,
-					full: `img/${gifName}`,
-					width: 0,
-					height: 0
-				};
-				manifest[source] = entry;
-				cache[source] = { hash, entry };
-			}
+		} else {
+			// Don't cache a fallback: re-attempt every build so a fixed sharp /
+			// input recovers automatically instead of being stuck permanently.
+			delete cache[source];
 			failed++;
 		}
 	}
