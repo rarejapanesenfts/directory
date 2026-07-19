@@ -22,7 +22,7 @@ export function buildPrerenderEntries() {
 	const artists = load('artists');
 
 	/** @type {string[]} */
-	const entries = ['/'];
+	const entries = ['/', '/sitemap.xml'];
 
 	for (const locale of LOCALES) {
 		entries.push(`/${locale}/`);

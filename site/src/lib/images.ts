@@ -11,6 +11,8 @@ const images = manifest as Record<string, ImageEntry>;
 export type ResolvedImage = {
 	thumb: string;
 	full: string;
+	/** Manifest-relative full path (no base), e.g. 'img/foo.webp' — for absolute OGP URLs. */
+	rawFull: string;
 	width: number;
 	height: number;
 };
@@ -23,6 +25,7 @@ export function resolveImage(source: string | null | undefined): ResolvedImage |
 	return {
 		thumb: asset(entry.thumb),
 		full: asset(entry.full),
+		rawFull: entry.full,
 		width: entry.width,
 		height: entry.height
 	};

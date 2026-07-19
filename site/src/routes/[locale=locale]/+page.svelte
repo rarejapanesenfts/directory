@@ -3,6 +3,7 @@
 	import { ui, t, type Locale } from '$lib/i18n';
 	import CardGrid from '$lib/components/CardGrid.svelte';
 	import FilterBar from '$lib/components/FilterBar.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 
 	let { data } = $props();
 	const locale = $derived(data.locale as Locale);
@@ -30,10 +31,12 @@
 	});
 </script>
 
-<svelte:head>
-	<title>{ui(locale, 'siteTitle')} — {ui(locale, 'cards')}</title>
-	<meta name="description" content={ui(locale, 'siteTagline')} />
-</svelte:head>
+<Seo
+	title={`${ui(locale, 'siteTitle')} — ${ui(locale, 'cards')}`}
+	description={ui(locale, 'siteTagline')}
+	{locale}
+	subpath="/"
+/>
 
 <section class="intro">
 	<h1>{ui(locale, 'cards')}</h1>

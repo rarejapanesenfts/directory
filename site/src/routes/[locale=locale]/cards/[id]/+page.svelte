@@ -3,6 +3,7 @@
 	import { homeUrl, seriesUrl, artistUrl } from '$lib/urls';
 	import { resolveImage } from '$lib/images';
 	import Placeholder from '$lib/components/Placeholder.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 
 	let { data } = $props();
 	const locale = $derived(data.locale as Locale);
@@ -11,12 +12,22 @@
 	const img = $derived(resolveImage(card.image?.source));
 	const description = $derived(t(card.description, locale));
 	const issued = $derived(t(card.issued?.display, locale));
+
+	const seoDesc = $derived(
+		description ||
+			[card.series?.name, card.artist ? t(card.artist.name, locale) : '', issued]
+				.filter(Boolean)
+				.join(' · ')
+	);
 </script>
 
-<svelte:head>
-	<title>{card.name} — {ui(locale, 'siteTitle')}</title>
-	{#if description}<meta name="description" content={description.slice(0, 160)} />{/if}
-</svelte:head>
+<Seo
+	title={`${card.name} — ${ui(locale, 'siteTitle')}`}
+	description={seoDesc.slice(0, 200)}
+	{locale}
+	subpath={`/cards/${card.id}/`}
+	image={img?.rawFull}
+/>
 
 <nav class="crumbs">
 	<a href={homeUrl(locale)}>← {ui(locale, 'backToList')}</a>

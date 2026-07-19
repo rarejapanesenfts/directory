@@ -9,7 +9,9 @@ const config = {
 	preprocess: vitePreprocess(),
 	kit: {
 		adapter: adapter({
-			fallback: undefined,
+			// Emit a 404.html so GitHub Pages serves a branded not-found page for
+			// unknown paths (it renders the +error page client-side).
+			fallback: '404.html',
 			strict: true
 		}),
 		paths: {

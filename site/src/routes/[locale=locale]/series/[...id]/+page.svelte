@@ -2,6 +2,7 @@
 	import { ui, t, type Locale } from '$lib/i18n';
 	import { homeUrl } from '$lib/urls';
 	import CardGrid from '$lib/components/CardGrid.svelte';
+	import Seo from '$lib/components/Seo.svelte';
 
 	let { data } = $props();
 	const locale = $derived(data.locale as Locale);
@@ -10,9 +11,13 @@
 	const description = $derived(t(series.description, locale));
 </script>
 
-<svelte:head>
-	<title>{series.name} — {ui(locale, 'siteTitle')}</title>
-</svelte:head>
+<Seo
+	title={`${series.name} — ${ui(locale, 'siteTitle')}`}
+	description={description ||
+		`${series.collectionName} — ${series.name} (${cards.length} ${ui(locale, 'results')})`}
+	{locale}
+	subpath={`/series/${series.id}/`}
+/>
 
 <nav class="crumbs">
 	<a href={homeUrl(locale)}>← {ui(locale, 'backToList')}</a>
