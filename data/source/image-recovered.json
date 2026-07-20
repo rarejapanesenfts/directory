@@ -23,6 +23,18 @@
     "sha256": "14db30056f6b5af28898e1f2248c3d6fcbcc1010ae2b78d9598918c57072020f",
     "url": "https://i.imgur.com/Z8oScpB.png"
   },
+  "data/source/image/Recovered/badger-capsule/GOXGIRL-1.png": {
+    "asset": "GOXGIRL",
+    "bytes": 414200,
+    "cards": [
+      "goxgirl"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/rGQK6VV.png;GOXGIRL",
+    "fetched_at": "2026-07-20T14:52:26+00:00",
+    "sha256": "dd6efad2930b190d99ed93c44efb7479790bc06e1f6327a45c3e6d3e52be6203",
+    "url": "https://i.imgur.com/rGQK6VV.png"
+  },
   "data/source/image/Recovered/bitgirls/BITGIRLSI.png": {
     "asset": "BITGIRLSI",
     "bytes": 327543,
@@ -1044,6 +1056,982 @@
     "sha256": "80637f4ae73f36b4b531800ef2a2f1ad0ea7ba9467761e41fedf1f7147bcda64",
     "url": "https://tokenscan.io/img/cards/FWCFCSPIRITC.png"
   },
+  "data/source/image/Recovered/force-of-will/FWCFCSTALKIC.png": {
+    "asset": "FWCFCSTALKIC",
+    "bytes": 1078083,
+    "cards": [
+      "fwcfcstalkic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:39+00:00",
+    "sha256": "0010bb6c468a55dd3ccb0ba1d3375e7f45afc902abe2e0bfca607524af9b3e14",
+    "url": "https://tokenscan.io/img/cards/FWCFCSTALKIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSTARGAC.png": {
+    "asset": "FWCFCSTARGAC",
+    "bytes": 1270780,
+    "cards": [
+      "fwcfcstargac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:40+00:00",
+    "sha256": "d8e2161c35f5d83840a05c9c3f015dd647332fc909048ed0a3b929cf765d048e",
+    "url": "https://tokenscan.io/img/cards/FWCFCSTARGAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSTORYTC.png": {
+    "asset": "FWCFCSTORYTC",
+    "bytes": 1172133,
+    "cards": [
+      "fwcfcstorytc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:41+00:00",
+    "sha256": "3448d0a526890d0f53d81c496637779adb56d740b827001ac7716e5c22ad99d1",
+    "url": "https://tokenscan.io/img/cards/FWCFCSTORYTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSUMMONC.png": {
+    "asset": "FWCFCSUMMONC",
+    "bytes": 1301857,
+    "cards": [
+      "fwcfcsummonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:43+00:00",
+    "sha256": "5cc069a45e57d58647cb78a1518ca8f5097e98f0e590c3b5065fa681f59fa356",
+    "url": "https://tokenscan.io/img/cards/FWCFCSUMMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEBLAC.png": {
+    "asset": "FWCFCTHEBLAC",
+    "bytes": 1212193,
+    "cards": [
+      "fwcfctheblac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:44+00:00",
+    "sha256": "97cb954f225c06531abcb614ec2b27b5562f41ceb7a4d51ce41473565b904fb0",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEBLAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEGATC.png": {
+    "asset": "FWCFCTHEGATC",
+    "bytes": 1089672,
+    "cards": [
+      "fwcfcthegatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:45+00:00",
+    "sha256": "751df99ab611ba24d576ad77799da783d1015b54f6b4ee058abcb7c45bd6da9e",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEGATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEMONC.png": {
+    "asset": "FWCFCTHEMONC",
+    "bytes": 1157458,
+    "cards": [
+      "fwcfcthemonc",
+      "fwcfcthemonc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:46+00:00",
+    "sha256": "98b83c1504f6c0a9dabeb610953081e7aebd129d725a8ea4874a639078c2a839",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHENAMC.png": {
+    "asset": "FWCFCTHENAMC",
+    "bytes": 901753,
+    "cards": [
+      "fwcfcthenamc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:48+00:00",
+    "sha256": "e682d4629636b1c36549f3221e8e4d74fb0ea2669d526470d27b82ec38c96b31",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHENAMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEOXKC.png": {
+    "asset": "FWCFCTHEOXKC",
+    "bytes": 1387095,
+    "cards": [
+      "fwcfctheoxkc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:49+00:00",
+    "sha256": "f167bcf62ae815e42ad7e7717c5355f9840e1908e49d87533f93369819be4a26",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEOXKC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTIGERCC.png": {
+    "asset": "FWCFCTIGERCC",
+    "bytes": 1387237,
+    "cards": [
+      "fwcfctigercc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:50+00:00",
+    "sha256": "ee38b503d3004d6f368f0c094e677471fd197bc56f9204db41fb4d283d15da9b",
+    "url": "https://tokenscan.io/img/cards/FWCFCTIGERCC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTIGERLC.png": {
+    "asset": "FWCFCTIGERLC",
+    "bytes": 1451295,
+    "cards": [
+      "fwcfctigerlc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:51+00:00",
+    "sha256": "fa38584322d22f9e9ef50f51bcd3e5b6cbb6656667d1dc6443592025de404521",
+    "url": "https://tokenscan.io/img/cards/FWCFCTIGERLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTINYREC.png": {
+    "asset": "FWCFCTINYREC",
+    "bytes": 1107559,
+    "cards": [
+      "fwcfctinyrec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:52+00:00",
+    "sha256": "926573e184db0dcc88c509f2754c12282c054e4960485ca423e22859541cb587",
+    "url": "https://tokenscan.io/img/cards/FWCFCTINYREC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCUMRATTC.png": {
+    "asset": "FWCFCUMRATTC",
+    "bytes": 1109502,
+    "cards": [
+      "fwcfcumrattc",
+      "fwcfcumrattc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:54+00:00",
+    "sha256": "f0e742c220c13935325a5a08baddc9ee4faf59155d98d25f4cfa71764c84502b",
+    "url": "https://tokenscan.io/img/cards/FWCFCUMRATTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCURASHIC.png": {
+    "asset": "FWCFCURASHIC",
+    "bytes": 1324549,
+    "cards": [
+      "fwcfcurashic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:55+00:00",
+    "sha256": "68e050e86b9b3d40e79b3855b05d1608cfe3dd7e2d026bab0ea315e9497255c4",
+    "url": "https://tokenscan.io/img/cards/FWCFCURASHIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCWATERMC.png": {
+    "asset": "FWCFCWATERMC",
+    "bytes": 1477315,
+    "cards": [
+      "fwcfcwatermc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:57+00:00",
+    "sha256": "121f1741d99a7ad83726efdb1d6a0759a450bdf85e4b6c17497ea112d3ec21dd",
+    "url": "https://tokenscan.io/img/cards/FWCFCWATERMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCWINDMAC.png": {
+    "asset": "FWCFCWINDMAC",
+    "bytes": 930193,
+    "cards": [
+      "fwcfcwindmac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:58+00:00",
+    "sha256": "18997390652f2270105cacdef3bc8ff6ea04b0d8142c5d3a14b1801dda4dc275",
+    "url": "https://tokenscan.io/img/cards/FWCFCWINDMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCWISEMAC.png": {
+    "asset": "FWCFCWISEMAC",
+    "bytes": 1107370,
+    "cards": [
+      "fwcfcwisemac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:59+00:00",
+    "sha256": "7242f47bd6d1abd8ef8c9c29e7c9dde8abcaa18b520e89b8270075d4515756d4",
+    "url": "https://tokenscan.io/img/cards/FWCFCWISEMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZEROSFC.png": {
+    "asset": "FWCFCZEROSFC",
+    "bytes": 1017373,
+    "cards": [
+      "fwcfczerosfc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:00+00:00",
+    "sha256": "ed5e1457ed864ab2811bccfc68dadf9d1c67e9556bc5d5dc9a81dcc783041f49",
+    "url": "https://tokenscan.io/img/cards/FWCFCZEROSFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZEROSIC.png": {
+    "asset": "FWCFCZEROSIC",
+    "bytes": 1204905,
+    "cards": [
+      "fwcfczerosic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:01+00:00",
+    "sha256": "9174582c100ce344e919b8aafcf2aa1451da35f96f6ef6d8fc536bc6c4fbc1fd",
+    "url": "https://tokenscan.io/img/cards/FWCFCZEROSIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZEROSMC.png": {
+    "asset": "FWCFCZEROSMC",
+    "bytes": 1464977,
+    "cards": [
+      "fwcfczerosmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:03+00:00",
+    "sha256": "eb06b5b30923095c5680fa682439aaa6cc1c16cfb125eebda4164188b45e47f5",
+    "url": "https://tokenscan.io/img/cards/FWCFCZEROSMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZHUBAJC.png": {
+    "asset": "FWCFCZHUBAJC",
+    "bytes": 1206133,
+    "cards": [
+      "fwcfczhubajc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:04+00:00",
+    "sha256": "4cf6dda3b15f71260b4a123b2e4cacbfc2c2ab543b89bc6bb243881cb19e2fde",
+    "url": "https://tokenscan.io/img/cards/FWCFCZHUBAJC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLALLYOFC.png": {
+    "asset": "FWSDLALLYOFC",
+    "bytes": 1286464,
+    "cards": [
+      "fwsdlallyofc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:05+00:00",
+    "sha256": "378e275ed74f3dfdb885457c0dcc440c4bd1556cde2b9ed221d722994ac5bf7f",
+    "url": "https://tokenscan.io/img/cards/FWSDLALLYOFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLANCIENC.png": {
+    "asset": "FWSDLANCIENC",
+    "bytes": 1327719,
+    "cards": [
+      "fwsdlancienc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:06+00:00",
+    "sha256": "df3e562e3b694ec45f899f6a872808c74770b13c1a45a89770cd9a41f6a04efc",
+    "url": "https://tokenscan.io/img/cards/FWSDLANCIENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLANCKNOC.png": {
+    "asset": "FWSDLANCKNOC",
+    "bytes": 1153024,
+    "cards": [
+      "fwsdlancknoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:07+00:00",
+    "sha256": "862e84e20b0330aead2b81bc38137d823563dfb8d955dbc13d1471a9af65e248",
+    "url": "https://tokenscan.io/img/cards/FWSDLANCKNOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLARIAFRC.png": {
+    "asset": "FWSDLARIAFRC",
+    "bytes": 1335137,
+    "cards": [
+      "fwsdlariafrc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:09+00:00",
+    "sha256": "cbb89fdec2eb351c251e65878a44bc5ae25ce37fa339ef5982054db0781f46bb",
+    "url": "https://tokenscan.io/img/cards/FWSDLARIAFRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLASTAROC.png": {
+    "asset": "FWSDLASTAROC",
+    "bytes": 1342293,
+    "cards": [
+      "fwsdlastaroc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:10+00:00",
+    "sha256": "97fe3b9f86d7bcfae6a981e69cd5bd2c2165e1c73bfcf93a6e86096f8e2e9d46",
+    "url": "https://tokenscan.io/img/cards/FWSDLASTAROC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLBLOODOC.png": {
+    "asset": "FWSDLBLOODOC",
+    "bytes": 1208074,
+    "cards": [
+      "fwsdlbloodoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:11+00:00",
+    "sha256": "de4e995ab60dce7cc84c2db0b80282d8a693eb75a5dd27c296dcaf7b2660247e",
+    "url": "https://tokenscan.io/img/cards/FWSDLBLOODOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLCASTLEC.png": {
+    "asset": "FWSDLCASTLEC",
+    "bytes": 1062537,
+    "cards": [
+      "fwsdlcastlec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:12+00:00",
+    "sha256": "19d6e63f31ba9202d4c3c7895bf336af79be3d7829f4baa4ec981ab593df2dd7",
+    "url": "https://tokenscan.io/img/cards/FWSDLCASTLEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLCHARLAC.png": {
+    "asset": "FWSDLCHARLAC",
+    "bytes": 1182154,
+    "cards": [
+      "fwsdlcharlac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:13+00:00",
+    "sha256": "5cca96000d779b68a29e954e248afdeac55f6d6265d3304f4c029c6d9d3774b0",
+    "url": "https://tokenscan.io/img/cards/FWSDLCHARLAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLCONFECC.png": {
+    "asset": "FWSDLCONFECC",
+    "bytes": 1395483,
+    "cards": [
+      "fwsdlconfecc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:15+00:00",
+    "sha256": "b87b07b3a1227adbc15ac8be969925332bf9bcbde946740678b792ec1d377bf1",
+    "url": "https://tokenscan.io/img/cards/FWSDLCONFECC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLDARKNEC.png": {
+    "asset": "FWSDLDARKNEC",
+    "bytes": 1003285,
+    "cards": [
+      "fwsdldarknec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:16+00:00",
+    "sha256": "1e6095f918601b7e85617434250a696befdb6d331e20f0b8b6d6593ddecdc638",
+    "url": "https://tokenscan.io/img/cards/FWSDLDARKNEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLEMISSAC.png": {
+    "asset": "FWSDLEMISSAC",
+    "bytes": 1464741,
+    "cards": [
+      "fwsdlemissac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:17+00:00",
+    "sha256": "bc7467cda973db0995f4ba06cc619f067f788a4bfccecfb2a289f7d488b612f6",
+    "url": "https://tokenscan.io/img/cards/FWSDLEMISSAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFAIRYTC.png": {
+    "asset": "FWSDLFAIRYTC",
+    "bytes": 995065,
+    "cards": [
+      "fwsdlfairytc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:18+00:00",
+    "sha256": "9070cb159416e30a8fceb1ba37ddeb64f213a5de8aa97375c75491182eebadb4",
+    "url": "https://tokenscan.io/img/cards/FWSDLFAIRYTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFAITHFC.png": {
+    "asset": "FWSDLFAITHFC",
+    "bytes": 1234445,
+    "cards": [
+      "fwsdlfaithfc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:19+00:00",
+    "sha256": "70abb0148892bfa8e877000ff7a8603cd1e3b4a331f02f52112166db9de55b59",
+    "url": "https://tokenscan.io/img/cards/FWSDLFAITHFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFAYLITC-1.png": {
+    "asset": "FWSDLFAYLITC",
+    "bytes": 1350478,
+    "cards": [
+      "fwsdlfaylitc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:21+00:00",
+    "sha256": "a0a74273c6e45d9713f044019084bb8ab9524b0e3d631a74bd214e9d997d6d4e",
+    "url": "https://tokenscan.io/img/cards/FWSDLFAYLITC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFIETHSC.png": {
+    "asset": "FWSDLFIETHSC",
+    "bytes": 1315559,
+    "cards": [
+      "fwsdlfiethsc",
+      "fwsdlfiethsc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:22+00:00",
+    "sha256": "c37375d544524e71cd8deb100613bb1c8a5af54b07308e364fe7f33f6e6b4020",
+    "url": "https://tokenscan.io/img/cards/FWSDLFIETHSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFIREMAC.png": {
+    "asset": "FWSDLFIREMAC",
+    "bytes": 1381626,
+    "cards": [
+      "fwsdlfiremac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:23+00:00",
+    "sha256": "5a7b56082ac6f425ea51bb53cd2b51a41afdd81795640e2175f4ca8a446b2e2f",
+    "url": "https://tokenscan.io/img/cards/FWSDLFIREMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGENTLEC.png": {
+    "asset": "FWSDLGENTLEC",
+    "bytes": 1384122,
+    "cards": [
+      "fwsdlgentlec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:24+00:00",
+    "sha256": "6b09071a2f14eba4eefa7836e0d90ce1265779d2a3e4b4a3382822c0178dbcc2",
+    "url": "https://tokenscan.io/img/cards/FWSDLGENTLEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGOURMAC.png": {
+    "asset": "FWSDLGOURMAC",
+    "bytes": 1246126,
+    "cards": [
+      "fwsdlgourmac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:25+00:00",
+    "sha256": "3088ab9df6b383ba5c755a1c6058f0732bbd9fa76f8441f3f90a5d584377c97b",
+    "url": "https://tokenscan.io/img/cards/FWSDLGOURMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGREATHC.png": {
+    "asset": "FWSDLGREATHC",
+    "bytes": 1309451,
+    "cards": [
+      "fwsdlgreathc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:27+00:00",
+    "sha256": "8c84a43e4d874cce4c5d6eb6022cf07bbd182844328891e6c3a7166c3a6beceb",
+    "url": "https://tokenscan.io/img/cards/FWSDLGREATHC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGRIMMKCpng.png": {
+    "asset": "FWSDLGRIMMKC",
+    "bytes": 1260921,
+    "cards": [
+      "fwsdlgrimmkc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:28+00:00",
+    "sha256": "5983726faf4fc67d4e4110da1183af2fe868eca3e348137ce5677e3d813c3afd",
+    "url": "https://tokenscan.io/img/cards/FWSDLGRIMMKC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLHASTURC.png": {
+    "asset": "FWSDLHASTURC",
+    "bytes": 1404227,
+    "cards": [
+      "fwsdlhasturc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:29+00:00",
+    "sha256": "1e1280700b0c33391ce3d97eac42af0ce82cab62688053b70683c7aa7cd36513",
+    "url": "https://tokenscan.io/img/cards/FWSDLHASTURC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLHEAVENC.png": {
+    "asset": "FWSDLHEAVENC",
+    "bytes": 1127629,
+    "cards": [
+      "fwsdlheavenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:30+00:00",
+    "sha256": "fe5672ff1a6d1cebcee5d99336d844f4bb3355ef5a30295a3e1b59e36854dbb7",
+    "url": "https://tokenscan.io/img/cards/FWSDLHEAVENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLHOMEOFC.png": {
+    "asset": "FWSDLHOMEOFC",
+    "bytes": 1257863,
+    "cards": [
+      "fwsdlhomeofc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:32+00:00",
+    "sha256": "d7e64a9e217e09627216b9157d25fb2aaa460c02f2c746207ff44c24c2706db4",
+    "url": "https://tokenscan.io/img/cards/FWSDLHOMEOFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLICEDRAC.png": {
+    "asset": "FWSDLICEDRAC",
+    "bytes": 1396809,
+    "cards": [
+      "fwsdlicedrac",
+      "fwsdlicedrac-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:33+00:00",
+    "sha256": "6b0bb7e2e0fb7bffa3b6690c348203c097d18f73af360200c5077aaed331bacb",
+    "url": "https://tokenscan.io/img/cards/FWSDLICEDRAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLKEEPERC.png": {
+    "asset": "FWSDLKEEPERC",
+    "bytes": 1241653,
+    "cards": [
+      "fwsdlkeeperc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:34+00:00",
+    "sha256": "958e83e3d8df5b5ee2a8f12dbf558183eb3b7f19dad469b38250d0d5c0431877",
+    "url": "https://tokenscan.io/img/cards/FWSDLKEEPERC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLKIDPUSC.png": {
+    "asset": "FWSDLKIDPUSC",
+    "bytes": 1279112,
+    "cards": [
+      "fwsdlkidpusc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:35+00:00",
+    "sha256": "83ab254578e65fe96ca9ade4d585e1566eef26a126ac3f7934e59e22df92e374",
+    "url": "https://tokenscan.io/img/cards/FWSDLKIDPUSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLIGHTDC.png": {
+    "asset": "FWSDLLIGHTDC",
+    "bytes": 1270542,
+    "cards": [
+      "fwsdllightdc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:36+00:00",
+    "sha256": "df7273ee5a25b6b84cbfcc17da3593cc723384b479138224de94524b6e917c40",
+    "url": "https://tokenscan.io/img/cards/FWSDLLIGHTDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLIGHTMC.png": {
+    "asset": "FWSDLLIGHTMC",
+    "bytes": 1442833,
+    "cards": [
+      "fwsdllightmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:38+00:00",
+    "sha256": "8af679c0d28c8bd4f32baa5f2c935c8849fd6cb9a55f81dd29ae01a93a9e55a9",
+    "url": "https://tokenscan.io/img/cards/FWSDLLIGHTMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLIGHTNC.png": {
+    "asset": "FWSDLLIGHTNC",
+    "bytes": 1053566,
+    "cards": [
+      "fwsdllightnc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:39+00:00",
+    "sha256": "f6540763368db82b9528fc250bb23f23e8a2c4284f20ccecc06cb5f6e7e8096d",
+    "url": "https://tokenscan.io/img/cards/FWSDLLIGHTNC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLUNYASC.png": {
+    "asset": "FWSDLLUNYASC",
+    "bytes": 859959,
+    "cards": [
+      "fwsdllunyasc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:40+00:00",
+    "sha256": "fe956f6ae79a2e8c7815d9a44bd4c933153b19a5fc3471fa363146923331da9a",
+    "url": "https://tokenscan.io/img/cards/FWSDLLUNYASC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLUNYATC.png": {
+    "asset": "FWSDLLUNYATC",
+    "bytes": 1075155,
+    "cards": [
+      "fwsdllunyatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:41+00:00",
+    "sha256": "a17e415c8a7980deca2eb3af79c202a70381fdd416d312c2f18a2b84e733bb6b",
+    "url": "https://tokenscan.io/img/cards/FWSDLLUNYATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMAGICSC.png": {
+    "asset": "FWSDLMAGICSC",
+    "bytes": 1216819,
+    "cards": [
+      "fwsdlmagicsc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:42+00:00",
+    "sha256": "b5e16f50fa5c79fe21ed18441c39da144505857f8619af87f9f5e3f91e64c4be",
+    "url": "https://tokenscan.io/img/cards/FWSDLMAGICSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMALEFIC.png": {
+    "asset": "FWSDLMALEFIC",
+    "bytes": 1269616,
+    "cards": [
+      "fwsdlmalefic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:44+00:00",
+    "sha256": "275481431b5f72e62ba01c358528958177f8f9f531fda15b1f06c515bca99fde",
+    "url": "https://tokenscan.io/img/cards/FWSDLMALEFIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMANIFEC.png": {
+    "asset": "FWSDLMANIFEC",
+    "bytes": 1126546,
+    "cards": [
+      "fwsdlmanifec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:45+00:00",
+    "sha256": "78cb3bc6604142f736f576ea564d4fb3b4d95077ff4e677d991066aa3acd4e97",
+    "url": "https://tokenscan.io/img/cards/FWSDLMANIFEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMERCURC.png": {
+    "asset": "FWSDLMERCURC",
+    "bytes": 1251216,
+    "cards": [
+      "fwsdlmercurc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:46+00:00",
+    "sha256": "4cecc1c48175a56800f3103a48d2bbdcf9a3bb65b1809e110fb7a37172f9cd15",
+    "url": "https://tokenscan.io/img/cards/FWSDLMERCURC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMERICYC.png": {
+    "asset": "FWSDLMERICYC",
+    "bytes": 1153695,
+    "cards": [
+      "fwsdlmericyc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:47+00:00",
+    "sha256": "41fe49758180eff0b92b180919df4efc40aaaf0146de240e246322dc3d807d02",
+    "url": "https://tokenscan.io/img/cards/FWSDLMERICYC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMESSENC.png": {
+    "asset": "FWSDLMESSENC",
+    "bytes": 1168944,
+    "cards": [
+      "fwsdlmessenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:48+00:00",
+    "sha256": "60cdf56f72c9d0e64b64836aeb7d781dd25c9b1fdf06c25a5ad652be9c5130bc",
+    "url": "https://tokenscan.io/img/cards/FWSDLMESSENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMILLIUC.png": {
+    "asset": "FWSDLMILLIUC",
+    "bytes": 1281994,
+    "cards": [
+      "fwsdlmilliuc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:50+00:00",
+    "sha256": "be896a5e8299378ad6744c3c3d2f7a4194fd08cd9a49fdfa29a31e8c30cce1a0",
+    "url": "https://tokenscan.io/img/cards/FWSDLMILLIUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMOMOTAC.png": {
+    "asset": "FWSDLMOMOTAC",
+    "bytes": 1241240,
+    "cards": [
+      "fwsdlmomotac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:51+00:00",
+    "sha256": "74239933c1b3a2be36a666fdc45dc515fdc779baff629647ad260b719304c2c1",
+    "url": "https://tokenscan.io/img/cards/FWSDLMOMOTAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLNIGGURC.png": {
+    "asset": "FWSDLNIGGURC",
+    "bytes": 1299438,
+    "cards": [
+      "fwsdlniggurc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:52+00:00",
+    "sha256": "2141a7deee1579aee4476b2d7d85701a2dbc8b9a146c93e2f6e32ff5ab09bf4d",
+    "url": "https://tokenscan.io/img/cards/FWSDLNIGGURC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLNIGHTMC.png": {
+    "asset": "FWSDLNIGHTMC",
+    "bytes": 1379556,
+    "cards": [
+      "fwsdlnightmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:53+00:00",
+    "sha256": "576e8894fd7f81922081c51cc97f81f8d34bc5ebcb4b1b564764060cf6ced357",
+    "url": "https://tokenscan.io/img/cards/FWSDLNIGHTMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLONISTRC.png": {
+    "asset": "FWSDLONISTRC",
+    "bytes": 1335769,
+    "cards": [
+      "fwsdlonistrc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:54+00:00",
+    "sha256": "464cec64b6b1918853b2f3bb1433ca0e172587296a7dc7d7ea8d0a342c1499eb",
+    "url": "https://tokenscan.io/img/cards/FWSDLONISTRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLPOWERAC.png": {
+    "asset": "FWSDLPOWERAC",
+    "bytes": 1140118,
+    "cards": [
+      "fwsdlpowerac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:56+00:00",
+    "sha256": "43c5e11cdf2a130ff36b596e52549142f27fdb5ed4ace008d2d43da3e6021d35",
+    "url": "https://tokenscan.io/img/cards/FWSDLPOWERAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLRLYEHWC.png": {
+    "asset": "FWSDLRLYEHWC",
+    "bytes": 1110772,
+    "cards": [
+      "fwsdlrlyehwc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:57+00:00",
+    "sha256": "026c2443b99b902690ecd01d92a7c5874c33dd0f8d642f04b783f2365226d8ca",
+    "url": "https://tokenscan.io/img/cards/FWSDLRLYEHWC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSACREDC.png": {
+    "asset": "FWSDLSACREDC",
+    "bytes": 1452080,
+    "cards": [
+      "fwsdlsacredc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:58+00:00",
+    "sha256": "6aa7341a1b8ed76409c4956fc8139763e6a0c6df999cb18f2e658218c4a23f0a",
+    "url": "https://tokenscan.io/img/cards/FWSDLSACREDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSERVANC.png": {
+    "asset": "FWSDLSERVANC",
+    "bytes": 1025758,
+    "cards": [
+      "fwsdlservanc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:59+00:00",
+    "sha256": "7be6971a35843626f704be344e648d7548a3cfcc8c06448cee01b98422372e22",
+    "url": "https://tokenscan.io/img/cards/FWSDLSERVANC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSHARATC.png": {
+    "asset": "FWSDLSHARATC",
+    "bytes": 1295599,
+    "cards": [
+      "fwsdlsharatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:00+00:00",
+    "sha256": "2f00e00a8dda99b0735064480f5d254a0f2bf9ab8a67e693dba0cd3a54afd4f2",
+    "url": "https://tokenscan.io/img/cards/FWSDLSHARATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSPIRITC.png": {
+    "asset": "FWSDLSPIRITC",
+    "bytes": 1232005,
+    "cards": [
+      "fwsdlspiritc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:02+00:00",
+    "sha256": "8ace65d94858c5081c08e0529d265b20bb94c6ea949609779d3bfe76cabad804",
+    "url": "https://tokenscan.io/img/cards/FWSDLSPIRITC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSPIWINC.png": {
+    "asset": "FWSDLSPIWINC",
+    "bytes": 1326508,
+    "cards": [
+      "fwsdlspiwinc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:03+00:00",
+    "sha256": "77ec04b79d2552fed91ed0c4598dde4681f1075181beaa97b9a4fd01c383c320",
+    "url": "https://tokenscan.io/img/cards/FWSDLSPIWINC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSUMMONC.png": {
+    "asset": "FWSDLSUMMONC",
+    "bytes": 1341901,
+    "cards": [
+      "fwsdlsummonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:04+00:00",
+    "sha256": "d23142e4d92beca526a36288c3cec2a27ff8a0c62b656034b803d642f0c4e6f4",
+    "url": "https://tokenscan.io/img/cards/FWSDLSUMMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTAMAFAC.png": {
+    "asset": "FWSDLTAMAFAC",
+    "bytes": 1050721,
+    "cards": [
+      "fwsdltamafac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:05+00:00",
+    "sha256": "efbb8ed3178863bb452f91e1273be9aba14a0e14b49d58e21a34155c71ae9b94",
+    "url": "https://tokenscan.io/img/cards/FWSDLTAMAFAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTHEDRUC.png": {
+    "asset": "FWSDLTHEDRUC",
+    "bytes": 1329321,
+    "cards": [
+      "fwsdlthedruc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:07+00:00",
+    "sha256": "74743aaa789c5a6f404d05dce4a6f3b880ac447731de4a29f6161f09e0f9b44a",
+    "url": "https://tokenscan.io/img/cards/FWSDLTHEDRUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTHEMONC.png": {
+    "asset": "FWSDLTHEMONC",
+    "bytes": 1095807,
+    "cards": [
+      "fwsdlthemonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:08+00:00",
+    "sha256": "94fa0ad5a983414dd78feba32027dc5adcbcfd1f7c275d88fa3fa3cf83fd5548",
+    "url": "https://tokenscan.io/img/cards/FWSDLTHEMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTINKERC.png": {
+    "asset": "FWSDLTINKERC",
+    "bytes": 1306541,
+    "cards": [
+      "fwsdltinkerc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:09+00:00",
+    "sha256": "925ed24759cc60a834b47fa47e7e22fe1da03685830522c96234f41e8a53314b",
+    "url": "https://tokenscan.io/img/cards/FWSDLTINKERC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTORRENC.png": {
+    "asset": "FWSDLTORRENC",
+    "bytes": 1410212,
+    "cards": [
+      "fwsdltorrenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:11+00:00",
+    "sha256": "0efaad7eaf3d30fb56f2dd3291128038163e6ef17d1430f8d08e92349c558261",
+    "url": "https://tokenscan.io/img/cards/FWSDLTORRENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTWOFOLC.png": {
+    "asset": "FWSDLTWOFOLC",
+    "bytes": 991511,
+    "cards": [
+      "fwsdltwofolc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:12+00:00",
+    "sha256": "9b63e97dfea17655560e20145a968ec8667d40ef6e8b04d53d63d92ea07be01a",
+    "url": "https://tokenscan.io/img/cards/FWSDLTWOFOLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLVAMPIRC.png": {
+    "asset": "FWSDLVAMPIRC",
+    "bytes": 1532685,
+    "cards": [
+      "fwsdlvampirc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:13+00:00",
+    "sha256": "0eff8fda6dcb2662e2449c1945959a801f4ecf4938da4a1020fad3a1d8db356c",
+    "url": "https://tokenscan.io/img/cards/FWSDLVAMPIRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLWATERMC.png": {
+    "asset": "FWSDLWATERMC",
+    "bytes": 1477014,
+    "cards": [
+      "fwsdlwatermc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:15+00:00",
+    "sha256": "f3ef480fb6752dd5a320df185565789cabbf15bfc575a0da5b4c5bd57558aded",
+    "url": "https://tokenscan.io/img/cards/FWSDLWATERMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLWHISPEC.png": {
+    "asset": "FWSDLWHISPEC",
+    "bytes": 1458523,
+    "cards": [
+      "fwsdlwhispec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:17+00:00",
+    "sha256": "be9064d6670c605de31450685cc3ff7376f3ad1c5a97b39bc392dae615d17709",
+    "url": "https://tokenscan.io/img/cards/FWSDLWHISPEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLWINDMAC.png": {
+    "asset": "FWSDLWINDMAC",
+    "bytes": 930526,
+    "cards": [
+      "fwsdlwindmac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:18+00:00",
+    "sha256": "3e94ee2ddf5908ae96333a16b8f13763d04b4fc45bf41e9d27a6a78c63c39d34",
+    "url": "https://tokenscan.io/img/cards/FWSDLWINDMAC.png"
+  },
   "data/source/image/Recovered/japanese-corn/BATCORN.png": {
     "asset": "BATCORN",
     "bytes": 92617,
@@ -1211,6 +2199,18 @@
     "fetched_at": "2026-07-20T14:48:43+00:00",
     "sha256": "a0d1cf062854853b698816796672cbc79bd5ae6104fa49d52ce39373fbe7626b",
     "url": "https://tokenscan.io/img/cards/DOTCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/GOGHCORN.jpg": {
+    "asset": "GOGHCORN",
+    "bytes": 275555,
+    "cards": [
+      "goghcorn"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/GOGHCORN.json",
+    "fetched_at": "2026-07-20T14:52:23+00:00",
+    "sha256": "7424b0a7c2ab36e69e885f5fb70414bc20f729bbc1cb6d76801e000dc45d47de",
+    "url": "https://tokenscan.io/img/cards/GOGHCORN.jpg"
   },
   "data/source/image/Recovered/japanese-rarepepe/BLOWPEPE.gif": {
     "asset": "BLOWPEPE",
@@ -1404,6 +2404,66 @@
     "sha256": "6e6d1f984a582b3be12a8be0113782475df83a65eb14b6c7268e302c993bbc03",
     "url": "https://tokenscan.io/img/cards/FTERTHERAIN.gif"
   },
+  "data/source/image/Recovered/japanese-rarepepe/GANGPEPE.jpg": {
+    "asset": "GANGPEPE",
+    "bytes": 43760,
+    "cards": [
+      "gangpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/GANGPEPE.json",
+    "fetched_at": "2026-07-20T14:52:20+00:00",
+    "sha256": "d9c4f6cf26798298794cce2a41f20765c21fdcab853fccbf3a072bb99c7f6592",
+    "url": "https://tokenscan.io/img/cards/GANGPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/GNITEPEPE.gif": {
+    "asset": "GNITEPEPE",
+    "bytes": 708989,
+    "cards": [
+      "gnitepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:21+00:00",
+    "sha256": "b34b76ad14d6d109ce9d11b9a9acec426d4c52fd25e97d512e0789df7038cb04",
+    "url": "https://tokenscan.io/img/cards/GNITEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/GUESSWHATPEP.gif": {
+    "asset": "GUESSWHATPEP",
+    "bytes": 567043,
+    "cards": [
+      "guesswhatpep"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/GUESSWHATPEP.json",
+    "fetched_at": "2026-07-20T14:52:27+00:00",
+    "sha256": "781ce94c3ec0fdc99426919c3b9da1550b9c68f5aba2cc7dfa62b34097db36e4",
+    "url": "https://tokenscan.io/img/cards/GUESSWHATPEP.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HAIKUPEPE.png": {
+    "asset": "HAIKUPEPE",
+    "bytes": 211846,
+    "cards": [
+      "haikupepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HAIKUPEPE.json",
+    "fetched_at": "2026-07-20T14:52:28+00:00",
+    "sha256": "b1ee786c52b002588e6f4e2148ddfe1b6971e96140489320cb5d62fff25fa255",
+    "url": "https://tokenscan.io/img/cards/HAIKUPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HAIRPEPE.png": {
+    "asset": "HAIRPEPE",
+    "bytes": 267901,
+    "cards": [
+      "hairpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HAIRPEPE.json",
+    "fetched_at": "2026-07-20T14:52:30+00:00",
+    "sha256": "3eff467c49a4cdc3b15d1a1202d9feacba260a6b5ec6db969a50b147fea19669",
+    "url": "https://tokenscan.io/img/cards/HAIRPEPE.png"
+  },
   "data/source/image/Recovered/japanese-sog/CCMCARD.jpg": {
     "asset": "CCMCARD",
     "bytes": 47975,
@@ -1451,5 +2511,17 @@
     "fetched_at": "2026-07-20T14:48:38+00:00",
     "sha256": "873789316fb5534b53d67b95c3516dd73eff128903b40b4cfb1c1698e2a6deed",
     "url": "https://tokenscan.io/img/cards/DOGECOINCARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/GOXCARD.jpg": {
+    "asset": "GOXCARD",
+    "bytes": 47049,
+    "cards": [
+      "goxcard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "Spells of Genesis game asset",
+    "fetched_at": "2026-07-20T14:52:24+00:00",
+    "sha256": "ef85ebf3ed9e9c112e3a32130b038d6323c2a24c9c9ace6eb41381ec68c2c2e8",
+    "url": "https://tokenscan.io/img/cards/GOXCARD.jpg"
   }
 }
