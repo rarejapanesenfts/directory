@@ -35,6 +35,186 @@
     "sha256": "dd6efad2930b190d99ed93c44efb7479790bc06e1f6327a45c3e6d3e52be6203",
     "url": "https://i.imgur.com/rGQK6VV.png"
   },
+  "data/source/image/Recovered/badger-capsule/HWFASHION.png": {
+    "asset": "HWFASHION",
+    "bytes": 436887,
+    "cards": [
+      "hwfashion"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/fSZmmwa.png;HWFASHION",
+    "fetched_at": "2026-07-20T14:52:37+00:00",
+    "sha256": "9775164a5f701db9143d288245c61a8c63337d1847a51f89600164258ebcdbcb",
+    "url": "https://i.imgur.com/fSZmmwa.png"
+  },
+  "data/source/image/Recovered/badger-capsule/HanseikaiNFT_jityama-779-pom.png": {
+    "asset": "KAMATTE",
+    "bytes": 473559,
+    "cards": [
+      "kamatte"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/pxKEh3F.png;KAMATTE",
+    "fetched_at": "2026-07-20T14:52:38+00:00",
+    "sha256": "25efd7a8db6742e059a013bf2d4145f0c070a720f02386fbde6c452053c6bd21",
+    "url": "https://i.imgur.com/pxKEh3F.png"
+  },
+  "data/source/image/Recovered/badger-capsule/INUCOINER.gif": {
+    "asset": "INUCOINER",
+    "bytes": 1336357,
+    "cards": [
+      "inucoiner"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/o2v7fTE.gif;INUCOINER",
+    "fetched_at": "2026-07-20T14:52:43+00:00",
+    "sha256": "89c08c1fd8f63ae7c9c96f172e0c944397df6a7195eb9d8977c7deb8ee086bc3",
+    "url": "https://i.imgur.com/o2v7fTE.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/JOSHIKI.png": {
+    "asset": "JOSHIKI",
+    "bytes": 708563,
+    "cards": [
+      "joshiki"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/N6eh9eE.png;JOSHIKI",
+    "fetched_at": "2026-07-20T14:52:47+00:00",
+    "sha256": "54c10eb71f15fd166c5645faf6ba621e65043a5cb0823320f4f32592b1308bed",
+    "url": "https://i.imgur.com/N6eh9eE.png"
+  },
+  "data/source/image/Recovered/badger-capsule/KOEDAME.gif": {
+    "asset": "KOEDAME",
+    "bytes": 667661,
+    "cards": [
+      "koedame"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/tb9Pvqe.gif;KOEDAME",
+    "fetched_at": "2026-07-20T14:52:54+00:00",
+    "sha256": "e2586ec3d9711854ddd6c88705c1d958362e81f933c2122513cdb578f1cdc8c5",
+    "url": "https://i.imgur.com/tb9Pvqe.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/KOEDAME_pom-779-pom.png": {
+    "asset": "HAGEPEPE",
+    "bytes": 503572,
+    "cards": [
+      "hagepepe"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/23sHdiZ.png;HAGEPEPE",
+    "fetched_at": "2026-07-20T14:52:55+00:00",
+    "sha256": "56e291c1ce676b3d6c7014b3a0704f0da48c35103c44530e2180bae43ce96efe",
+    "url": "https://i.imgur.com/23sHdiZ.png"
+  },
+  "data/source/image/Recovered/badger-capsule/LOVENFT.png": {
+    "asset": "LOVENFT",
+    "bytes": 482854,
+    "cards": [
+      "lovenft"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/me9XZnD.png;LOVENFT",
+    "fetched_at": "2026-07-20T14:53:05+00:00",
+    "sha256": "9d84ebf7dff0dc2cfad562c962b3419fe61f2bf8c660350368dc00f222bc4a8b",
+    "url": "https://i.imgur.com/me9XZnD.png"
+  },
+  "data/source/image/Recovered/badger-capsule/MAKAI.png": {
+    "asset": "MAKAI",
+    "bytes": 559128,
+    "cards": [
+      "makai"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/lTFObBH.png;MAKAI",
+    "fetched_at": "2026-07-20T14:53:06+00:00",
+    "sha256": "56f690295de80ce754fb4ac5bbeaddd9098d96c59ea6b13c2dbdeb5ba2da4e8d",
+    "url": "https://i.imgur.com/lTFObBH.png"
+  },
+  "data/source/image/Recovered/badger-capsule/METAKITSUNE.png": {
+    "asset": "METAKITSUNE",
+    "bytes": 1092886,
+    "cards": [
+      "metakitsune"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/WIz3GDD.png;METAKITSUNE",
+    "fetched_at": "2026-07-20T14:53:14+00:00",
+    "sha256": "3f80b04050cdc542a06b37461d0fcf328872cfc9df9a9274d317182cc9d3e5fc",
+    "url": "https://i.imgur.com/WIz3GDD.png"
+  },
+  "data/source/image/Recovered/badger-capsule/NFTZUKAMI.gif": {
+    "asset": "NFTZUKAMI",
+    "bytes": 1132934,
+    "cards": [
+      "nftzukami"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/sxhB537.gif;NFTZUKAMI",
+    "fetched_at": "2026-07-20T14:53:30+00:00",
+    "sha256": "149e965edc5d2e0d3bed7560448b110c872cea94017a058c0c04f68856b5aa09",
+    "url": "https://i.imgur.com/sxhB537.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/NOBUNSUN.png": {
+    "asset": "NOBUNSAN",
+    "bytes": 555192,
+    "cards": [
+      "nobunsan"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/0hkJXRA.png;NOBUNSAN",
+    "fetched_at": "2026-07-20T14:53:33+00:00",
+    "sha256": "344a565179f0aa4fb0278d5dcaf9e3af3a9aafce03401c5e0a0c86d72b2d8abb",
+    "url": "https://i.imgur.com/0hkJXRA.png"
+  },
+  "data/source/image/Recovered/badger-capsule/NOMOREDEFI.png": {
+    "asset": "NOMOREDEFI",
+    "bytes": 315769,
+    "cards": [
+      "nomoredefi"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/GnHE9uh.png;NOMOREDEFI",
+    "fetched_at": "2026-07-20T14:53:38+00:00",
+    "sha256": "77e6c84bb001c42833dcdf61b3885a069ee0f7992192a907691f540fc525d5bd",
+    "url": "https://i.imgur.com/GnHE9uh.png"
+  },
+  "data/source/image/Recovered/badger-capsule/NOTSOON-1.jpg": {
+    "asset": "NOTSOON",
+    "bytes": 1285173,
+    "cards": [
+      "notsoon"
+    ],
+    "content_type": "image/jpeg",
+    "description": "imgur/i9F7viE.jpg;NOTSOON",
+    "fetched_at": "2026-07-20T14:53:39+00:00",
+    "sha256": "4712fb2d2d02221a5f6209e312bcaa8e23b3bf153f44971b6fc255e18827de9c",
+    "url": "https://i.imgur.com/i9F7viE.jpg"
+  },
+  "data/source/image/Recovered/badger-capsule/OSHIKOMARE.png": {
+    "asset": "OSHIKOMARE",
+    "bytes": 65503,
+    "cards": [
+      "oshikomare"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/pwoqZXl.png;OSHIKOMARE",
+    "fetched_at": "2026-07-20T14:53:43+00:00",
+    "sha256": "f2712e59f4e74ed2971f7e5f63a009bfb51df8c3a338e5cd984c5793d9cc4efc",
+    "url": "https://i.imgur.com/pwoqZXl.png"
+  },
+  "data/source/image/Recovered/badger-capsule/PEPEBAZAAR-1.png": {
+    "asset": "PEPEBAZAAR",
+    "bytes": 441332,
+    "cards": [
+      "pepebazaar"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/a7Udw2i.png;PEPEBAZAAR",
+    "fetched_at": "2026-07-20T14:53:59+00:00",
+    "sha256": "55446e13ed5ce7c035b6fa226eef401fbeb0ce0190e4f0f799c87746d3f5a460",
+    "url": "https://i.imgur.com/a7Udw2i.png"
+  },
   "data/source/image/Recovered/bitgirls/BITGIRLSI.png": {
     "asset": "BITGIRLSI",
     "bytes": 327543,
@@ -106,6 +286,114 @@
     "fetched_at": "2026-07-20T14:48:37+00:00",
     "sha256": "e168ef15f2d7b2ed267d99bbae6129da28c879467c62f36cf10114bb6d148c78",
     "url": "https://tokenscan.io/img/cards/DJASANYANVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/HINANOMAIBG.jpg": {
+    "asset": "HINANOMAIBG",
+    "bytes": 292256,
+    "cards": [
+      "hinanomaibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/HINANOMAIBG.json",
+    "fetched_at": "2026-07-20T14:52:36+00:00",
+    "sha256": "84b859577ae40e08865ac11ca00205d19b7183d1f46d11e27c5d4c5b210397d6",
+    "url": "https://tokenscan.io/img/cards/HINANOMAIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/ICHARLOTTEBG.jpg": {
+    "asset": "ICHARLOTTEBG",
+    "bytes": 288878,
+    "cards": [
+      "icharlottebg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/ICHARLOTTEBG.json",
+    "fetched_at": "2026-07-20T14:52:40+00:00",
+    "sha256": "485e0252712dfbcdd3e2b31ac88ff9ba5c76e4a5ec9a336020eeab9e7c61cef3",
+    "url": "https://tokenscan.io/img/cards/ICHARLOTTEBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/ITSUKIBG.jpg": {
+    "asset": "ITSUKIBG",
+    "bytes": 261484,
+    "cards": [
+      "itsukibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/ITSUKIBG.json",
+    "fetched_at": "2026-07-20T14:52:44+00:00",
+    "sha256": "d5d917bbbdf7df9b44cad02184f103d8f709ae8895f6d7d02b0849d8ff1f6051",
+    "url": "https://tokenscan.io/img/cards/ITSUKIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/KAORIBG.jpg": {
+    "asset": "KAORIBG",
+    "bytes": 289860,
+    "cards": [
+      "kaoribg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/KAORIBG.json",
+    "fetched_at": "2026-07-20T14:52:49+00:00",
+    "sha256": "baec69e6cab53d1dffb3c47170856c77794f2a9da1880abc18eecbba77636dde",
+    "url": "https://tokenscan.io/img/cards/KAORIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/KINOBG.jpg": {
+    "asset": "KINOBG",
+    "bytes": 295419,
+    "cards": [
+      "kinobg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/KINOBG.json",
+    "fetched_at": "2026-07-20T14:52:52+00:00",
+    "sha256": "34b6ec0de6fbea59885788009680bd70d8765841687376cba08d0a4b2b9ac364",
+    "url": "https://tokenscan.io/img/cards/KINOBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/LEENABG.jpg": {
+    "asset": "LEENABG",
+    "bytes": 279625,
+    "cards": [
+      "leenabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/LEENABG.json",
+    "fetched_at": "2026-07-20T14:53:00+00:00",
+    "sha256": "f3eb4a55e9fa41d8511e437c19026fa0ff22e4171cc492619b486b2a7301dfa6",
+    "url": "https://tokenscan.io/img/cards/LEENABG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/MAMICHANBG.jpg": {
+    "asset": "MAMICHANBG",
+    "bytes": 428360,
+    "cards": [
+      "mamichanbg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/MAMICHANBG.json",
+    "fetched_at": "2026-07-20T14:53:07+00:00",
+    "sha256": "ea1bab5a185728654fdfd4e59b7b639fbea55cb242590e8abf09131d6056824e",
+    "url": "https://tokenscan.io/img/cards/MAMICHANBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/MIZUKIBG.jpg": {
+    "asset": "MIZUKIBG",
+    "bytes": 270704,
+    "cards": [
+      "mizukibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/MIZUKIBG.json",
+    "fetched_at": "2026-07-20T14:53:18+00:00",
+    "sha256": "f89c76630c0daa9bc46d58d19bfe2fef511b4e580a0cd2c315203c0392f25b5e",
+    "url": "https://tokenscan.io/img/cards/MIZUKIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/MIZUKIVIX.png": {
+    "asset": "MIZUKIVIX",
+    "bytes": 357549,
+    "cards": [
+      "mizukivix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/MIZUKIVIX.json",
+    "fetched_at": "2026-07-20T14:53:19+00:00",
+    "sha256": "3188be160d5fd018491b6a3d6e6c4ad3f911115e46cccc534be901c5512a8965",
+    "url": "https://tokenscan.io/img/cards/MIZUKIVIX.png"
   },
   "data/source/image/Recovered/force-of-will/FWCFCALHAZRC.png": {
     "asset": "FWCFCALHAZRC",
@@ -2212,6 +2500,102 @@
     "sha256": "7424b0a7c2ab36e69e885f5fb70414bc20f729bbc1cb6d76801e000dc45d47de",
     "url": "https://tokenscan.io/img/cards/GOGHCORN.jpg"
   },
+  "data/source/image/Recovered/japanese-corn/LASTCORN.png": {
+    "asset": "LASTCORN",
+    "bytes": 374611,
+    "cards": [
+      "lastcorn"
+    ],
+    "content_type": "image/png",
+    "description": "You’ll never find the last corn if you’re looking do",
+    "fetched_at": "2026-07-20T14:52:58+00:00",
+    "sha256": "bcb9875e44fa41ae70c7f1721c51445c39cda462881d53887675da6eea782dfe",
+    "url": "https://tokenscan.io/img/cards/LASTCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/LILYCORN.gif": {
+    "asset": "LILYCORN",
+    "bytes": 1073488,
+    "cards": [
+      "lilycorn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/LILYCORN.json",
+    "fetched_at": "2026-07-20T14:53:01+00:00",
+    "sha256": "be734a95da7ecf9d6546f990df693e237e3e46661d573685257cfa9de605e7d4",
+    "url": "https://tokenscan.io/img/cards/LILYCORN.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/MOISTERINGBC.png": {
+    "asset": "MOISTERINGBC",
+    "bytes": 299204,
+    "cards": [
+      "moisteringbc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:21+00:00",
+    "sha256": "0cab55b93f428ba8a1475eca2785ab87af2729df9905516756d674db97254df0",
+    "url": "https://tokenscan.io/img/cards/MOISTERINGBC.png"
+  },
+  "data/source/image/Recovered/japanese-corn/MONDRIANCORN.png": {
+    "asset": "MONDRIANCORN",
+    "bytes": 69405,
+    "cards": [
+      "mondriancorn"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:22+00:00",
+    "sha256": "2eea0394d82a02a496d81ff84d0c3281bd5bd93ae7fdd16202792eecd9dc30c4",
+    "url": "https://tokenscan.io/img/cards/MONDRIANCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/NFCORN.png": {
+    "asset": "NFCORN",
+    "bytes": 389794,
+    "cards": [
+      "nfcorn"
+    ],
+    "content_type": "image/png",
+    "description": "Non-Fungible Corn",
+    "fetched_at": "2026-07-20T14:53:29+00:00",
+    "sha256": "3496b767be89d385fe06b7ced0176b31a3a6c550dad46570976474c16ed50651",
+    "url": "https://tokenscan.io/img/cards/NFCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/NOBORDERCORN.gif": {
+    "asset": "NOBORDERCORN",
+    "bytes": 359961,
+    "cards": [
+      "nobordercorn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/NOBORDERCORN.json",
+    "fetched_at": "2026-07-20T14:53:31+00:00",
+    "sha256": "76cbc140c119af25d06056a2b1621a7763ce833896cfb52a203da506a89940bc",
+    "url": "https://tokenscan.io/img/cards/NOBORDERCORN.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/ONSENCORN.png": {
+    "asset": "ONSENCORN",
+    "bytes": 271258,
+    "cards": [
+      "onsencorn"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:40+00:00",
+    "sha256": "3dd82b6af3d4efe6a3a446108af97f61293d0cd14c7511535f8e64c04ab1f125",
+    "url": "https://tokenscan.io/img/cards/ONSENCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/PENPENPOPCOR.gif": {
+    "asset": "PENPENPOPCOR",
+    "bytes": 2043239,
+    "cards": [
+      "penpenpopcor"
+    ],
+    "content_type": "image/gif",
+    "description": "xcp.coindaddy.io/PENPENPOPCOR.json",
+    "fetched_at": "2026-07-20T14:53:47+00:00",
+    "sha256": "b58139cdc7a7d1ce95e55cc59726544e2e15355be4f5c801cffe5d66ad679b35",
+    "url": "https://tokenscan.io/img/cards/PENPENPOPCOR.gif"
+  },
   "data/source/image/Recovered/japanese-rarepepe/BLOWPEPE.gif": {
     "asset": "BLOWPEPE",
     "bytes": 261543,
@@ -2463,6 +2847,762 @@
     "fetched_at": "2026-07-20T14:52:30+00:00",
     "sha256": "3eff467c49a4cdc3b15d1a1202d9feacba260a6b5ec6db969a50b147fea19669",
     "url": "https://tokenscan.io/img/cards/HAIRPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HANGINPEPE.jpg": {
+    "asset": "HANGINPEPE",
+    "bytes": 64199,
+    "cards": [
+      "hanginpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/HANGINPEPE.json",
+    "fetched_at": "2026-07-20T14:52:31+00:00",
+    "sha256": "60b4fbefc6a50597a3283c54b50c0fdea92086d2d2676438fae45da9b8565436",
+    "url": "https://tokenscan.io/img/cards/HANGINPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HAPPYRAINY.png": {
+    "asset": "HAPPYRAINY",
+    "bytes": 390502,
+    "cards": [
+      "happyrainy"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HAPPYRAINY.json",
+    "fetched_at": "2026-07-20T14:52:32+00:00",
+    "sha256": "cdea943bc7abb8648e3d46e69695802d5638c9ecb7e6c3538073b3323059a32f",
+    "url": "https://tokenscan.io/img/cards/HAPPYRAINY.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HARAKIRIPEPE.png": {
+    "asset": "HARAKIRIPEPE",
+    "bytes": 85782,
+    "cards": [
+      "harakiripepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:33+00:00",
+    "sha256": "0b81aea1cfa898f014e5de375eb404662684ed4501aec8fae8fe762d6172a433",
+    "url": "https://tokenscan.io/img/cards/HARAKIRIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HINAMATSURI.png": {
+    "asset": "HINAMATSURI",
+    "bytes": 181437,
+    "cards": [
+      "hinamatsuri"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HINAMATSURI.json",
+    "fetched_at": "2026-07-20T14:52:34+00:00",
+    "sha256": "fd2c9eaeaa1fc3be5d54c9045604ea87b233aceffe861303c8594f9bf27ae232",
+    "url": "https://tokenscan.io/img/cards/HINAMATSURI.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ICARUSPEPE.png": {
+    "asset": "ICARUSPEPE",
+    "bytes": 222953,
+    "cards": [
+      "icaruspepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/ICARUSPEPE.json",
+    "fetched_at": "2026-07-20T14:52:39+00:00",
+    "sha256": "2cee23aa6efd8a8542897668b874eb0dac0db0b7947f6a8efe8520c8ce7020ce",
+    "url": "https://tokenscan.io/img/cards/ICARUSPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/IMG_9548.gif": {
+    "asset": "CICACOINPEPE",
+    "bytes": 530291,
+    "cards": [
+      "cicacoinpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/CICACOINPEPE.json",
+    "fetched_at": "2026-07-20T14:52:42+00:00",
+    "sha256": "058dea6a0425b50452f89b1b9b5559037e17fa163153a7711684edc0fac99f1b",
+    "url": "https://tokenscan.io/img/cards/CICACOINPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/JAPANESEPEPE.gif": {
+    "asset": "JAPANESEPEPE",
+    "bytes": 611331,
+    "cards": [
+      "japanesepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/JAPANESEPEPE.json",
+    "fetched_at": "2026-07-20T14:52:45+00:00",
+    "sha256": "01825c93191249e92db9239c368bcb142ffb540d9ff5277bb3c75ade2356c84b",
+    "url": "https://tokenscan.io/img/cards/JAPANESEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KABUKIPEPE.png": {
+    "asset": "KABUKIPEPE",
+    "bytes": 237841,
+    "cards": [
+      "kabukipepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/KABUKIPEPE.json",
+    "fetched_at": "2026-07-20T14:52:48+00:00",
+    "sha256": "3cd1c2a7fb836d71efc75286a0ea145f37cb7dea47e4eec159ec3a350a8e7cf2",
+    "url": "https://tokenscan.io/img/cards/KABUKIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KIGURUMIPEPE.png": {
+    "asset": "KIGURUMIPEPE",
+    "bytes": 361632,
+    "cards": [
+      "kigurumipepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/KIGURUMIPEPE.json",
+    "fetched_at": "2026-07-20T14:52:50+00:00",
+    "sha256": "20192013318066b27afe89aa75fbeabc79e77c55ad7cfab542245c6fdf99201d",
+    "url": "https://tokenscan.io/img/cards/KIGURUMIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KINGYOPEPE.png": {
+    "asset": "KINGYOPEPE",
+    "bytes": 345302,
+    "cards": [
+      "kingyopepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:51+00:00",
+    "sha256": "abb7088b33bca915a878d16e7280b1206f7a0db821626af8cee811162c67f020",
+    "url": "https://tokenscan.io/img/cards/KINGYOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KUMADORIPEPE.png": {
+    "asset": "KUMADORIPEPE",
+    "bytes": 186112,
+    "cards": [
+      "kumadoripepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/KUMADORIPEPE.json",
+    "fetched_at": "2026-07-20T14:52:56+00:00",
+    "sha256": "b93a6c5858bf7846345c37d8fd28399f61ec5089e6226b16767a54e2396e6573",
+    "url": "https://tokenscan.io/img/cards/KUMADORIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KYUDOPEPE.png": {
+    "asset": "KYUDOPEPE",
+    "bytes": 307740,
+    "cards": [
+      "kyudopepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:57+00:00",
+    "sha256": "fa7fa2a89af5c5560e7a6d45f9593f559be1c4a0595b9296a96d81881b3fdd10",
+    "url": "https://tokenscan.io/img/cards/KYUDOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/LONELYPEPE.jpg": {
+    "asset": "LONELYPEPE",
+    "bytes": 39801,
+    "cards": [
+      "lonelypepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/LONELYPEPE.json",
+    "fetched_at": "2026-07-20T14:53:02+00:00",
+    "sha256": "1b72f2671a3abe6b164fbb39ac8603065f16045a9838fcbe514adc1ff8729f7a",
+    "url": "https://tokenscan.io/img/cards/LONELYPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/LONGNOSEPEPE.gif": {
+    "asset": "LONGNOSEPEPE",
+    "bytes": 357902,
+    "cards": [
+      "longnosepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/LONGNOSEPEPE.json",
+    "fetched_at": "2026-07-20T14:53:03+00:00",
+    "sha256": "b183fc717996a3555e5204cb407a1ecb7e14fa82adc331b9d1ec10f338de0e23",
+    "url": "https://tokenscan.io/img/cards/LONGNOSEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MANDARAPEPE.png": {
+    "asset": "MANDARAPEPE",
+    "bytes": 594623,
+    "cards": [
+      "mandarapepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MANDARAPEPE.json",
+    "fetched_at": "2026-07-20T14:53:08+00:00",
+    "sha256": "59ef9dda24712ef6bc4a07db9411b3c5b7b5fd9bdc2d0cead60d763d59f9a723",
+    "url": "https://tokenscan.io/img/cards/MANDARAPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MAOISMPEPE.jpg": {
+    "asset": "MAOISMPEPE",
+    "bytes": 45044,
+    "cards": [
+      "maoismpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/MAOISMPEPE.json",
+    "fetched_at": "2026-07-20T14:53:09+00:00",
+    "sha256": "456aef6b03e312eb863125ecaf861dae764e80de65edac2deb9d558d7a0b6c69",
+    "url": "https://tokenscan.io/img/cards/MAOISMPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MATSUNIPEPE.gif": {
+    "asset": "MATSUNIPEPE",
+    "bytes": 69591,
+    "cards": [
+      "matsunipepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/MATSUNIPEPE.json",
+    "fetched_at": "2026-07-20T14:53:10+00:00",
+    "sha256": "6e458669e71866d3a416978f46420a426852d8d4d88c6d80889938a82fc0c76d",
+    "url": "https://tokenscan.io/img/cards/MATSUNIPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MATSURIPEPE.png": {
+    "asset": "MATSURIPEPE",
+    "bytes": 346655,
+    "cards": [
+      "matsuripepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MATSURIPEPE.json",
+    "fetched_at": "2026-07-20T14:53:12+00:00",
+    "sha256": "a6d5463e754a9665144beead7f50346eb9e8e979d7b0f0a1a7b69053df1d65cc",
+    "url": "https://tokenscan.io/img/cards/MATSURIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MERMAIDPEPE.jpg": {
+    "asset": "MERMAIDPEPE",
+    "bytes": 58474,
+    "cards": [
+      "mermaidpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:13+00:00",
+    "sha256": "ee2478b7e1ae9dc419d2b14fc4f9767a3d28debb9cdc643504ff066393f995b2",
+    "url": "https://tokenscan.io/img/cards/MERMAIDPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MIKOPEPE.png": {
+    "asset": "MIKOPEPE",
+    "bytes": 482901,
+    "cards": [
+      "mikopepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:15+00:00",
+    "sha256": "d46b729ddc24492718d50a29f26201c57532a47b86eeda947bba77ec40d6ff03",
+    "url": "https://tokenscan.io/img/cards/MIKOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MIYAKO.png": {
+    "asset": "MIYAKO",
+    "bytes": 318960,
+    "cards": [
+      "miyako"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MIYAKO.json",
+    "fetched_at": "2026-07-20T14:53:17+00:00",
+    "sha256": "7b9b3b71dbc95fb7c6c0e7e05ec55f5155ce39f3b0ebf282b1f1b65f8169fb6f",
+    "url": "https://tokenscan.io/img/cards/MIYAKO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MUPEPETS.png": {
+    "asset": "MUPEPETS",
+    "bytes": 235623,
+    "cards": [
+      "mupepets"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MUPEPETS.json",
+    "fetched_at": "2026-07-20T14:53:24+00:00",
+    "sha256": "666883371b01dea43d6b0f8fc48ec834b378405dc2902df736aaf9d7f1baa460",
+    "url": "https://tokenscan.io/img/cards/MUPEPETS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MURASAKIPEPE.jpg": {
+    "asset": "MURASAKIPEPE",
+    "bytes": 60169,
+    "cards": [
+      "murasakipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:25+00:00",
+    "sha256": "6605d705074a46267a848da08b6eb428a6bf9353f5f92294a4cba3ee464e4cf5",
+    "url": "https://tokenscan.io/img/cards/MURASAKIPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NATIVEPEPETH.png": {
+    "asset": "NATIVEPEPETH",
+    "bytes": 225079,
+    "cards": [
+      "nativepepeth"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/NATIVEPEPETH.json",
+    "fetched_at": "2026-07-20T14:53:26+00:00",
+    "sha256": "ffe70bda6199e57895478b85b74fb5851dc8d109f69c2f2000415c952b46878a",
+    "url": "https://tokenscan.io/img/cards/NATIVEPEPETH.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NEWYEARPEPE.gif": {
+    "asset": "NEWYEARPEPE",
+    "bytes": 795954,
+    "cards": [
+      "newyearpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/NEWYEARPEPE.json",
+    "fetched_at": "2026-07-20T14:53:27+00:00",
+    "sha256": "3f370ed1a692c141c6089ac44dd598c66e1d6759c71851ec37ed84c289bb3b53",
+    "url": "https://tokenscan.io/img/cards/NEWYEARPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NOBORDERPEPE.gif": {
+    "asset": "NOBORDERPEPE",
+    "bytes": 283245,
+    "cards": [
+      "noborderpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/NOBORDERPEPE.json",
+    "fetched_at": "2026-07-20T14:53:32+00:00",
+    "sha256": "e11ebb0d08d1949b356355c8c2759efb4f1e33ddda635ddf541c351dd3a8b80a",
+    "url": "https://tokenscan.io/img/cards/NOBORDERPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NOBUSHIPEPE.png": {
+    "asset": "NOBUSHIPEPE",
+    "bytes": 185268,
+    "cards": [
+      "nobushipepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:35+00:00",
+    "sha256": "05c9506a8fbc3319aad417984fbc25a70941a37a3157953ca80c5a4c06da7c19",
+    "url": "https://tokenscan.io/img/cards/NOBUSHIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NOHPEPE.jpg": {
+    "asset": "NOHPEPE",
+    "bytes": 66994,
+    "cards": [
+      "nohpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/NOHPEPE.json",
+    "fetched_at": "2026-07-20T14:53:37+00:00",
+    "sha256": "11c14e24226c46f735a695b774ed33aaa35820d907ee9b4794670f2f9767de91",
+    "url": "https://tokenscan.io/img/cards/NOHPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ONSENPEPE.png": {
+    "asset": "ONSENPEPE",
+    "bytes": 98192,
+    "cards": [
+      "onsenpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/ONSENPEPE.json",
+    "fetched_at": "2026-07-20T14:53:42+00:00",
+    "sha256": "0d4ab98e4fb0cdbd53fce2c84fff63e7e03095698071fd2cb72c423ba8937ee0",
+    "url": "https://tokenscan.io/img/cards/ONSENPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEEKABOOPEPE.gif": {
+    "asset": "PEEKABOOPEPE",
+    "bytes": 269519,
+    "cards": [
+      "peekaboopepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEEKABOOPEPE.json",
+    "fetched_at": "2026-07-20T14:53:44+00:00",
+    "sha256": "f3411d38816826b28c834f87f84143572e8a5d3b81a86a5861336ed64ac40ece",
+    "url": "https://tokenscan.io/img/cards/PEEKABOOPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PENPEN.gif": {
+    "asset": "PENPEN",
+    "bytes": 1465292,
+    "cards": [
+      "penpen"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PENPEN.json",
+    "fetched_at": "2026-07-20T14:53:45+00:00",
+    "sha256": "ee657bcb26a4559b7029868bbfbf719ca32c6e48825587ff9100f7522e1d0d05",
+    "url": "https://tokenscan.io/img/cards/PENPEN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEADDICTS.png": {
+    "asset": "PEPEADDICTS",
+    "bytes": 175012,
+    "cards": [
+      "pepeaddicts"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEADDICTS.json",
+    "fetched_at": "2026-07-20T14:53:48+00:00",
+    "sha256": "b9c60cd746ebd5365097b107e55ce21781cd859ca27f0468aa2995fa3a5ae80d",
+    "url": "https://tokenscan.io/img/cards/PEPEADDICTS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEAKI.png": {
+    "asset": "PEPEAKI",
+    "bytes": 541210,
+    "cards": [
+      "pepeaki"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEAKI.json",
+    "fetched_at": "2026-07-20T14:53:49+00:00",
+    "sha256": "720f5166991b56a9f3dcee5d9f720a27493569e6253ed35e8d29be5d9861f530",
+    "url": "https://tokenscan.io/img/cards/PEPEAKI.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEAKIBA.jpg": {
+    "asset": "PEPEAKIBA",
+    "bytes": 67489,
+    "cards": [
+      "pepeakiba"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEAKIBA.json",
+    "fetched_at": "2026-07-20T14:53:51+00:00",
+    "sha256": "208d8c576e5497ef31bbe37dba7bd51f95e8c0032a9e9815647ad04b7f1f87d7",
+    "url": "https://tokenscan.io/img/cards/PEPEAKIBA.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEAN.png": {
+    "asset": "PEPEAN",
+    "bytes": 236897,
+    "cards": [
+      "pepean"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEAN.json",
+    "fetched_at": "2026-07-20T14:53:52+00:00",
+    "sha256": "2d71dc137c48bf1a3057ed6be2b831bc0a675f6b90d47664122d05fa4fd74f6b",
+    "url": "https://tokenscan.io/img/cards/PEPEAN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEARROW.png": {
+    "asset": "PEPEARROW",
+    "bytes": 128453,
+    "cards": [
+      "pepearrow"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEARROW.json",
+    "fetched_at": "2026-07-20T14:53:54+00:00",
+    "sha256": "820e4807b4d9b4ed56b0defe28fb799e6223585432d9e0b66ea8424469c70dfd",
+    "url": "https://tokenscan.io/img/cards/PEPEARROW.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBALL.png": {
+    "asset": "PEPEBALL",
+    "bytes": 337970,
+    "cards": [
+      "pepeball"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEBALL.json",
+    "fetched_at": "2026-07-20T14:53:55+00:00",
+    "sha256": "7bb133285d6fc170868b868023e904dc49c92b32644dd0c8142915e36df340be",
+    "url": "https://tokenscan.io/img/cards/PEPEBALL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBALLOON.gif": {
+    "asset": "PEPEBALLOON",
+    "bytes": 1515046,
+    "cards": [
+      "pepeballoon"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEBALLOON.json",
+    "fetched_at": "2026-07-20T14:53:56+00:00",
+    "sha256": "569680ae368019cd69312b2cba04af2cf78e503de2e97c215b439254a244824b",
+    "url": "https://tokenscan.io/img/cards/PEPEBALLOON.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBASS.png": {
+    "asset": "PEPEBASS",
+    "bytes": 179365,
+    "cards": [
+      "pepebass"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEBASS.json",
+    "fetched_at": "2026-07-20T14:53:57+00:00",
+    "sha256": "e493afbdb2f10d0765d77ec3520723b1575fe4bfc6669cc4f54566395104505a",
+    "url": "https://tokenscan.io/img/cards/PEPEBASS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBRICCO.jpg": {
+    "asset": "PEPEBRICCO",
+    "bytes": 54085,
+    "cards": [
+      "pepebricco"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEBRICCO.json",
+    "fetched_at": "2026-07-20T14:54:01+00:00",
+    "sha256": "b11b65f4936913d4dcecfa16c0034c53b0fb89d8c6fc4b1c020d7fea8572b24d",
+    "url": "https://tokenscan.io/img/cards/PEPEBRICCO.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBRIEFS.png": {
+    "asset": "PEPEBRIEFS",
+    "bytes": 170598,
+    "cards": [
+      "pepebriefs"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEBRIEFS.json",
+    "fetched_at": "2026-07-20T14:54:02+00:00",
+    "sha256": "81dd60a6d78da2266d6f2dedf9d6285c438316e94259deb16b870bd684b3d89a",
+    "url": "https://tokenscan.io/img/cards/PEPEBRIEFS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPECAFFE.gif": {
+    "asset": "PEPECAFFE",
+    "bytes": 39292,
+    "cards": [
+      "pepecaffe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPECAFFE.json",
+    "fetched_at": "2026-07-20T14:54:03+00:00",
+    "sha256": "bf2a42daa3919562579fac2325326b548cd416e3a057a54ef5da6089b6d91dff",
+    "url": "https://tokenscan.io/img/cards/PEPECAFFE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPECART.gif": {
+    "asset": "PEPECART",
+    "bytes": 632538,
+    "cards": [
+      "pepecart"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPECART.json",
+    "fetched_at": "2026-07-20T14:54:04+00:00",
+    "sha256": "f0bba36c5007ea2a933ffb104dcc43f1bbeaac7e1deeb75a9678a46db87e1cd3",
+    "url": "https://tokenscan.io/img/cards/PEPECART.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDARKSIDE.png": {
+    "asset": "PEPEDARKSIDE",
+    "bytes": 399197,
+    "cards": [
+      "pepedarkside"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEDARKSIDE.json",
+    "fetched_at": "2026-07-20T14:54:06+00:00",
+    "sha256": "36aec6764616e9285bbb45d3b3c32358a83c70a97b5a994b1cfec22bf5221276",
+    "url": "https://tokenscan.io/img/cards/PEPEDARKSIDE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDJ.jpg": {
+    "asset": "PEPEDJ",
+    "bytes": 47708,
+    "cards": [
+      "pepedj"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEDJ.json",
+    "fetched_at": "2026-07-20T14:54:08+00:00",
+    "sha256": "2b702647cb71db897c4a2620f1b0969deb76941bb434d3ec1d88b021415a3dd9",
+    "url": "https://tokenscan.io/img/cards/PEPEDJ.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDOL.png": {
+    "asset": "PEPEDOL",
+    "bytes": 370921,
+    "cards": [
+      "pepedol"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEDOL.json",
+    "fetched_at": "2026-07-20T14:54:09+00:00",
+    "sha256": "f2e624d34a5051b386eb3339527cb591babdf50790d86047c4240f8af8329af0",
+    "url": "https://tokenscan.io/img/cards/PEPEDOL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDZILLA-1.png": {
+    "asset": "PEPEDZILLA",
+    "bytes": 99276,
+    "cards": [
+      "pepedzilla"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:54:10+00:00",
+    "sha256": "88c2d03a6b3aa4412b3d358e96a5b22ae0566ad42174d906fcd2ce502d4b1906",
+    "url": "https://tokenscan.io/img/cards/PEPEDZILLA.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEEVO.png": {
+    "asset": "PEPEEVO",
+    "bytes": 302801,
+    "cards": [
+      "pepeevo"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEEVO.json",
+    "fetched_at": "2026-07-20T14:54:12+00:00",
+    "sha256": "0df4c0cfbae1267dceda662c96c625d77a517fa9269cf2559eda6d8fa039b557",
+    "url": "https://tokenscan.io/img/cards/PEPEEVO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFLIES.png": {
+    "asset": "PEPEFLIES",
+    "bytes": 233598,
+    "cards": [
+      "pepeflies"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFLIES.json",
+    "fetched_at": "2026-07-20T14:54:13+00:00",
+    "sha256": "e211dda5c13b15bf92c9056101c569384ab4b65c5c64a7a42eb02b1f935204c2",
+    "url": "https://tokenscan.io/img/cards/PEPEFLIES.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFOREVER.png": {
+    "asset": "PEPEFOREVER",
+    "bytes": 213208,
+    "cards": [
+      "pepeforever"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:54:14+00:00",
+    "sha256": "f369574119907e437adbf4883f0b241f504d94f4e0b8971b594deb0b024d03d6",
+    "url": "https://tokenscan.io/img/cards/PEPEFOREVER.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFORM.png": {
+    "asset": "PEPEFORM",
+    "bytes": 32934,
+    "cards": [
+      "pepeform"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFORM.json",
+    "fetched_at": "2026-07-20T14:54:15+00:00",
+    "sha256": "3baf6eabf039f390a5c3fb61fac0c8d35a39167898392aa8aecdb213e19f3c04",
+    "url": "https://tokenscan.io/img/cards/PEPEFORM.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFRACTAL.png": {
+    "asset": "PEPEFRACTAL",
+    "bytes": 200368,
+    "cards": [
+      "pepefractal"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFRACTAL.json",
+    "fetched_at": "2026-07-20T14:54:16+00:00",
+    "sha256": "ea7cf32b3b9250990dc7fef3769abc58c330b87282aca0ab031223c8379699a9",
+    "url": "https://tokenscan.io/img/cards/PEPEFRACTAL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFUYU.png": {
+    "asset": "PEPEFUYU",
+    "bytes": 70076,
+    "cards": [
+      "pepefuyu"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFUYU.json",
+    "fetched_at": "2026-07-20T14:54:18+00:00",
+    "sha256": "ed2fb7ace595475c1a698cbb691c689f019b952a1bb4c498b2e6510d8a462fb5",
+    "url": "https://tokenscan.io/img/cards/PEPEFUYU.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEGIRL.png": {
+    "asset": "PEPEGIRL",
+    "bytes": 198576,
+    "cards": [
+      "pepegirl"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEGIRL.json",
+    "fetched_at": "2026-07-20T14:54:19+00:00",
+    "sha256": "27a8d8deb63c7e380bc9b484e3cd5c2cc0351978493b567b2c5c38158eedddd5",
+    "url": "https://tokenscan.io/img/cards/PEPEGIRL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEGREEN.jpg": {
+    "asset": "PEPEGREEN",
+    "bytes": 13504,
+    "cards": [
+      "pepegreen"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEGREEN.json",
+    "fetched_at": "2026-07-20T14:54:20+00:00",
+    "sha256": "a4470f2f7d2fa87fcfbe5b94ed8bfd7d67cc3f58b6b486c3968ee527b5d98125",
+    "url": "https://tokenscan.io/img/cards/PEPEGREEN.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEHAND.png": {
+    "asset": "PEPEHAND",
+    "bytes": 521179,
+    "cards": [
+      "pepehand"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEHAND.json",
+    "fetched_at": "2026-07-20T14:54:21+00:00",
+    "sha256": "d1de6aed8a2d6de2e415847f91980a3be3d14d0d72d8fe66c81421156107b2b8",
+    "url": "https://tokenscan.io/img/cards/PEPEHAND.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEHARU.png": {
+    "asset": "PEPEHARU",
+    "bytes": 161258,
+    "cards": [
+      "pepeharu"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEHARU.json",
+    "fetched_at": "2026-07-20T14:54:23+00:00",
+    "sha256": "4b01732292c99ec99b6c164db096d68a6d0db624ab404ea9b9e3a0c68d834646",
+    "url": "https://tokenscan.io/img/cards/PEPEHARU.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEJIRAIYA.jpg": {
+    "asset": "PEPEJIRAIYA",
+    "bytes": 56757,
+    "cards": [
+      "pepejiraiya"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEJIRAIYA.json",
+    "fetched_at": "2026-07-20T14:54:24+00:00",
+    "sha256": "094a000e19c0465c7596f7ad56746e1bb8b0c47868e137c09622439d7108bb55",
+    "url": "https://tokenscan.io/img/cards/PEPEJIRAIYA.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEJIRO.png": {
+    "asset": "PEPEJIRO",
+    "bytes": 392254,
+    "cards": [
+      "pepejiro"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEJIRO.json",
+    "fetched_at": "2026-07-20T14:54:25+00:00",
+    "sha256": "170652b110d980e1beb9a8b23e57a3ffe394e0ab3213f941c45785feed013942",
+    "url": "https://tokenscan.io/img/cards/PEPEJIRO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEJPN.gif": {
+    "asset": "PEPEJPN",
+    "bytes": 954655,
+    "cards": [
+      "pepejpn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEJPN.json",
+    "fetched_at": "2026-07-20T14:54:27+00:00",
+    "sha256": "1cfd5ba2f4d71f25d895c5feed1d53073c8dba99d4c0b1abb4a18a333499e962",
+    "url": "https://tokenscan.io/img/cards/PEPEJPN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEKAPARKER.png": {
+    "asset": "PEPEKAPARKER",
+    "bytes": 526889,
+    "cards": [
+      "pepekaparker"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEKAPARKER.json",
+    "fetched_at": "2026-07-20T14:54:28+00:00",
+    "sha256": "d154e8577a4b44ac12c5fe36e068f8b0f6259778330b90d2963f1fd44966f86d",
+    "url": "https://tokenscan.io/img/cards/PEPEKAPARKER.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEMAONE.jpg": {
+    "asset": "PEPEMAONE",
+    "bytes": 135215,
+    "cards": [
+      "pepemaone"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEMAONE.json",
+    "fetched_at": "2026-07-20T14:54:31+00:00",
+    "sha256": "e34e2f4c084e395f3599ca0a703e0d9b80b60340821ce7062dd039422d68a701",
+    "url": "https://tokenscan.io/img/cards/PEPEMAONE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEMERMAN.png": {
+    "asset": "PEPEMERMAN",
+    "bytes": 267688,
+    "cards": [
+      "pepemerman"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEMERMAN.json",
+    "fetched_at": "2026-07-20T14:54:32+00:00",
+    "sha256": "788d8eb1234cd633871e6b96da86f134d7df09998827f09e5706090ff521919c",
+    "url": "https://tokenscan.io/img/cards/PEPEMERMAN.png"
   },
   "data/source/image/Recovered/japanese-sog/CCMCARD.jpg": {
     "asset": "CCMCARD",
