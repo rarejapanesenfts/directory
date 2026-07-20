@@ -1,6 +1,6 @@
 // Build-time image pipeline (run via `bun run scripts/optimize-images.ts`).
 //
-// Reads data/json/nfts.json, processes the ~218 cards that have an
+// Reads data/json/nfts.json, processes the ~645 cards that have an
 // `image.local` path, and writes optimized WebP into static/img/:
 //   - a 400px-wide thumbnail (static first frame, for the grid)
 //   - a max-1200px-wide "full" image (for the detail page; never upscaled)
