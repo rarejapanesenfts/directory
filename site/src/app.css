@@ -1,0 +1,170 @@
+:root {
+	--bg: #faf8f5;
+	--surface: #ffffff;
+	--surface-2: #f0ece6;
+	--text: #1b1a18;
+	--muted: #6b655d;
+	--border: #e2dcd3;
+	--accent: #b91c1c;
+	--accent-fg: #ffffff;
+	--max-width: 1140px;
+	font-family:
+		system-ui,
+		-apple-system,
+		'Segoe UI',
+		'Hiragino Kaku Gothic ProN',
+		'Noto Sans JP',
+		Meiryo,
+		sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--bg: #16130f;
+		--surface: #211d18;
+		--surface-2: #2b261f;
+		--text: #f2ede4;
+		--muted: #a49c8f;
+		--border: #38322a;
+		--accent: #ef4444;
+		--accent-fg: #ffffff;
+	}
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	background: var(--bg);
+	color: var(--text);
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+	min-height: 100vh;
+	line-height: 1.5;
+	display: flex;
+	flex-direction: column;
+}
+
+body > div {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+a {
+	color: var(--accent);
+}
+
+img {
+	max-width: 100%;
+}
+
+.wrap {
+	width: 100%;
+	max-width: var(--max-width);
+	margin: 0 auto;
+	padding: 0 1rem;
+}
+
+main.wrap {
+	flex: 1 0 auto;
+	padding-top: 1.5rem;
+	padding-bottom: 3rem;
+}
+
+/* Header */
+.site-header {
+	border-bottom: 1px solid var(--border);
+	background: color-mix(in srgb, var(--surface) 88%, transparent);
+	backdrop-filter: blur(6px);
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.header-inner {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 1rem;
+	padding-top: 0.7rem;
+	padding-bottom: 0.7rem;
+}
+.brand {
+	display: flex;
+	align-items: center;
+	gap: 0.6rem;
+	text-decoration: none;
+	color: inherit;
+}
+.brand-mark {
+	display: grid;
+	place-items: center;
+	width: 2rem;
+	height: 2rem;
+	border-radius: 7px;
+	background: var(--accent);
+	color: var(--accent-fg);
+	font-weight: 700;
+}
+.brand-text {
+	display: flex;
+	flex-direction: column;
+	line-height: 1.15;
+}
+.brand-text strong {
+	font-size: 1rem;
+}
+.brand-text small {
+	font-size: 0.72rem;
+	color: var(--muted);
+}
+.lang a {
+	text-decoration: none;
+	font-size: 0.85rem;
+	white-space: nowrap;
+	padding: 0.35rem 0.7rem;
+	border: 1px solid var(--border);
+	border-radius: 999px;
+	color: var(--text);
+}
+.lang a:hover {
+	border-color: var(--accent);
+	color: var(--accent);
+}
+
+/* Compact header on small phones: drop the tagline and shrink the wordmark so
+   it stays on one line next to the language toggle instead of double-wrapping. */
+@media (max-width: 430px) {
+	.header-inner {
+		padding-top: 0.55rem;
+		padding-bottom: 0.55rem;
+	}
+	.brand {
+		gap: 0.5rem;
+	}
+	.brand-mark {
+		width: 1.75rem;
+		height: 1.75rem;
+	}
+	.brand-text strong {
+		font-size: 0.92rem;
+	}
+	.brand-text small {
+		display: none;
+	}
+}
+
+/* Footer */
+.site-footer {
+	flex-shrink: 0;
+	border-top: 1px solid var(--border);
+	padding: 1.25rem 0;
+	color: var(--muted);
+	font-size: 0.82rem;
+}

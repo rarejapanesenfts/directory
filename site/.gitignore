@@ -1,0 +1,9 @@
+node_modules
+/build
+/.svelte-kit
+/static/img
+/.image-cache
+.env
+.env.*
+!.env.example
+.DS_Store
