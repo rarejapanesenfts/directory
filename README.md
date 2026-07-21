@@ -24,7 +24,7 @@ bun run check      # 型チェック(svelte-check)
 
 - **ルーティング**: `/ja/`・`/en/` の2ロケール。カード646・シリーズ58・アーティスト79の
   個別ページを全プリレンダー。ルート `/` は `/ja/` へリダイレクト。
-- **画像**: `bun run build` 時に `scripts/optimize-images.ts` が `image.local` を持つ218件を
+- **画像**: `bun run build` 時に `scripts/optimize-images.ts` が `image.local` を持つ645件を
   WebP化(サムネイル400px / 詳細用最大1200px、アニメGIFはアニメWebP)。出力は `static/img/`
   (gitignore)、マニフェストは `src/lib/data/images.json`。`.image-cache/` で未変更分はスキップ。
   画像が無いカードはイニシャルのプレースホルダー表示。
@@ -41,7 +41,8 @@ data/
 │   ├── NFTs-Export-2022-June-11-0636.csv    # WordPressエクスポート(変換の入力)
 │   ├── NFTs-Export-2022-June-11-0636 - sheet1.csv  # 上記の10列抜粋(参考。変換には未使用)
 │   ├── artists-enrichment.json              # scripts/enrich_artists.py の出力(中間データ)
-│   ├── image/               # ローカル画像 242枚(シリーズ別フォルダ)
+│   ├── image-recovered.json                 # scripts/fetch_missing_images.py の取得来歴(URL/sha256)
+│   ├── image/               # ローカル画像(シリーズ別フォルダ 243枚 + Recovered/ 422枚)
 │   └── other/               # Excel台帳・ホワイトペーパー・サイト文言などの原稿類
 ├── json/                    # ★正規化済みデータ(サイトはここを読む)
 │   ├── nfts.json            # 全カードの配列(646作品、id昇順)
@@ -51,6 +52,7 @@ data/
 scripts/
 ├── convert.py               # CSV → data/json/ 変換(標準ライブラリのみ)
 ├── enrich_artists.py        # アーティストxlsx → artists-enrichment.json(要openpyxl)
+├── fetch_missing_images.py  # 欠損カード画像を tokenscan.io から回収(標準ライブラリのみ)
 └── requirements.txt
 ```
 
@@ -77,7 +79,7 @@ scripts/
 | `totalSupply` | 発行数 |
 | `chains[]` | `{name, url}` の配列。発行チェーンとトークン照会リンク(xchain.io等) |
 | `image.source` | 旧サイトでのフィーチャー画像ファイル名(全646作品で一意)。旧サイトは閉鎖済みでURLは参照できないため、サイト構築時に画像を配置する際の紐付けキーとして使う |
-| `image.local` | リポジトリ内で照合できた画像パス(無い作品は null。218/646件) |
+| `image.local` | リポジトリ内で照合できた画像パス(無い作品は null。645/646件、欠けは `dogemusk` のみ) |
 | `publishedAt` | 旧サイトでの投稿日(来歴) |
 | `translationKey` | 元CSVの対訳キー(再変換時の突合用) |
 
@@ -118,6 +120,7 @@ python3 scripts/convert.py                # CSV → data/json/ + data/ISSUES.md
 ## スコープ外(今後の課題)
 
 - `data/source/other/` のdocx原稿(シリーズ紹介文・ホワイトペーパー・コラム)のJSON/Markdown化
-- 画像のリネーム・再配置(ローカル画像は242枚と不完全なため、全量取得時にまとめて実施)
+- 画像のリネーム・再配置(欠損分は `scripts/fetch_missing_images.py` で tokenscan.io から回収済み。
+  未取得は DOGEMUSK 1枚のみ — 参照先の easyasset.art のメタデータが消失しており要別途入手)
 - BitGirls出演者の実名対応表(`データ入力.xlsx`)の扱い(公開可否の編集判断が必要)
 - `data/ISSUES.md` に列挙された元データの修正(typo画像ファイル、xlsxの二重管理など)

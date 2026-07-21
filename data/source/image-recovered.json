@@ -1,0 +1,5071 @@
+{
+  "data/source/image/Recovered/badger-capsule/DAMENFT.png": {
+    "asset": "DAMENFT",
+    "bytes": 593693,
+    "cards": [
+      "damenft"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/CKtH0lh.png;DAMENFT",
+    "fetched_at": "2026-07-20T14:48:34+00:00",
+    "sha256": "4c9d6b89c18a529d488983b46901a2d5aecbd23456867755dad2832e5cdce6db",
+    "url": "https://i.imgur.com/CKtH0lh.png"
+  },
+  "data/source/image/Recovered/badger-capsule/DEFITEST.png": {
+    "asset": "DEFITEST",
+    "bytes": 508377,
+    "cards": [
+      "defitest"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/Z8oScpB.png;DEFITEST",
+    "fetched_at": "2026-07-20T14:48:35+00:00",
+    "sha256": "14db30056f6b5af28898e1f2248c3d6fcbcc1010ae2b78d9598918c57072020f",
+    "url": "https://i.imgur.com/Z8oScpB.png"
+  },
+  "data/source/image/Recovered/badger-capsule/GOXGIRL-1.png": {
+    "asset": "GOXGIRL",
+    "bytes": 414200,
+    "cards": [
+      "goxgirl"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/rGQK6VV.png;GOXGIRL",
+    "fetched_at": "2026-07-20T14:52:26+00:00",
+    "sha256": "dd6efad2930b190d99ed93c44efb7479790bc06e1f6327a45c3e6d3e52be6203",
+    "url": "https://i.imgur.com/rGQK6VV.png"
+  },
+  "data/source/image/Recovered/badger-capsule/HWFASHION.png": {
+    "asset": "HWFASHION",
+    "bytes": 436887,
+    "cards": [
+      "hwfashion"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/fSZmmwa.png;HWFASHION",
+    "fetched_at": "2026-07-20T14:52:37+00:00",
+    "sha256": "9775164a5f701db9143d288245c61a8c63337d1847a51f89600164258ebcdbcb",
+    "url": "https://i.imgur.com/fSZmmwa.png"
+  },
+  "data/source/image/Recovered/badger-capsule/HanseikaiNFT_jityama-779-pom.png": {
+    "asset": "KAMATTE",
+    "bytes": 473559,
+    "cards": [
+      "kamatte"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/pxKEh3F.png;KAMATTE",
+    "fetched_at": "2026-07-20T14:52:38+00:00",
+    "sha256": "25efd7a8db6742e059a013bf2d4145f0c070a720f02386fbde6c452053c6bd21",
+    "url": "https://i.imgur.com/pxKEh3F.png"
+  },
+  "data/source/image/Recovered/badger-capsule/INUCOINER.gif": {
+    "asset": "INUCOINER",
+    "bytes": 1336357,
+    "cards": [
+      "inucoiner"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/o2v7fTE.gif;INUCOINER",
+    "fetched_at": "2026-07-20T14:52:43+00:00",
+    "sha256": "89c08c1fd8f63ae7c9c96f172e0c944397df6a7195eb9d8977c7deb8ee086bc3",
+    "url": "https://i.imgur.com/o2v7fTE.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/JOSHIKI.png": {
+    "asset": "JOSHIKI",
+    "bytes": 708563,
+    "cards": [
+      "joshiki"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/N6eh9eE.png;JOSHIKI",
+    "fetched_at": "2026-07-20T14:52:47+00:00",
+    "sha256": "54c10eb71f15fd166c5645faf6ba621e65043a5cb0823320f4f32592b1308bed",
+    "url": "https://i.imgur.com/N6eh9eE.png"
+  },
+  "data/source/image/Recovered/badger-capsule/KOEDAME.gif": {
+    "asset": "KOEDAME",
+    "bytes": 667661,
+    "cards": [
+      "koedame"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/tb9Pvqe.gif;KOEDAME",
+    "fetched_at": "2026-07-20T14:52:54+00:00",
+    "sha256": "e2586ec3d9711854ddd6c88705c1d958362e81f933c2122513cdb578f1cdc8c5",
+    "url": "https://i.imgur.com/tb9Pvqe.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/KOEDAME_pom-779-pom.png": {
+    "asset": "HAGEPEPE",
+    "bytes": 503572,
+    "cards": [
+      "hagepepe"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/23sHdiZ.png;HAGEPEPE",
+    "fetched_at": "2026-07-20T14:52:55+00:00",
+    "sha256": "56e291c1ce676b3d6c7014b3a0704f0da48c35103c44530e2180bae43ce96efe",
+    "url": "https://i.imgur.com/23sHdiZ.png"
+  },
+  "data/source/image/Recovered/badger-capsule/LOVENFT.png": {
+    "asset": "LOVENFT",
+    "bytes": 482854,
+    "cards": [
+      "lovenft"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/me9XZnD.png;LOVENFT",
+    "fetched_at": "2026-07-20T14:53:05+00:00",
+    "sha256": "9d84ebf7dff0dc2cfad562c962b3419fe61f2bf8c660350368dc00f222bc4a8b",
+    "url": "https://i.imgur.com/me9XZnD.png"
+  },
+  "data/source/image/Recovered/badger-capsule/MAKAI.png": {
+    "asset": "MAKAI",
+    "bytes": 559128,
+    "cards": [
+      "makai"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/lTFObBH.png;MAKAI",
+    "fetched_at": "2026-07-20T14:53:06+00:00",
+    "sha256": "56f690295de80ce754fb4ac5bbeaddd9098d96c59ea6b13c2dbdeb5ba2da4e8d",
+    "url": "https://i.imgur.com/lTFObBH.png"
+  },
+  "data/source/image/Recovered/badger-capsule/METAKITSUNE.png": {
+    "asset": "METAKITSUNE",
+    "bytes": 1092886,
+    "cards": [
+      "metakitsune"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/WIz3GDD.png;METAKITSUNE",
+    "fetched_at": "2026-07-20T14:53:14+00:00",
+    "sha256": "3f80b04050cdc542a06b37461d0fcf328872cfc9df9a9274d317182cc9d3e5fc",
+    "url": "https://i.imgur.com/WIz3GDD.png"
+  },
+  "data/source/image/Recovered/badger-capsule/NFTZUKAMI.gif": {
+    "asset": "NFTZUKAMI",
+    "bytes": 1132934,
+    "cards": [
+      "nftzukami"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/sxhB537.gif;NFTZUKAMI",
+    "fetched_at": "2026-07-20T14:53:30+00:00",
+    "sha256": "149e965edc5d2e0d3bed7560448b110c872cea94017a058c0c04f68856b5aa09",
+    "url": "https://i.imgur.com/sxhB537.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/NOBUNSUN.png": {
+    "asset": "NOBUNSAN",
+    "bytes": 555192,
+    "cards": [
+      "nobunsan"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/0hkJXRA.png;NOBUNSAN",
+    "fetched_at": "2026-07-20T14:53:33+00:00",
+    "sha256": "344a565179f0aa4fb0278d5dcaf9e3af3a9aafce03401c5e0a0c86d72b2d8abb",
+    "url": "https://i.imgur.com/0hkJXRA.png"
+  },
+  "data/source/image/Recovered/badger-capsule/NOMOREDEFI.png": {
+    "asset": "NOMOREDEFI",
+    "bytes": 315769,
+    "cards": [
+      "nomoredefi"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/GnHE9uh.png;NOMOREDEFI",
+    "fetched_at": "2026-07-20T14:53:38+00:00",
+    "sha256": "77e6c84bb001c42833dcdf61b3885a069ee0f7992192a907691f540fc525d5bd",
+    "url": "https://i.imgur.com/GnHE9uh.png"
+  },
+  "data/source/image/Recovered/badger-capsule/NOTSOON-1.jpg": {
+    "asset": "NOTSOON",
+    "bytes": 1285173,
+    "cards": [
+      "notsoon"
+    ],
+    "content_type": "image/jpeg",
+    "description": "imgur/i9F7viE.jpg;NOTSOON",
+    "fetched_at": "2026-07-20T14:53:39+00:00",
+    "sha256": "4712fb2d2d02221a5f6209e312bcaa8e23b3bf153f44971b6fc255e18827de9c",
+    "url": "https://i.imgur.com/i9F7viE.jpg"
+  },
+  "data/source/image/Recovered/badger-capsule/OSHIKOMARE.png": {
+    "asset": "OSHIKOMARE",
+    "bytes": 65503,
+    "cards": [
+      "oshikomare"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/pwoqZXl.png;OSHIKOMARE",
+    "fetched_at": "2026-07-20T14:53:43+00:00",
+    "sha256": "f2712e59f4e74ed2971f7e5f63a009bfb51df8c3a338e5cd984c5793d9cc4efc",
+    "url": "https://i.imgur.com/pwoqZXl.png"
+  },
+  "data/source/image/Recovered/badger-capsule/PEPEBAZAAR-1.png": {
+    "asset": "PEPEBAZAAR",
+    "bytes": 441332,
+    "cards": [
+      "pepebazaar"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/a7Udw2i.png;PEPEBAZAAR",
+    "fetched_at": "2026-07-20T14:53:59+00:00",
+    "sha256": "55446e13ed5ce7c035b6fa226eef401fbeb0ce0190e4f0f799c87746d3f5a460",
+    "url": "https://i.imgur.com/a7Udw2i.png"
+  },
+  "data/source/image/Recovered/badger-capsule/ROGAI.png": {
+    "asset": "ROGAI",
+    "bytes": 170393,
+    "cards": [
+      "rogai"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/I2RQdCz.png;ROGAI",
+    "fetched_at": "2026-07-20T14:55:29+00:00",
+    "sha256": "e0a2357342a817bd95b8f1f89407bc24f70765dbbf69010fa46c78557fb6b1a8",
+    "url": "https://i.imgur.com/I2RQdCz.png"
+  },
+  "data/source/image/Recovered/badger-capsule/SCAMWAY.png": {
+    "asset": "SCAMWAY",
+    "bytes": 114547,
+    "cards": [
+      "scamway"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/348lKGr.png;SCAMWAY",
+    "fetched_at": "2026-07-20T14:55:42+00:00",
+    "sha256": "1a7325773f70c5ff3e6b2f7fab6fb86c412fbb1346cf61894e8d094582dbf6fc",
+    "url": "https://i.imgur.com/348lKGr.png"
+  },
+  "data/source/image/Recovered/badger-capsule/SHIBACOINER-1.png": {
+    "asset": "SHIBACOINER",
+    "bytes": 1734885,
+    "cards": [
+      "shibacoiner"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/hVZoX7k.png;SHIBACOINER",
+    "fetched_at": "2026-07-20T14:55:46+00:00",
+    "sha256": "8cfe4aca92cebaed064c4c9e452e4f9a77780d294152f913f7729bea4bfccbdc",
+    "url": "https://i.imgur.com/hVZoX7k.png"
+  },
+  "data/source/image/Recovered/badger-capsule/SHITTO.gif": {
+    "asset": "SHITTO",
+    "bytes": 1335724,
+    "cards": [
+      "shitto"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/NFH2GyX.gif;SHITTO",
+    "fetched_at": "2026-07-20T14:55:50+00:00",
+    "sha256": "c671ef967f8108c94b694797375801533061cea7be9f0e27a310974ad7757ed7",
+    "url": "https://i.imgur.com/NFH2GyX.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/TAKANELASER.png": {
+    "asset": "TAKANELASER",
+    "bytes": 338985,
+    "cards": [
+      "takanelaser"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/uzJVc1w.png;TAKANELASER",
+    "fetched_at": "2026-07-20T14:56:02+00:00",
+    "sha256": "a313ad742e8e07bfb3042d222cf6e8e3f022d99ed5e8983cfa2e9d35d7a0f7a5",
+    "url": "https://i.imgur.com/uzJVc1w.png"
+  },
+  "data/source/image/Recovered/badger-capsule/TAKANEZUKAMI.png": {
+    "asset": "TAKANEZUKAMI",
+    "bytes": 394350,
+    "cards": [
+      "takanezukami"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/uEsaRcX.png;TAKANEZUKAMI",
+    "fetched_at": "2026-07-20T14:56:03+00:00",
+    "sha256": "3f6327ee1d94d98cecaa7779e6683f8cb3a4290b0f99fde98342157776151496",
+    "url": "https://i.imgur.com/uEsaRcX.png"
+  },
+  "data/source/image/Recovered/badger-capsule/WAGUPEPE.png": {
+    "asset": "WAGUPEPE",
+    "bytes": 248312,
+    "cards": [
+      "wagupepe"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/0u5b3xg.png;WAGUPEPE",
+    "fetched_at": "2026-07-20T14:56:17+00:00",
+    "sha256": "68b4a02b69b7197092e853304ef036c4e36a925df43b3c639ef5bdc5b1719d29",
+    "url": "https://i.imgur.com/0u5b3xg.png"
+  },
+  "data/source/image/Recovered/badger-capsule/WELLSPILIT-KSGA.gif": {
+    "asset": "IDOJAWAN",
+    "bytes": 3162064,
+    "cards": [
+      "idojawan"
+    ],
+    "content_type": "image/gif",
+    "description": "imgur/Uo32Qk0.gif;IDOJAWAN",
+    "fetched_at": "2026-07-20T14:56:19+00:00",
+    "sha256": "b0e06236b030a6859dc77efd8c9e27e56634e2478c98a4c522a77ac12a19d6f0",
+    "url": "https://i.imgur.com/Uo32Qk0.gif"
+  },
+  "data/source/image/Recovered/badger-capsule/asayan2-st-level4.png": {
+    "asset": "FIRSTPEN",
+    "bytes": 486250,
+    "cards": [
+      "firstpen"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/mA0PDpa.png;FIRSTPEN",
+    "fetched_at": "2026-07-20T14:56:32+00:00",
+    "sha256": "d06caee6aaaeec12e5939b1515c6d251500696c8cd008331e1c1587027aeafdf",
+    "url": "https://i.imgur.com/mA0PDpa.png"
+  },
+  "data/source/image/Recovered/badger-capsule/bigstone.png": {
+    "asset": "BIGSTONE",
+    "bytes": 1067175,
+    "cards": [
+      "bigstone"
+    ],
+    "content_type": "image/png",
+    "description": "imgur/NSwJj05.png;BIGSTONE",
+    "fetched_at": "2026-07-20T14:56:33+00:00",
+    "sha256": "8e5b5db970485cc441f58d88d9abb1b50e75a72709230532be5a743666db6ba4",
+    "url": "https://i.imgur.com/NSwJj05.png"
+  },
+  "data/source/image/Recovered/bitgirls/BITGIRLSI.png": {
+    "asset": "BITGIRLSI",
+    "bytes": 327543,
+    "cards": [
+      "bitgirlsi"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/BITGIRLSI.json",
+    "fetched_at": "2026-07-20T14:48:04+00:00",
+    "sha256": "9c4e7e32b313af9656a5b302524380f51b67674ea3087034ee4992dd0b487907",
+    "url": "https://tokenscan.io/img/cards/BITGIRLSI.png"
+  },
+  "data/source/image/Recovered/bitgirls/BITGIRLSII.png": {
+    "asset": "BITGIRLSII",
+    "bytes": 328185,
+    "cards": [
+      "bitgirlsii"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/BITGIRLSII.json",
+    "fetched_at": "2026-07-20T14:48:05+00:00",
+    "sha256": "119816c102604d184140ab57e8730b6311044daee2085c6df1de054e91c256fe",
+    "url": "https://tokenscan.io/img/cards/BITGIRLSII.png"
+  },
+  "data/source/image/Recovered/bitgirls/CHIKARINBG.jpg": {
+    "asset": "CHIKARINBG",
+    "bytes": 320090,
+    "cards": [
+      "chikarinbg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/CHIKARINBG.json",
+    "fetched_at": "2026-07-20T14:48:10+00:00",
+    "sha256": "90b4670f89a80978fd460e656086a47a792b87f8abf75a27478075869218651d",
+    "url": "https://tokenscan.io/img/cards/CHIKARINBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/CHIKARINVIX.png": {
+    "asset": "CHIKARINVIX",
+    "bytes": 360863,
+    "cards": [
+      "chikarinvix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/CHIKARINVIX.json",
+    "fetched_at": "2026-07-20T14:48:11+00:00",
+    "sha256": "069e5cc4f418e4077ea20a08ef60768ae2bb254a2fc5c58cfbd0c02c12a77e7e",
+    "url": "https://tokenscan.io/img/cards/CHIKARINVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/DJASANYANBG.jpg": {
+    "asset": "DJASANYANBG",
+    "bytes": 237955,
+    "cards": [
+      "djasanyanbg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/DJASANYANBG.json",
+    "fetched_at": "2026-07-20T14:48:36+00:00",
+    "sha256": "14a2ff3453b4378b0317499ad0b6cfed4755ed3d59ce772aeb02fd81cb7e6c1c",
+    "url": "https://tokenscan.io/img/cards/DJASANYANBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/DJASANYANVIX.png": {
+    "asset": "DJASANYANVIX",
+    "bytes": 357167,
+    "cards": [
+      "djasanyanvix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/DJASANYANVIX.json",
+    "fetched_at": "2026-07-20T14:48:37+00:00",
+    "sha256": "e168ef15f2d7b2ed267d99bbae6129da28c879467c62f36cf10114bb6d148c78",
+    "url": "https://tokenscan.io/img/cards/DJASANYANVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/HINANOMAIBG.jpg": {
+    "asset": "HINANOMAIBG",
+    "bytes": 292256,
+    "cards": [
+      "hinanomaibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/HINANOMAIBG.json",
+    "fetched_at": "2026-07-20T14:52:36+00:00",
+    "sha256": "84b859577ae40e08865ac11ca00205d19b7183d1f46d11e27c5d4c5b210397d6",
+    "url": "https://tokenscan.io/img/cards/HINANOMAIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/ICHARLOTTEBG.jpg": {
+    "asset": "ICHARLOTTEBG",
+    "bytes": 288878,
+    "cards": [
+      "icharlottebg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/ICHARLOTTEBG.json",
+    "fetched_at": "2026-07-20T14:52:40+00:00",
+    "sha256": "485e0252712dfbcdd3e2b31ac88ff9ba5c76e4a5ec9a336020eeab9e7c61cef3",
+    "url": "https://tokenscan.io/img/cards/ICHARLOTTEBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/ITSUKIBG.jpg": {
+    "asset": "ITSUKIBG",
+    "bytes": 261484,
+    "cards": [
+      "itsukibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/ITSUKIBG.json",
+    "fetched_at": "2026-07-20T14:52:44+00:00",
+    "sha256": "d5d917bbbdf7df9b44cad02184f103d8f709ae8895f6d7d02b0849d8ff1f6051",
+    "url": "https://tokenscan.io/img/cards/ITSUKIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/KAORIBG.jpg": {
+    "asset": "KAORIBG",
+    "bytes": 289860,
+    "cards": [
+      "kaoribg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/KAORIBG.json",
+    "fetched_at": "2026-07-20T14:52:49+00:00",
+    "sha256": "baec69e6cab53d1dffb3c47170856c77794f2a9da1880abc18eecbba77636dde",
+    "url": "https://tokenscan.io/img/cards/KAORIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/KINOBG.jpg": {
+    "asset": "KINOBG",
+    "bytes": 295419,
+    "cards": [
+      "kinobg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/KINOBG.json",
+    "fetched_at": "2026-07-20T14:52:52+00:00",
+    "sha256": "34b6ec0de6fbea59885788009680bd70d8765841687376cba08d0a4b2b9ac364",
+    "url": "https://tokenscan.io/img/cards/KINOBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/LEENABG.jpg": {
+    "asset": "LEENABG",
+    "bytes": 279625,
+    "cards": [
+      "leenabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/LEENABG.json",
+    "fetched_at": "2026-07-20T14:53:00+00:00",
+    "sha256": "f3eb4a55e9fa41d8511e437c19026fa0ff22e4171cc492619b486b2a7301dfa6",
+    "url": "https://tokenscan.io/img/cards/LEENABG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/MAMICHANBG.jpg": {
+    "asset": "MAMICHANBG",
+    "bytes": 428360,
+    "cards": [
+      "mamichanbg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/MAMICHANBG.json",
+    "fetched_at": "2026-07-20T14:53:07+00:00",
+    "sha256": "ea1bab5a185728654fdfd4e59b7b639fbea55cb242590e8abf09131d6056824e",
+    "url": "https://tokenscan.io/img/cards/MAMICHANBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/MIZUKIBG.jpg": {
+    "asset": "MIZUKIBG",
+    "bytes": 270704,
+    "cards": [
+      "mizukibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/MIZUKIBG.json",
+    "fetched_at": "2026-07-20T14:53:18+00:00",
+    "sha256": "f89c76630c0daa9bc46d58d19bfe2fef511b4e580a0cd2c315203c0392f25b5e",
+    "url": "https://tokenscan.io/img/cards/MIZUKIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/MIZUKIVIX.png": {
+    "asset": "MIZUKIVIX",
+    "bytes": 357549,
+    "cards": [
+      "mizukivix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/MIZUKIVIX.json",
+    "fetched_at": "2026-07-20T14:53:19+00:00",
+    "sha256": "3188be160d5fd018491b6a3d6e6c4ad3f911115e46cccc534be901c5512a8965",
+    "url": "https://tokenscan.io/img/cards/MIZUKIVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/RISAVIX.png": {
+    "asset": "RISAVIX",
+    "bytes": 170890,
+    "cards": [
+      "risavix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/RISAVIX.json",
+    "fetched_at": "2026-07-20T14:59:28+00:00",
+    "sha256": "f35051143c3fd82ec85961dde172102a3a1337afb17159d947ba16a5b4f2526e",
+    "url": "https://token.zaif.jp/image/RISAVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/RUMIRUMIBG.jpg": {
+    "asset": "RUMIRUMIBG",
+    "bytes": 249148,
+    "cards": [
+      "rumirumibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/RUMIRUMIBG.json",
+    "fetched_at": "2026-07-20T14:55:30+00:00",
+    "sha256": "3d9f56f1dc9804a57b856d4fbea4b23692b67f5731e10f3530d8b771123fb1ea",
+    "url": "https://tokenscan.io/img/cards/RUMIRUMIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/RURUBG.jpg": {
+    "asset": "RURUBG",
+    "bytes": 268176,
+    "cards": [
+      "rurubg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/RURUBG.json",
+    "fetched_at": "2026-07-20T14:55:31+00:00",
+    "sha256": "f317cf61e046af8bb50b1f23239cefe585eda7ca270543fe965091c6d1af0b94",
+    "url": "https://tokenscan.io/img/cards/RURUBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/SANOMAYABG.jpg": {
+    "asset": "SANOMAYABG",
+    "bytes": 270606,
+    "cards": [
+      "sanomayabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/SANOMAYABG.json",
+    "fetched_at": "2026-07-20T14:55:36+00:00",
+    "sha256": "a6a2fbb146a99362c2517349d5e2b3fade1795589286dfbae28e4f7230e29393",
+    "url": "https://tokenscan.io/img/cards/SANOMAYABG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/SANOMAYAVIX.png": {
+    "asset": "SANOMAYAVIX",
+    "bytes": 331347,
+    "cards": [
+      "sanomayavix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/SANOMAYAVIX.json",
+    "fetched_at": "2026-07-20T14:55:37+00:00",
+    "sha256": "758af6428c2260d38bdaa1cdfd985f9b517f2298372127e91671ff572d8b4f4a",
+    "url": "https://tokenscan.io/img/cards/SANOMAYAVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/SATOAYAKABG.jpg": {
+    "asset": "SATOAYAKABG",
+    "bytes": 255625,
+    "cards": [
+      "satoayakabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/SATOAYAKABG.json",
+    "fetched_at": "2026-07-20T14:55:41+00:00",
+    "sha256": "08badd436a6b86c6ada033b00b0b93ff194546c1ab3bb39b363e3287a0e64626",
+    "url": "https://tokenscan.io/img/cards/SATOAYAKABG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/SHIMARENABG.jpg": {
+    "asset": "SHIMARENABG",
+    "bytes": 258484,
+    "cards": [
+      "shimarenabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/SHIMARENABG.json",
+    "fetched_at": "2026-07-20T14:55:47+00:00",
+    "sha256": "7340843f14a69a5dfcaa8ede2bf7e08a510fe78c8458f5c91ae71f9e3b8bba1d",
+    "url": "https://tokenscan.io/img/cards/SHIMARENABG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/SHIRAHOSHIBG.jpg": {
+    "asset": "SHIRAHOSHIBG",
+    "bytes": 262910,
+    "cards": [
+      "shirahoshibg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/SHIRAHOSHIBG.json",
+    "fetched_at": "2026-07-20T14:55:48+00:00",
+    "sha256": "db44f6bb7606a97c6b7d4d4a7cbeb5c4714cf14360281199e8af5f248cbc55f6",
+    "url": "https://tokenscan.io/img/cards/SHIRAHOSHIBG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/SIRAHOSIVIX.png": {
+    "asset": "SIRAHOSIVIX",
+    "bytes": 320325,
+    "cards": [
+      "sirahosivix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/SIRAHOSIVIX.json",
+    "fetched_at": "2026-07-20T14:55:52+00:00",
+    "sha256": "95592d89eff4a21ae8c3ab3dbf49b68196ffe69bc42890358548a227d160fd81",
+    "url": "https://tokenscan.io/img/cards/SIRAHOSIVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/TSUKASABG.jpg": {
+    "asset": "TSUKASABG",
+    "bytes": 252211,
+    "cards": [
+      "tsukasabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/TSUKASABG.json",
+    "fetched_at": "2026-07-20T14:56:06+00:00",
+    "sha256": "eb3e9ff1902f72c55a636316356b5ff16a44a7dc6017324d792152640bc211c4",
+    "url": "https://tokenscan.io/img/cards/TSUKASABG.jpg"
+  },
+  "data/source/image/Recovered/bitgirls/TSUKASAVIX.png": {
+    "asset": "TSUKASAVIX",
+    "bytes": 359684,
+    "cards": [
+      "tsukasavix"
+    ],
+    "content_type": "image/png",
+    "description": "token.zaif.jp/json/TSUKASAVIX.json",
+    "fetched_at": "2026-07-20T14:56:08+00:00",
+    "sha256": "09d967b7355024f5ddee9b939e81af08c2cd6def946b6e4071e04b1001adb034",
+    "url": "https://tokenscan.io/img/cards/TSUKASAVIX.png"
+  },
+  "data/source/image/Recovered/bitgirls/YAMAGUCHIABG.jpg": {
+    "asset": "YAMAGUCHIABG",
+    "bytes": 313766,
+    "cards": [
+      "yamaguchiabg"
+    ],
+    "content_type": "image/jpeg",
+    "description": "token.zaif.jp/json/YAMAGUCHIABG.json",
+    "fetched_at": "2026-07-20T14:56:22+00:00",
+    "sha256": "650a5e2729c3c85475761c6eb7ce6107c57a8f392a8edfa7af2cb13f8d65124a",
+    "url": "https://tokenscan.io/img/cards/YAMAGUCHIABG.jpg"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCALHAZRC.png": {
+    "asset": "FWCFCALHAZRC",
+    "bytes": 1051042,
+    "cards": [
+      "fwcfcalhazrc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:48:58+00:00",
+    "sha256": "eb91947066fc872bf0b24ba933f4c0cc1ce9fe6e18108f5c0d042dd768348689",
+    "url": "https://tokenscan.io/img/cards/FWCFCALHAZRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCALTEANC.png": {
+    "asset": "FWCFCALTEANC",
+    "bytes": 1292517,
+    "cards": [
+      "fwcfcalteanc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:48:59+00:00",
+    "sha256": "156ace8406e1fdbb854ae817a13b32ad3a51570e772ffaf84bdab13b914b0985",
+    "url": "https://tokenscan.io/img/cards/FWCFCALTEANC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCANCAUTC.png": {
+    "asset": "FWCFCANCAUTC",
+    "bytes": 1054699,
+    "cards": [
+      "fwcfcancautc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:00+00:00",
+    "sha256": "befad29c8bb91c684b8416e2954ad8592f21e3a272d8731310f5aa9b4200e459",
+    "url": "https://tokenscan.io/img/cards/FWCFCANCAUTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCANCIENC.png": {
+    "asset": "FWCFCANCIENC",
+    "bytes": 1156911,
+    "cards": [
+      "fwcfcancienc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:01+00:00",
+    "sha256": "95a5df97ef55eb2b0ef069e1c4bab4fa25edd42401608ec48f36f97346f6984d",
+    "url": "https://tokenscan.io/img/cards/FWCFCANCIENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCANENCOC.png": {
+    "asset": "FWCFCANENCOC",
+    "bytes": 1125682,
+    "cards": [
+      "fwcfcanencoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:03+00:00",
+    "sha256": "aee47ed1537ac426db03a5539de3b50ad3bf1dd62821444c23775dc627c71410",
+    "url": "https://tokenscan.io/img/cards/FWCFCANENCOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCAZATHOC.png": {
+    "asset": "FWCFCAZATHOC",
+    "bytes": 1538991,
+    "cards": [
+      "fwcfcazathoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:04+00:00",
+    "sha256": "b13afaf3a938b3952cc875d534c4651ca98d15b9f8148f22f4b39d2385cc2976",
+    "url": "https://tokenscan.io/img/cards/FWCFCAZATHOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCBIRDOFC.png": {
+    "asset": "FWCFCBIRDOFC",
+    "bytes": 1022134,
+    "cards": [
+      "fwcfcbirdofc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:05+00:00",
+    "sha256": "156d2b150b52f68774e7a9bac4808b9470237545be60ba65fbdd94889274777e",
+    "url": "https://tokenscan.io/img/cards/FWCFCBIRDOFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCAPTAIC.png": {
+    "asset": "FWCFCCAPTAIC",
+    "bytes": 1098794,
+    "cards": [
+      "fwcfccaptaic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:06+00:00",
+    "sha256": "6261e73dc47fb0490aaa41ffe023ad49d4219cea379c00bf95238e965de5b42e",
+    "url": "https://tokenscan.io/img/cards/FWCFCCAPTAIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCHAPROC.png": {
+    "asset": "FWCFCCHAPROC",
+    "bytes": 1109982,
+    "cards": [
+      "fwcfcchaproc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:08+00:00",
+    "sha256": "b15751ddf3dbf594a4f9282bd049e91726c94b860d647f4684ba85f026e89495",
+    "url": "https://tokenscan.io/img/cards/FWCFCCHAPROC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCHARLOC.png": {
+    "asset": "FWCFCCHARLOC",
+    "bytes": 1334198,
+    "cards": [
+      "fwcfccharloc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:09+00:00",
+    "sha256": "e12d992c78747a51eb46aca82089fdaf78350d31a25fb8fed954be08472159f1",
+    "url": "https://tokenscan.io/img/cards/FWCFCCHARLOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCHAWATC.png": {
+    "asset": "FWCFCCHAWATC",
+    "bytes": 1465675,
+    "cards": [
+      "fwcfcchawatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:10+00:00",
+    "sha256": "1cd24901160d967b7015b24dc353be74cd851f4fb4c45efdb7774c0fe0044e61",
+    "url": "https://tokenscan.io/img/cards/FWCFCCHAWATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCHESHIC.png": {
+    "asset": "FWCFCCHESHIC",
+    "bytes": 1115840,
+    "cards": [
+      "fwcfccheshic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:11+00:00",
+    "sha256": "184ca2ca52e422728fa84b58371e98df5e2e4cd5a24218bdfef1a05ca8889768",
+    "url": "https://tokenscan.io/img/cards/FWCFCCHESHIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCLONINC.png": {
+    "asset": "FWCFCCLONINC",
+    "bytes": 1110268,
+    "cards": [
+      "fwcfccloninc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:13+00:00",
+    "sha256": "e14f017bbcada91eee3a5b8babb06ccd5b19f90d7178e94ab0c15d46e1c16e3d",
+    "url": "https://tokenscan.io/img/cards/FWCFCCLONINC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCOMBATC.png": {
+    "asset": "FWCFCCOMBATC",
+    "bytes": 1103264,
+    "cards": [
+      "fwcfccombatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:14+00:00",
+    "sha256": "6e498d39a916f859249a29bb3f6e44762d2a41d091419b609f36b7d0c00c30d8",
+    "url": "https://tokenscan.io/img/cards/FWCFCCOMBATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCREAMUC.png": {
+    "asset": "FWCFCCREAMUC",
+    "bytes": 1162808,
+    "cards": [
+      "fwcfccreamuc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:15+00:00",
+    "sha256": "46dcb4fc29739a93f31359575f234e00a102b40a75386ff89d050c4aefa6e557",
+    "url": "https://tokenscan.io/img/cards/FWCFCCREAMUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCCREATUC.png": {
+    "asset": "FWCFCCREATUC",
+    "bytes": 1126802,
+    "cards": [
+      "fwcfccreatuc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:16+00:00",
+    "sha256": "7a141a5b1278a75a382185c5d9c1ccb6dfc8d2c2e2ee8382fdaad808455103d9",
+    "url": "https://tokenscan.io/img/cards/FWCFCCREATUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCDARKNEC.png": {
+    "asset": "FWCFCDARKNEC",
+    "bytes": 1002508,
+    "cards": [
+      "fwcfcdarknec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:17+00:00",
+    "sha256": "baf33f98dbff1feda07371049887dbe0cdcf3303fc2e4e8b894010ddb2ddf881",
+    "url": "https://tokenscan.io/img/cards/FWCFCDARKNEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCDEMONOC.png": {
+    "asset": "FWCFCDEMONOC",
+    "bytes": 1301114,
+    "cards": [
+      "fwcfcdemonoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:19+00:00",
+    "sha256": "450926190955487a1a34f48a7aa7a9bc647eed3cfd9f0a168adce690af105281",
+    "url": "https://tokenscan.io/img/cards/FWCFCDEMONOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCDRAGONC.png": {
+    "asset": "FWCFCDRAGONC",
+    "bytes": 1069201,
+    "cards": [
+      "fwcfcdragonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:20+00:00",
+    "sha256": "375efb13b03cf8db581f275931c7bec33f5e92dd073a69a7df1e5a3ba93d3f39",
+    "url": "https://tokenscan.io/img/cards/FWCFCDRAGONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCDREAMIC.png": {
+    "asset": "FWCFCDREAMIC",
+    "bytes": 1181362,
+    "cards": [
+      "fwcfcdreamic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:24+00:00",
+    "sha256": "70d471790bc0ca5fe0106cd2d39717c48c3f2ab5e7d3a599d65fbd219a332d61",
+    "url": "https://tokenscan.io/img/cards/FWCFCDREAMIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCDREAMSC.png": {
+    "asset": "FWCFCDREAMSC",
+    "bytes": 1500790,
+    "cards": [
+      "fwcfcdreamsc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:25+00:00",
+    "sha256": "d1dd785cf393c6414977e526b20855b99b0d08ec45b572e8be0f6f5eb9f5e083",
+    "url": "https://tokenscan.io/img/cards/FWCFCDREAMSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCELFOFTC.png": {
+    "asset": "FWCFCELFOFTC",
+    "bytes": 1109065,
+    "cards": [
+      "fwcfcelfoftc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:26+00:00",
+    "sha256": "bab24f3215199c96f553824855981630eff43ac015bc1bef1a84fcda27531314",
+    "url": "https://tokenscan.io/img/cards/FWCFCELFOFTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCESCAPEC.png": {
+    "asset": "FWCFCESCAPEC",
+    "bytes": 1029114,
+    "cards": [
+      "fwcfcescapec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:27+00:00",
+    "sha256": "38de244fe9953b1ca662bd86be0c448428f6f87a2c000ebe072359b7eb1819d3",
+    "url": "https://tokenscan.io/img/cards/FWCFCESCAPEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCETERECC.png": {
+    "asset": "FWCFCETERECC",
+    "bytes": 1404440,
+    "cards": [
+      "fwcfceterecc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:28+00:00",
+    "sha256": "c224c9292a51df9ebf6ce8867457609e55094b0c48613373ea911d8799135cac",
+    "url": "https://tokenscan.io/img/cards/FWCFCETERECC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCETERNACpng.png": {
+    "asset": "FWCFCETERNAC",
+    "bytes": 1454222,
+    "cards": [
+      "fwcfceternac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:30+00:00",
+    "sha256": "a42f0ced74c000c9e73e5a8a2f881f244480f27e40cfb1c304224ebdf6538290",
+    "url": "https://tokenscan.io/img/cards/FWCFCETERNAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFAIRYOC.png": {
+    "asset": "FWCFCFAIRYOC",
+    "bytes": 1353641,
+    "cards": [
+      "fwcfcfairyoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:31+00:00",
+    "sha256": "5b3b9eee0cbe39670c83354072afe0278e05fb7fad907325e01c860e461ed3e7",
+    "url": "https://tokenscan.io/img/cards/FWCFCFAIRYOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFAIRYTC.png": {
+    "asset": "FWCFCFAIRYTC",
+    "bytes": 1158349,
+    "cards": [
+      "fwcfcfairytc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:33+00:00",
+    "sha256": "630388cdc6bac4fec5b6520c422a14df7f3b288d192d0ac85f1d64ef531d4d69",
+    "url": "https://tokenscan.io/img/cards/FWCFCFAIRYTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFAVORAC.png": {
+    "asset": "FWCFCFAVORAC",
+    "bytes": 1425723,
+    "cards": [
+      "fwcfcfavorac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:34+00:00",
+    "sha256": "12a456bef718efc396cc5bf90e4becf70abc9fd8f8b04ac94cfead230bc9e9ea",
+    "url": "https://tokenscan.io/img/cards/FWCFCFAVORAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFIERYCC.png": {
+    "asset": "FWCFCFIERYCC",
+    "bytes": 1586957,
+    "cards": [
+      "fwcfcfierycc",
+      "fwcfcfierycc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:35+00:00",
+    "sha256": "c72bb51a5cb1e3743216f71b382ae776b314edbe0f4e1020a803edba82be6461",
+    "url": "https://tokenscan.io/img/cards/FWCFCFIERYCC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFIREMAC.png": {
+    "asset": "FWCFCFIREMAC",
+    "bytes": 1381787,
+    "cards": [
+      "fwcfcfiremac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:36+00:00",
+    "sha256": "1e2795e1b731590f42439608c2e5f9bc78428fc66c2c075b08ff625c3d726a8d",
+    "url": "https://tokenscan.io/img/cards/FWCFCFIREMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFLAMEDC.png": {
+    "asset": "FWCFCFLAMEDC",
+    "bytes": 1325597,
+    "cards": [
+      "fwcfcflamedc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:37+00:00",
+    "sha256": "8da61a3db4fd659e5439153b4afe2b8f379609d4e8714a7c24b937895f4ea266",
+    "url": "https://tokenscan.io/img/cards/FWCFCFLAMEDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCFLYINGC.png": {
+    "asset": "FWCFCFLYINGC",
+    "bytes": 1078553,
+    "cards": [
+      "fwcfcflyingc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:39+00:00",
+    "sha256": "43280b240e2143010d43accb972017a703859ed69777e3a893b01105c677afc1",
+    "url": "https://tokenscan.io/img/cards/FWCFCFLYINGC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCGLOSUMC.png": {
+    "asset": "FWCFCGLOSUMC",
+    "bytes": 1393437,
+    "cards": [
+      "fwcfcglosumc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:40+00:00",
+    "sha256": "4a12caf5a0570755a411f75ba5e1fba0eb6128ca37cdb51c363605422ff94f36",
+    "url": "https://tokenscan.io/img/cards/FWCFCGLOSUMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCGLOTHEC.png": {
+    "asset": "FWCFCGLOTHEC",
+    "bytes": 1199564,
+    "cards": [
+      "fwcfcglothec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:41+00:00",
+    "sha256": "be7ffa96f44fc05280e3ea66eb14ff991e4994c22081cc4ffaebdd25c17f6c03",
+    "url": "https://tokenscan.io/img/cards/FWCFCGLOTHEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCGUIDETC.png": {
+    "asset": "FWCFCGUIDETC",
+    "bytes": 1064668,
+    "cards": [
+      "fwcfcguidetc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:42+00:00",
+    "sha256": "2639a1e4ac81ddd605ad9db46066c57134a087f34aadab7b8e7c947c8f836adf",
+    "url": "https://tokenscan.io/img/cards/FWCFCGUIDETC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCHEAVENC.png": {
+    "asset": "FWCFCHEAVENC",
+    "bytes": 1221725,
+    "cards": [
+      "fwcfcheavenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:43+00:00",
+    "sha256": "b412322778a956a3bc9c7b6411fd1be71f087cb3c2628ea9b0475521242e8c86",
+    "url": "https://tokenscan.io/img/cards/FWCFCHEAVENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCINTROSC.png": {
+    "asset": "FWCFCINTROSC",
+    "bytes": 1281240,
+    "cards": [
+      "fwcfcintrosc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:45+00:00",
+    "sha256": "71559c753d40ad613b3a8d3e97695051916ec99898277259b313d90f2f4930e5",
+    "url": "https://tokenscan.io/img/cards/FWCFCINTROSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCINVITAC.png": {
+    "asset": "FWCFCINVITAC",
+    "bytes": 1013629,
+    "cards": [
+      "fwcfcinvitac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:47+00:00",
+    "sha256": "5cab4a6510bd4412d68cc6950012cf5a8c86fb1af10afa08c61a03c241add8c8",
+    "url": "https://tokenscan.io/img/cards/FWCFCINVITAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCLIGHTMC.png": {
+    "asset": "FWCFCLIGHTMC",
+    "bytes": 1443488,
+    "cards": [
+      "fwcfclightmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:48+00:00",
+    "sha256": "d6b20b88698dc31d3f49e5fc3e26ae050e5dd779b1e023d6d0abba02779f6eb2",
+    "url": "https://tokenscan.io/img/cards/FWCFCLIGHTMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCLUMIASC.png": {
+    "asset": "FWCFCLUMIASC",
+    "bytes": 1495451,
+    "cards": [
+      "fwcfclumiasc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:50+00:00",
+    "sha256": "47e67bc6c47addbb6484ee9d054bc5655dee6e5c7ecc8e7b8056de8d87fe89f8",
+    "url": "https://tokenscan.io/img/cards/FWCFCLUMIASC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCMADONIC.png": {
+    "asset": "FWCFCMADONIC",
+    "bytes": 1423893,
+    "cards": [
+      "fwcfcmadonic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:51+00:00",
+    "sha256": "39765ab1dd2c212043f79d2934fbc7afb990064a2c7889e0ab476573cb7255ab",
+    "url": "https://tokenscan.io/img/cards/FWCFCMADONIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCMAGICBC.png": {
+    "asset": "FWCFCMAGICBC",
+    "bytes": 1222157,
+    "cards": [
+      "fwcfcmagicbc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:52+00:00",
+    "sha256": "50d79df573e90eda240bd5e942d7ca8fee93f1dd975d126c31629a5b3e3999e9",
+    "url": "https://tokenscan.io/img/cards/FWCFCMAGICBC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCMAGICSC.png": {
+    "asset": "FWCFCMAGICSC",
+    "bytes": 1159081,
+    "cards": [
+      "fwcfcmagicsc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:53+00:00",
+    "sha256": "362ecb96b3e84e018f1ee9c4557988403f8ccb389aa069339cf3d1e4ba0f071c",
+    "url": "https://tokenscan.io/img/cards/FWCFCMAGICSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCMARSFOC.png": {
+    "asset": "FWCFCMARSFOC",
+    "bytes": 1294494,
+    "cards": [
+      "fwcfcmarsfoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:54+00:00",
+    "sha256": "63df4009b9c774874fd91ee9aeb028e2b9702b179bf884070ecf4414e54f7604",
+    "url": "https://tokenscan.io/img/cards/FWCFCMARSFOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCMELTTOC.png": {
+    "asset": "FWCFCMELTTOC",
+    "bytes": 1408387,
+    "cards": [
+      "fwcfcmelttoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:56+00:00",
+    "sha256": "76e2dc1a927a0e458dfadf22deeabf9b092efa59215b5274cb6b3a2d51d648d2",
+    "url": "https://tokenscan.io/img/cards/FWCFCMELTTOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCMERMAIC.png": {
+    "asset": "FWCFCMERMAIC",
+    "bytes": 1105362,
+    "cards": [
+      "fwcfcmermaic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:57+00:00",
+    "sha256": "4f6dd3f17d248069194c9a1e8d9c4addc0456bcf482f2d09e8a481334cd93554",
+    "url": "https://tokenscan.io/img/cards/FWCFCMERMAIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCNEVERLC.png": {
+    "asset": "FWCFCNEVERLC",
+    "bytes": 1157913,
+    "cards": [
+      "fwcfcneverlc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:58+00:00",
+    "sha256": "eaada37dbaa9cac3e0bfc38f3a453787a52c4db7a69e205791375efed7c09ee4",
+    "url": "https://tokenscan.io/img/cards/FWCFCNEVERLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFBLACC.png": {
+    "asset": "FWCFCOFBLACC",
+    "bytes": 1311016,
+    "cards": [
+      "fwcfcofblacc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:49:59+00:00",
+    "sha256": "83de8d446e8cc7048ad62e008330437de752ad552b421bb369a118f302c5ef57",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFBLACC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFBLASC.png": {
+    "asset": "FWCFCOFBLASC",
+    "bytes": 1507613,
+    "cards": [
+      "fwcfcofblasc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:00+00:00",
+    "sha256": "7f14afbcc6203252f14cd9b5e3024b0f1c7f053f6da9ba6e2f18024f29b12e6a",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFBLASC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFDARKC.png": {
+    "asset": "FWCFCOFDARKC",
+    "bytes": 1219207,
+    "cards": [
+      "fwcfcofdarkc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:02+00:00",
+    "sha256": "71b21418b9b1eef8934cf384950e828a2fb3500ff65c7ec7c87fd754d1e518fd",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFDARKC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFDEEPC.png": {
+    "asset": "FWCFCOFDEEPC",
+    "bytes": 1197808,
+    "cards": [
+      "fwcfcofdeepc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:03+00:00",
+    "sha256": "a6a85664b0c077e6188356e85c259365a8f075cdf3fa628590a25aa79a112633",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFDEEPC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFGUSTC.png": {
+    "asset": "FWCFCOFGUSTC",
+    "bytes": 1305021,
+    "cards": [
+      "fwcfcofgustc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:04+00:00",
+    "sha256": "85fe58428161f9d0f4018cbdb629bba5ba7b5a13fea168626bbf1f9eb593a28b",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFGUSTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFHEARC.png": {
+    "asset": "FWCFCOFHEARC",
+    "bytes": 1485698,
+    "cards": [
+      "fwcfcofhearc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:05+00:00",
+    "sha256": "0504abf50aa5f2ea100f90701891d07f3567d0028a3e07763440d2d812a6dfab",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFHEARC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFHEATC.png": {
+    "asset": "FWCFCOFHEATC",
+    "bytes": 1130303,
+    "cards": [
+      "fwcfcofheatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:06+00:00",
+    "sha256": "23b4d47b01bfcc45b2a323747e0978afbc9624cd564a38cd8c4e54b2c4fb8136",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFHEATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFHEAVC.png": {
+    "asset": "FWCFCOFHEAVC",
+    "bytes": 1189041,
+    "cards": [
+      "fwcfcofheavc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:08+00:00",
+    "sha256": "9e74c83fd764c3671931da652ce73599417e6205f97ea447d3ab10bcea98415f",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFHEAVC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFLIGHC.png": {
+    "asset": "FWCFCOFLIGHC",
+    "bytes": 1250623,
+    "cards": [
+      "fwcfcoflighc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:09+00:00",
+    "sha256": "bb4d280ff907f52b45ce29df0a9cac26331b1aaaab496cec16ee27b72ae3b82e",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFLIGHC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCOFSCORC.png": {
+    "asset": "FWCFCOFSCORC",
+    "bytes": 1207949,
+    "cards": [
+      "fwcfcofscorc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:10+00:00",
+    "sha256": "95ce6d5cebeeb0c8174576eee2d9643d44336304673693b060732ce79f00be4c",
+    "url": "https://tokenscan.io/img/cards/FWCFCOFSCORC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCONIGOVC.png": {
+    "asset": "FWCFCONIGOVC",
+    "bytes": 1312322,
+    "cards": [
+      "fwcfconigovc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:11+00:00",
+    "sha256": "5ef8474387d3e73e2d47cc0d9dfdce574379d3831ea2a772bee7fc6f09e047ec",
+    "url": "https://tokenscan.io/img/cards/FWCFCONIGOVC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCPANDORC.png": {
+    "asset": "FWCFCPANDORC",
+    "bytes": 1491076,
+    "cards": [
+      "fwcfcpandorc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:13+00:00",
+    "sha256": "e0ee69cec58e8b7dc3f0cef900557018df3e30578e079fdeccfca3cf55c770f5",
+    "url": "https://tokenscan.io/img/cards/FWCFCPANDORC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCPANMARC.png": {
+    "asset": "FWCFCPANMARC",
+    "bytes": 855789,
+    "cards": [
+      "fwcfcpanmarc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:14+00:00",
+    "sha256": "99a7554e570c2352fe89dbea2c7039ad7d5217ce6c1fdde310df77b6f7a86079",
+    "url": "https://tokenscan.io/img/cards/FWCFCPANMARC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCPRIESTC.png": {
+    "asset": "FWCFCPRIESTC",
+    "bytes": 1392373,
+    "cards": [
+      "fwcfcpriestc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:15+00:00",
+    "sha256": "e7fba77f162fd26d390a0fabe766d8e68bacc902d4423fd193762ebc2ab8ae20",
+    "url": "https://tokenscan.io/img/cards/FWCFCPRIESTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCPRINCEC.png": {
+    "asset": "FWCFCPRINCEC",
+    "bytes": 1479158,
+    "cards": [
+      "fwcfcprincec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:16+00:00",
+    "sha256": "ef69712adccf67a96331313d44df237fce5196b4038ba1d752116848bd36d01f",
+    "url": "https://tokenscan.io/img/cards/FWCFCPRINCEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCPROTECC.png": {
+    "asset": "FWCFCPROTECC",
+    "bytes": 1125670,
+    "cards": [
+      "fwcfcprotecc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:17+00:00",
+    "sha256": "a312bb57ad5d3f2cdd31e844d2eee7fa58e48e4f91031ee006ca218b1980caa3",
+    "url": "https://tokenscan.io/img/cards/FWCFCPROTECC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCPUMPKIC.png": {
+    "asset": "FWCFCPUMPKIC",
+    "bytes": 1288234,
+    "cards": [
+      "fwcfcpumpkic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:19+00:00",
+    "sha256": "420ccab463df6d646e719d714a183fd14633589a702060dba6892e11eec7395d",
+    "url": "https://tokenscan.io/img/cards/FWCFCPUMPKIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCRABBITC.png": {
+    "asset": "FWCFCRABBITC",
+    "bytes": 824593,
+    "cards": [
+      "fwcfcrabbitc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:20+00:00",
+    "sha256": "897d5e2945afcba4527eb883e83f4bb6b8c9830143ddf7c3a294b6458af2f1bc",
+    "url": "https://tokenscan.io/img/cards/FWCFCRABBITC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCREDRIDC.png": {
+    "asset": "FWCFCREDRIDC",
+    "bytes": 1420323,
+    "cards": [
+      "fwcfcredridc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:21+00:00",
+    "sha256": "39ff0f087eb98a61a31a007a01cc075665daaac03c5e3ffc31a2103c46d84747",
+    "url": "https://tokenscan.io/img/cards/FWCFCREDRIDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCRESONAC.png": {
+    "asset": "FWCFCRESONAC",
+    "bytes": 1115490,
+    "cards": [
+      "fwcfcresonac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:22+00:00",
+    "sha256": "e020a90c3a8af1bf8d26044698b2ad66123e9fd1435ad82396ebb72befa70522",
+    "url": "https://tokenscan.io/img/cards/FWCFCRESONAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCRETELLC.png": {
+    "asset": "FWCFCRETELLC",
+    "bytes": 1379389,
+    "cards": [
+      "fwcfcretellc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:24+00:00",
+    "sha256": "e3688dd2a8f449c5f054a0dc501c60440d7a1ae5a939512fd6bc4d296ba1b321",
+    "url": "https://tokenscan.io/img/cards/FWCFCRETELLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCRETURNC.png": {
+    "asset": "FWCFCRETURNC",
+    "bytes": 1341244,
+    "cards": [
+      "fwcfcreturnc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:25+00:00",
+    "sha256": "152799f58e27d18d5f9a186b24629517b62b64e2e2ca7232d0e6b1e5cbe56aa6",
+    "url": "https://tokenscan.io/img/cards/FWCFCRETURNC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCRINKASC.png": {
+    "asset": "FWCFCRINKASC",
+    "bytes": 1294514,
+    "cards": [
+      "fwcfcrinkasc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:26+00:00",
+    "sha256": "e09c18e743e1b1bdaf8b5c2d4c9d1870a38f4ce0dabbb19f7759a698c120c113",
+    "url": "https://tokenscan.io/img/cards/FWCFCRINKASC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCRISINGC.png": {
+    "asset": "FWCFCRISINGC",
+    "bytes": 1374659,
+    "cards": [
+      "fwcfcrisingc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:27+00:00",
+    "sha256": "fe95e658ee891ec5053968c482e040c962b4e9ebb46cafe7d8d1925545ebb2bd",
+    "url": "https://tokenscan.io/img/cards/FWCFCRISINGC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSACREDC.png": {
+    "asset": "FWCFCSACREDC",
+    "bytes": 1173321,
+    "cards": [
+      "fwcfcsacredc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:28+00:00",
+    "sha256": "9a4f9aeb5d75247d525cf8f2639255ea7e0c5b51ba594984f6a68bd6e407ffc8",
+    "url": "https://tokenscan.io/img/cards/FWCFCSACREDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSAFEGUC.png": {
+    "asset": "FWCFCSAFEGUC",
+    "bytes": 1221224,
+    "cards": [
+      "fwcfcsafeguc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:30+00:00",
+    "sha256": "5d189652d9236a4a8f50a770fdc5140a46dbba0c5fc6bd121256d8063c4afa84",
+    "url": "https://tokenscan.io/img/cards/FWCFCSAFEGUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSECLUDC.png": {
+    "asset": "FWCFCSECLUDC",
+    "bytes": 1393305,
+    "cards": [
+      "fwcfcsecludc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:31+00:00",
+    "sha256": "3dbac1fd4ad6ee668a24e4f9d4b73f1fee958f290016512756d9be7f87aac19e",
+    "url": "https://tokenscan.io/img/cards/FWCFCSECLUDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSERVANC.png": {
+    "asset": "FWCFCSERVANC",
+    "bytes": 1247401,
+    "cards": [
+      "fwcfcservanc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:33+00:00",
+    "sha256": "9ebb9aa3585bf9dc70565098be4402b957eb0f0cb85d8e112ecf6cfc36ae41fe",
+    "url": "https://tokenscan.io/img/cards/FWCFCSERVANC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSHACKLC.png": {
+    "asset": "FWCFCSHACKLC",
+    "bytes": 1248742,
+    "cards": [
+      "fwcfcshacklc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:34+00:00",
+    "sha256": "cdb2307fd9ae14a2412a977b6d0a8dc1e2ebfb0af0a5a45b4f2cf7a27d2b50cd",
+    "url": "https://tokenscan.io/img/cards/FWCFCSHACKLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSHAWUJC.png": {
+    "asset": "FWCFCSHAWUJC",
+    "bytes": 1464148,
+    "cards": [
+      "fwcfcshawujc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:35+00:00",
+    "sha256": "a503e3c3ff0957c9ced7845f1c6ac3e24cc3723eb3cb343569d5df582e74d52d",
+    "url": "https://tokenscan.io/img/cards/FWCFCSHAWUJC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSORCERC.png": {
+    "asset": "FWCFCSORCERC",
+    "bytes": 1481435,
+    "cards": [
+      "fwcfcsorcerc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:37+00:00",
+    "sha256": "43ca7fc773c0a60013434702395db53dcda40f6257dc5569a7c5d188bc61dea2",
+    "url": "https://tokenscan.io/img/cards/FWCFCSORCERC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSPIRITC.png": {
+    "asset": "FWCFCSPIRITC",
+    "bytes": 1202501,
+    "cards": [
+      "fwcfcspiritc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:38+00:00",
+    "sha256": "80637f4ae73f36b4b531800ef2a2f1ad0ea7ba9467761e41fedf1f7147bcda64",
+    "url": "https://tokenscan.io/img/cards/FWCFCSPIRITC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSTALKIC.png": {
+    "asset": "FWCFCSTALKIC",
+    "bytes": 1078083,
+    "cards": [
+      "fwcfcstalkic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:39+00:00",
+    "sha256": "0010bb6c468a55dd3ccb0ba1d3375e7f45afc902abe2e0bfca607524af9b3e14",
+    "url": "https://tokenscan.io/img/cards/FWCFCSTALKIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSTARGAC.png": {
+    "asset": "FWCFCSTARGAC",
+    "bytes": 1270780,
+    "cards": [
+      "fwcfcstargac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:40+00:00",
+    "sha256": "d8e2161c35f5d83840a05c9c3f015dd647332fc909048ed0a3b929cf765d048e",
+    "url": "https://tokenscan.io/img/cards/FWCFCSTARGAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSTORYTC.png": {
+    "asset": "FWCFCSTORYTC",
+    "bytes": 1172133,
+    "cards": [
+      "fwcfcstorytc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:41+00:00",
+    "sha256": "3448d0a526890d0f53d81c496637779adb56d740b827001ac7716e5c22ad99d1",
+    "url": "https://tokenscan.io/img/cards/FWCFCSTORYTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCSUMMONC.png": {
+    "asset": "FWCFCSUMMONC",
+    "bytes": 1301857,
+    "cards": [
+      "fwcfcsummonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:43+00:00",
+    "sha256": "5cc069a45e57d58647cb78a1518ca8f5097e98f0e590c3b5065fa681f59fa356",
+    "url": "https://tokenscan.io/img/cards/FWCFCSUMMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEBLAC.png": {
+    "asset": "FWCFCTHEBLAC",
+    "bytes": 1212193,
+    "cards": [
+      "fwcfctheblac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:44+00:00",
+    "sha256": "97cb954f225c06531abcb614ec2b27b5562f41ceb7a4d51ce41473565b904fb0",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEBLAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEGATC.png": {
+    "asset": "FWCFCTHEGATC",
+    "bytes": 1089672,
+    "cards": [
+      "fwcfcthegatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:45+00:00",
+    "sha256": "751df99ab611ba24d576ad77799da783d1015b54f6b4ee058abcb7c45bd6da9e",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEGATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEMONC.png": {
+    "asset": "FWCFCTHEMONC",
+    "bytes": 1157458,
+    "cards": [
+      "fwcfcthemonc",
+      "fwcfcthemonc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:46+00:00",
+    "sha256": "98b83c1504f6c0a9dabeb610953081e7aebd129d725a8ea4874a639078c2a839",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHENAMC.png": {
+    "asset": "FWCFCTHENAMC",
+    "bytes": 901753,
+    "cards": [
+      "fwcfcthenamc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:48+00:00",
+    "sha256": "e682d4629636b1c36549f3221e8e4d74fb0ea2669d526470d27b82ec38c96b31",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHENAMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTHEOXKC.png": {
+    "asset": "FWCFCTHEOXKC",
+    "bytes": 1387095,
+    "cards": [
+      "fwcfctheoxkc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:49+00:00",
+    "sha256": "f167bcf62ae815e42ad7e7717c5355f9840e1908e49d87533f93369819be4a26",
+    "url": "https://tokenscan.io/img/cards/FWCFCTHEOXKC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTIGERCC.png": {
+    "asset": "FWCFCTIGERCC",
+    "bytes": 1387237,
+    "cards": [
+      "fwcfctigercc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:50+00:00",
+    "sha256": "ee38b503d3004d6f368f0c094e677471fd197bc56f9204db41fb4d283d15da9b",
+    "url": "https://tokenscan.io/img/cards/FWCFCTIGERCC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTIGERLC.png": {
+    "asset": "FWCFCTIGERLC",
+    "bytes": 1451295,
+    "cards": [
+      "fwcfctigerlc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:51+00:00",
+    "sha256": "fa38584322d22f9e9ef50f51bcd3e5b6cbb6656667d1dc6443592025de404521",
+    "url": "https://tokenscan.io/img/cards/FWCFCTIGERLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCTINYREC.png": {
+    "asset": "FWCFCTINYREC",
+    "bytes": 1107559,
+    "cards": [
+      "fwcfctinyrec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:52+00:00",
+    "sha256": "926573e184db0dcc88c509f2754c12282c054e4960485ca423e22859541cb587",
+    "url": "https://tokenscan.io/img/cards/FWCFCTINYREC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCUMRATTC.png": {
+    "asset": "FWCFCUMRATTC",
+    "bytes": 1109502,
+    "cards": [
+      "fwcfcumrattc",
+      "fwcfcumrattc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:54+00:00",
+    "sha256": "f0e742c220c13935325a5a08baddc9ee4faf59155d98d25f4cfa71764c84502b",
+    "url": "https://tokenscan.io/img/cards/FWCFCUMRATTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCURASHIC.png": {
+    "asset": "FWCFCURASHIC",
+    "bytes": 1324549,
+    "cards": [
+      "fwcfcurashic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:55+00:00",
+    "sha256": "68e050e86b9b3d40e79b3855b05d1608cfe3dd7e2d026bab0ea315e9497255c4",
+    "url": "https://tokenscan.io/img/cards/FWCFCURASHIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCWATERMC.png": {
+    "asset": "FWCFCWATERMC",
+    "bytes": 1477315,
+    "cards": [
+      "fwcfcwatermc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:57+00:00",
+    "sha256": "121f1741d99a7ad83726efdb1d6a0759a450bdf85e4b6c17497ea112d3ec21dd",
+    "url": "https://tokenscan.io/img/cards/FWCFCWATERMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCWINDMAC.png": {
+    "asset": "FWCFCWINDMAC",
+    "bytes": 930193,
+    "cards": [
+      "fwcfcwindmac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:58+00:00",
+    "sha256": "18997390652f2270105cacdef3bc8ff6ea04b0d8142c5d3a14b1801dda4dc275",
+    "url": "https://tokenscan.io/img/cards/FWCFCWINDMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCWISEMAC.png": {
+    "asset": "FWCFCWISEMAC",
+    "bytes": 1107370,
+    "cards": [
+      "fwcfcwisemac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:50:59+00:00",
+    "sha256": "7242f47bd6d1abd8ef8c9c29e7c9dde8abcaa18b520e89b8270075d4515756d4",
+    "url": "https://tokenscan.io/img/cards/FWCFCWISEMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZEROSFC.png": {
+    "asset": "FWCFCZEROSFC",
+    "bytes": 1017373,
+    "cards": [
+      "fwcfczerosfc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:00+00:00",
+    "sha256": "ed5e1457ed864ab2811bccfc68dadf9d1c67e9556bc5d5dc9a81dcc783041f49",
+    "url": "https://tokenscan.io/img/cards/FWCFCZEROSFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZEROSIC.png": {
+    "asset": "FWCFCZEROSIC",
+    "bytes": 1204905,
+    "cards": [
+      "fwcfczerosic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:01+00:00",
+    "sha256": "9174582c100ce344e919b8aafcf2aa1451da35f96f6ef6d8fc536bc6c4fbc1fd",
+    "url": "https://tokenscan.io/img/cards/FWCFCZEROSIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZEROSMC.png": {
+    "asset": "FWCFCZEROSMC",
+    "bytes": 1464977,
+    "cards": [
+      "fwcfczerosmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:03+00:00",
+    "sha256": "eb06b5b30923095c5680fa682439aaa6cc1c16cfb125eebda4164188b45e47f5",
+    "url": "https://tokenscan.io/img/cards/FWCFCZEROSMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWCFCZHUBAJC.png": {
+    "asset": "FWCFCZHUBAJC",
+    "bytes": 1206133,
+    "cards": [
+      "fwcfczhubajc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:04+00:00",
+    "sha256": "4cf6dda3b15f71260b4a123b2e4cacbfc2c2ab543b89bc6bb243881cb19e2fde",
+    "url": "https://tokenscan.io/img/cards/FWCFCZHUBAJC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLALLYOFC.png": {
+    "asset": "FWSDLALLYOFC",
+    "bytes": 1286464,
+    "cards": [
+      "fwsdlallyofc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:05+00:00",
+    "sha256": "378e275ed74f3dfdb885457c0dcc440c4bd1556cde2b9ed221d722994ac5bf7f",
+    "url": "https://tokenscan.io/img/cards/FWSDLALLYOFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLANCIENC.png": {
+    "asset": "FWSDLANCIENC",
+    "bytes": 1327719,
+    "cards": [
+      "fwsdlancienc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:06+00:00",
+    "sha256": "df3e562e3b694ec45f899f6a872808c74770b13c1a45a89770cd9a41f6a04efc",
+    "url": "https://tokenscan.io/img/cards/FWSDLANCIENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLANCKNOC.png": {
+    "asset": "FWSDLANCKNOC",
+    "bytes": 1153024,
+    "cards": [
+      "fwsdlancknoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:07+00:00",
+    "sha256": "862e84e20b0330aead2b81bc38137d823563dfb8d955dbc13d1471a9af65e248",
+    "url": "https://tokenscan.io/img/cards/FWSDLANCKNOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLARIAFRC.png": {
+    "asset": "FWSDLARIAFRC",
+    "bytes": 1335137,
+    "cards": [
+      "fwsdlariafrc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:09+00:00",
+    "sha256": "cbb89fdec2eb351c251e65878a44bc5ae25ce37fa339ef5982054db0781f46bb",
+    "url": "https://tokenscan.io/img/cards/FWSDLARIAFRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLASTAROC.png": {
+    "asset": "FWSDLASTAROC",
+    "bytes": 1342293,
+    "cards": [
+      "fwsdlastaroc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:10+00:00",
+    "sha256": "97fe3b9f86d7bcfae6a981e69cd5bd2c2165e1c73bfcf93a6e86096f8e2e9d46",
+    "url": "https://tokenscan.io/img/cards/FWSDLASTAROC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLBLOODOC.png": {
+    "asset": "FWSDLBLOODOC",
+    "bytes": 1208074,
+    "cards": [
+      "fwsdlbloodoc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:11+00:00",
+    "sha256": "de4e995ab60dce7cc84c2db0b80282d8a693eb75a5dd27c296dcaf7b2660247e",
+    "url": "https://tokenscan.io/img/cards/FWSDLBLOODOC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLCASTLEC.png": {
+    "asset": "FWSDLCASTLEC",
+    "bytes": 1062537,
+    "cards": [
+      "fwsdlcastlec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:12+00:00",
+    "sha256": "19d6e63f31ba9202d4c3c7895bf336af79be3d7829f4baa4ec981ab593df2dd7",
+    "url": "https://tokenscan.io/img/cards/FWSDLCASTLEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLCHARLAC.png": {
+    "asset": "FWSDLCHARLAC",
+    "bytes": 1182154,
+    "cards": [
+      "fwsdlcharlac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:13+00:00",
+    "sha256": "5cca96000d779b68a29e954e248afdeac55f6d6265d3304f4c029c6d9d3774b0",
+    "url": "https://tokenscan.io/img/cards/FWSDLCHARLAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLCONFECC.png": {
+    "asset": "FWSDLCONFECC",
+    "bytes": 1395483,
+    "cards": [
+      "fwsdlconfecc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:15+00:00",
+    "sha256": "b87b07b3a1227adbc15ac8be969925332bf9bcbde946740678b792ec1d377bf1",
+    "url": "https://tokenscan.io/img/cards/FWSDLCONFECC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLDARKNEC.png": {
+    "asset": "FWSDLDARKNEC",
+    "bytes": 1003285,
+    "cards": [
+      "fwsdldarknec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:16+00:00",
+    "sha256": "1e6095f918601b7e85617434250a696befdb6d331e20f0b8b6d6593ddecdc638",
+    "url": "https://tokenscan.io/img/cards/FWSDLDARKNEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLEMISSAC.png": {
+    "asset": "FWSDLEMISSAC",
+    "bytes": 1464741,
+    "cards": [
+      "fwsdlemissac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:17+00:00",
+    "sha256": "bc7467cda973db0995f4ba06cc619f067f788a4bfccecfb2a289f7d488b612f6",
+    "url": "https://tokenscan.io/img/cards/FWSDLEMISSAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFAIRYTC.png": {
+    "asset": "FWSDLFAIRYTC",
+    "bytes": 995065,
+    "cards": [
+      "fwsdlfairytc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:18+00:00",
+    "sha256": "9070cb159416e30a8fceb1ba37ddeb64f213a5de8aa97375c75491182eebadb4",
+    "url": "https://tokenscan.io/img/cards/FWSDLFAIRYTC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFAITHFC.png": {
+    "asset": "FWSDLFAITHFC",
+    "bytes": 1234445,
+    "cards": [
+      "fwsdlfaithfc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:19+00:00",
+    "sha256": "70abb0148892bfa8e877000ff7a8603cd1e3b4a331f02f52112166db9de55b59",
+    "url": "https://tokenscan.io/img/cards/FWSDLFAITHFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFAYLITC-1.png": {
+    "asset": "FWSDLFAYLITC",
+    "bytes": 1350478,
+    "cards": [
+      "fwsdlfaylitc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:21+00:00",
+    "sha256": "a0a74273c6e45d9713f044019084bb8ab9524b0e3d631a74bd214e9d997d6d4e",
+    "url": "https://tokenscan.io/img/cards/FWSDLFAYLITC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFIETHSC.png": {
+    "asset": "FWSDLFIETHSC",
+    "bytes": 1315559,
+    "cards": [
+      "fwsdlfiethsc",
+      "fwsdlfiethsc-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:22+00:00",
+    "sha256": "c37375d544524e71cd8deb100613bb1c8a5af54b07308e364fe7f33f6e6b4020",
+    "url": "https://tokenscan.io/img/cards/FWSDLFIETHSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLFIREMAC.png": {
+    "asset": "FWSDLFIREMAC",
+    "bytes": 1381626,
+    "cards": [
+      "fwsdlfiremac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:23+00:00",
+    "sha256": "5a7b56082ac6f425ea51bb53cd2b51a41afdd81795640e2175f4ca8a446b2e2f",
+    "url": "https://tokenscan.io/img/cards/FWSDLFIREMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGENTLEC.png": {
+    "asset": "FWSDLGENTLEC",
+    "bytes": 1384122,
+    "cards": [
+      "fwsdlgentlec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:24+00:00",
+    "sha256": "6b09071a2f14eba4eefa7836e0d90ce1265779d2a3e4b4a3382822c0178dbcc2",
+    "url": "https://tokenscan.io/img/cards/FWSDLGENTLEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGOURMAC.png": {
+    "asset": "FWSDLGOURMAC",
+    "bytes": 1246126,
+    "cards": [
+      "fwsdlgourmac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:25+00:00",
+    "sha256": "3088ab9df6b383ba5c755a1c6058f0732bbd9fa76f8441f3f90a5d584377c97b",
+    "url": "https://tokenscan.io/img/cards/FWSDLGOURMAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGREATHC.png": {
+    "asset": "FWSDLGREATHC",
+    "bytes": 1309451,
+    "cards": [
+      "fwsdlgreathc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:27+00:00",
+    "sha256": "8c84a43e4d874cce4c5d6eb6022cf07bbd182844328891e6c3a7166c3a6beceb",
+    "url": "https://tokenscan.io/img/cards/FWSDLGREATHC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLGRIMMKCpng.png": {
+    "asset": "FWSDLGRIMMKC",
+    "bytes": 1260921,
+    "cards": [
+      "fwsdlgrimmkc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:28+00:00",
+    "sha256": "5983726faf4fc67d4e4110da1183af2fe868eca3e348137ce5677e3d813c3afd",
+    "url": "https://tokenscan.io/img/cards/FWSDLGRIMMKC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLHASTURC.png": {
+    "asset": "FWSDLHASTURC",
+    "bytes": 1404227,
+    "cards": [
+      "fwsdlhasturc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:29+00:00",
+    "sha256": "1e1280700b0c33391ce3d97eac42af0ce82cab62688053b70683c7aa7cd36513",
+    "url": "https://tokenscan.io/img/cards/FWSDLHASTURC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLHEAVENC.png": {
+    "asset": "FWSDLHEAVENC",
+    "bytes": 1127629,
+    "cards": [
+      "fwsdlheavenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:30+00:00",
+    "sha256": "fe5672ff1a6d1cebcee5d99336d844f4bb3355ef5a30295a3e1b59e36854dbb7",
+    "url": "https://tokenscan.io/img/cards/FWSDLHEAVENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLHOMEOFC.png": {
+    "asset": "FWSDLHOMEOFC",
+    "bytes": 1257863,
+    "cards": [
+      "fwsdlhomeofc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:32+00:00",
+    "sha256": "d7e64a9e217e09627216b9157d25fb2aaa460c02f2c746207ff44c24c2706db4",
+    "url": "https://tokenscan.io/img/cards/FWSDLHOMEOFC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLICEDRAC.png": {
+    "asset": "FWSDLICEDRAC",
+    "bytes": 1396809,
+    "cards": [
+      "fwsdlicedrac",
+      "fwsdlicedrac-sog"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:33+00:00",
+    "sha256": "6b0bb7e2e0fb7bffa3b6690c348203c097d18f73af360200c5077aaed331bacb",
+    "url": "https://tokenscan.io/img/cards/FWSDLICEDRAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLKEEPERC.png": {
+    "asset": "FWSDLKEEPERC",
+    "bytes": 1241653,
+    "cards": [
+      "fwsdlkeeperc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:34+00:00",
+    "sha256": "958e83e3d8df5b5ee2a8f12dbf558183eb3b7f19dad469b38250d0d5c0431877",
+    "url": "https://tokenscan.io/img/cards/FWSDLKEEPERC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLKIDPUSC.png": {
+    "asset": "FWSDLKIDPUSC",
+    "bytes": 1279112,
+    "cards": [
+      "fwsdlkidpusc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:35+00:00",
+    "sha256": "83ab254578e65fe96ca9ade4d585e1566eef26a126ac3f7934e59e22df92e374",
+    "url": "https://tokenscan.io/img/cards/FWSDLKIDPUSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLIGHTDC.png": {
+    "asset": "FWSDLLIGHTDC",
+    "bytes": 1270542,
+    "cards": [
+      "fwsdllightdc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:36+00:00",
+    "sha256": "df7273ee5a25b6b84cbfcc17da3593cc723384b479138224de94524b6e917c40",
+    "url": "https://tokenscan.io/img/cards/FWSDLLIGHTDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLIGHTMC.png": {
+    "asset": "FWSDLLIGHTMC",
+    "bytes": 1442833,
+    "cards": [
+      "fwsdllightmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:38+00:00",
+    "sha256": "8af679c0d28c8bd4f32baa5f2c935c8849fd6cb9a55f81dd29ae01a93a9e55a9",
+    "url": "https://tokenscan.io/img/cards/FWSDLLIGHTMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLIGHTNC.png": {
+    "asset": "FWSDLLIGHTNC",
+    "bytes": 1053566,
+    "cards": [
+      "fwsdllightnc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:39+00:00",
+    "sha256": "f6540763368db82b9528fc250bb23f23e8a2c4284f20ccecc06cb5f6e7e8096d",
+    "url": "https://tokenscan.io/img/cards/FWSDLLIGHTNC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLUNYASC.png": {
+    "asset": "FWSDLLUNYASC",
+    "bytes": 859959,
+    "cards": [
+      "fwsdllunyasc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:40+00:00",
+    "sha256": "fe956f6ae79a2e8c7815d9a44bd4c933153b19a5fc3471fa363146923331da9a",
+    "url": "https://tokenscan.io/img/cards/FWSDLLUNYASC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLLUNYATC.png": {
+    "asset": "FWSDLLUNYATC",
+    "bytes": 1075155,
+    "cards": [
+      "fwsdllunyatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:41+00:00",
+    "sha256": "a17e415c8a7980deca2eb3af79c202a70381fdd416d312c2f18a2b84e733bb6b",
+    "url": "https://tokenscan.io/img/cards/FWSDLLUNYATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMAGICSC.png": {
+    "asset": "FWSDLMAGICSC",
+    "bytes": 1216819,
+    "cards": [
+      "fwsdlmagicsc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:42+00:00",
+    "sha256": "b5e16f50fa5c79fe21ed18441c39da144505857f8619af87f9f5e3f91e64c4be",
+    "url": "https://tokenscan.io/img/cards/FWSDLMAGICSC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMALEFIC.png": {
+    "asset": "FWSDLMALEFIC",
+    "bytes": 1269616,
+    "cards": [
+      "fwsdlmalefic"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:44+00:00",
+    "sha256": "275481431b5f72e62ba01c358528958177f8f9f531fda15b1f06c515bca99fde",
+    "url": "https://tokenscan.io/img/cards/FWSDLMALEFIC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMANIFEC.png": {
+    "asset": "FWSDLMANIFEC",
+    "bytes": 1126546,
+    "cards": [
+      "fwsdlmanifec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:45+00:00",
+    "sha256": "78cb3bc6604142f736f576ea564d4fb3b4d95077ff4e677d991066aa3acd4e97",
+    "url": "https://tokenscan.io/img/cards/FWSDLMANIFEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMERCURC.png": {
+    "asset": "FWSDLMERCURC",
+    "bytes": 1251216,
+    "cards": [
+      "fwsdlmercurc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:46+00:00",
+    "sha256": "4cecc1c48175a56800f3103a48d2bbdcf9a3bb65b1809e110fb7a37172f9cd15",
+    "url": "https://tokenscan.io/img/cards/FWSDLMERCURC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMERICYC.png": {
+    "asset": "FWSDLMERICYC",
+    "bytes": 1153695,
+    "cards": [
+      "fwsdlmericyc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:47+00:00",
+    "sha256": "41fe49758180eff0b92b180919df4efc40aaaf0146de240e246322dc3d807d02",
+    "url": "https://tokenscan.io/img/cards/FWSDLMERICYC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMESSENC.png": {
+    "asset": "FWSDLMESSENC",
+    "bytes": 1168944,
+    "cards": [
+      "fwsdlmessenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:48+00:00",
+    "sha256": "60cdf56f72c9d0e64b64836aeb7d781dd25c9b1fdf06c25a5ad652be9c5130bc",
+    "url": "https://tokenscan.io/img/cards/FWSDLMESSENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMILLIUC.png": {
+    "asset": "FWSDLMILLIUC",
+    "bytes": 1281994,
+    "cards": [
+      "fwsdlmilliuc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:50+00:00",
+    "sha256": "be896a5e8299378ad6744c3c3d2f7a4194fd08cd9a49fdfa29a31e8c30cce1a0",
+    "url": "https://tokenscan.io/img/cards/FWSDLMILLIUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLMOMOTAC.png": {
+    "asset": "FWSDLMOMOTAC",
+    "bytes": 1241240,
+    "cards": [
+      "fwsdlmomotac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:51+00:00",
+    "sha256": "74239933c1b3a2be36a666fdc45dc515fdc779baff629647ad260b719304c2c1",
+    "url": "https://tokenscan.io/img/cards/FWSDLMOMOTAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLNIGGURC.png": {
+    "asset": "FWSDLNIGGURC",
+    "bytes": 1299438,
+    "cards": [
+      "fwsdlniggurc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:52+00:00",
+    "sha256": "2141a7deee1579aee4476b2d7d85701a2dbc8b9a146c93e2f6e32ff5ab09bf4d",
+    "url": "https://tokenscan.io/img/cards/FWSDLNIGGURC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLNIGHTMC.png": {
+    "asset": "FWSDLNIGHTMC",
+    "bytes": 1379556,
+    "cards": [
+      "fwsdlnightmc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:53+00:00",
+    "sha256": "576e8894fd7f81922081c51cc97f81f8d34bc5ebcb4b1b564764060cf6ced357",
+    "url": "https://tokenscan.io/img/cards/FWSDLNIGHTMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLONISTRC.png": {
+    "asset": "FWSDLONISTRC",
+    "bytes": 1335769,
+    "cards": [
+      "fwsdlonistrc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:54+00:00",
+    "sha256": "464cec64b6b1918853b2f3bb1433ca0e172587296a7dc7d7ea8d0a342c1499eb",
+    "url": "https://tokenscan.io/img/cards/FWSDLONISTRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLPOWERAC.png": {
+    "asset": "FWSDLPOWERAC",
+    "bytes": 1140118,
+    "cards": [
+      "fwsdlpowerac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:56+00:00",
+    "sha256": "43c5e11cdf2a130ff36b596e52549142f27fdb5ed4ace008d2d43da3e6021d35",
+    "url": "https://tokenscan.io/img/cards/FWSDLPOWERAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLRLYEHWC.png": {
+    "asset": "FWSDLRLYEHWC",
+    "bytes": 1110772,
+    "cards": [
+      "fwsdlrlyehwc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:57+00:00",
+    "sha256": "026c2443b99b902690ecd01d92a7c5874c33dd0f8d642f04b783f2365226d8ca",
+    "url": "https://tokenscan.io/img/cards/FWSDLRLYEHWC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSACREDC.png": {
+    "asset": "FWSDLSACREDC",
+    "bytes": 1452080,
+    "cards": [
+      "fwsdlsacredc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:58+00:00",
+    "sha256": "6aa7341a1b8ed76409c4956fc8139763e6a0c6df999cb18f2e658218c4a23f0a",
+    "url": "https://tokenscan.io/img/cards/FWSDLSACREDC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSERVANC.png": {
+    "asset": "FWSDLSERVANC",
+    "bytes": 1025758,
+    "cards": [
+      "fwsdlservanc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:51:59+00:00",
+    "sha256": "7be6971a35843626f704be344e648d7548a3cfcc8c06448cee01b98422372e22",
+    "url": "https://tokenscan.io/img/cards/FWSDLSERVANC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSHARATC.png": {
+    "asset": "FWSDLSHARATC",
+    "bytes": 1295599,
+    "cards": [
+      "fwsdlsharatc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:00+00:00",
+    "sha256": "2f00e00a8dda99b0735064480f5d254a0f2bf9ab8a67e693dba0cd3a54afd4f2",
+    "url": "https://tokenscan.io/img/cards/FWSDLSHARATC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSPIRITC.png": {
+    "asset": "FWSDLSPIRITC",
+    "bytes": 1232005,
+    "cards": [
+      "fwsdlspiritc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:02+00:00",
+    "sha256": "8ace65d94858c5081c08e0529d265b20bb94c6ea949609779d3bfe76cabad804",
+    "url": "https://tokenscan.io/img/cards/FWSDLSPIRITC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSPIWINC.png": {
+    "asset": "FWSDLSPIWINC",
+    "bytes": 1326508,
+    "cards": [
+      "fwsdlspiwinc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:03+00:00",
+    "sha256": "77ec04b79d2552fed91ed0c4598dde4681f1075181beaa97b9a4fd01c383c320",
+    "url": "https://tokenscan.io/img/cards/FWSDLSPIWINC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLSUMMONC.png": {
+    "asset": "FWSDLSUMMONC",
+    "bytes": 1341901,
+    "cards": [
+      "fwsdlsummonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:04+00:00",
+    "sha256": "d23142e4d92beca526a36288c3cec2a27ff8a0c62b656034b803d642f0c4e6f4",
+    "url": "https://tokenscan.io/img/cards/FWSDLSUMMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTAMAFAC.png": {
+    "asset": "FWSDLTAMAFAC",
+    "bytes": 1050721,
+    "cards": [
+      "fwsdltamafac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:05+00:00",
+    "sha256": "efbb8ed3178863bb452f91e1273be9aba14a0e14b49d58e21a34155c71ae9b94",
+    "url": "https://tokenscan.io/img/cards/FWSDLTAMAFAC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTHEDRUC.png": {
+    "asset": "FWSDLTHEDRUC",
+    "bytes": 1329321,
+    "cards": [
+      "fwsdlthedruc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:07+00:00",
+    "sha256": "74743aaa789c5a6f404d05dce4a6f3b880ac447731de4a29f6161f09e0f9b44a",
+    "url": "https://tokenscan.io/img/cards/FWSDLTHEDRUC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTHEMONC.png": {
+    "asset": "FWSDLTHEMONC",
+    "bytes": 1095807,
+    "cards": [
+      "fwsdlthemonc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:08+00:00",
+    "sha256": "94fa0ad5a983414dd78feba32027dc5adcbcfd1f7c275d88fa3fa3cf83fd5548",
+    "url": "https://tokenscan.io/img/cards/FWSDLTHEMONC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTINKERC.png": {
+    "asset": "FWSDLTINKERC",
+    "bytes": 1306541,
+    "cards": [
+      "fwsdltinkerc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:09+00:00",
+    "sha256": "925ed24759cc60a834b47fa47e7e22fe1da03685830522c96234f41e8a53314b",
+    "url": "https://tokenscan.io/img/cards/FWSDLTINKERC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTORRENC.png": {
+    "asset": "FWSDLTORRENC",
+    "bytes": 1410212,
+    "cards": [
+      "fwsdltorrenc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:11+00:00",
+    "sha256": "0efaad7eaf3d30fb56f2dd3291128038163e6ef17d1430f8d08e92349c558261",
+    "url": "https://tokenscan.io/img/cards/FWSDLTORRENC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLTWOFOLC.png": {
+    "asset": "FWSDLTWOFOLC",
+    "bytes": 991511,
+    "cards": [
+      "fwsdltwofolc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:12+00:00",
+    "sha256": "9b63e97dfea17655560e20145a968ec8667d40ef6e8b04d53d63d92ea07be01a",
+    "url": "https://tokenscan.io/img/cards/FWSDLTWOFOLC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLVAMPIRC.png": {
+    "asset": "FWSDLVAMPIRC",
+    "bytes": 1532685,
+    "cards": [
+      "fwsdlvampirc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:13+00:00",
+    "sha256": "0eff8fda6dcb2662e2449c1945959a801f4ecf4938da4a1020fad3a1d8db356c",
+    "url": "https://tokenscan.io/img/cards/FWSDLVAMPIRC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLWATERMC.png": {
+    "asset": "FWSDLWATERMC",
+    "bytes": 1477014,
+    "cards": [
+      "fwsdlwatermc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:15+00:00",
+    "sha256": "f3ef480fb6752dd5a320df185565789cabbf15bfc575a0da5b4c5bd57558aded",
+    "url": "https://tokenscan.io/img/cards/FWSDLWATERMC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLWHISPEC.png": {
+    "asset": "FWSDLWHISPEC",
+    "bytes": 1458523,
+    "cards": [
+      "fwsdlwhispec"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:17+00:00",
+    "sha256": "be9064d6670c605de31450685cc3ff7376f3ad1c5a97b39bc392dae615d17709",
+    "url": "https://tokenscan.io/img/cards/FWSDLWHISPEC.png"
+  },
+  "data/source/image/Recovered/force-of-will/FWSDLWINDMAC.png": {
+    "asset": "FWSDLWINDMAC",
+    "bytes": 930526,
+    "cards": [
+      "fwsdlwindmac"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:18+00:00",
+    "sha256": "3e94ee2ddf5908ae96333a16b8f13763d04b4fc45bf41e9d27a6a78c63c39d34",
+    "url": "https://tokenscan.io/img/cards/FWSDLWINDMAC.png"
+  },
+  "data/source/image/Recovered/japanese-corn/BATCORN.png": {
+    "asset": "BATCORN",
+    "bytes": 92617,
+    "cards": [
+      "batcorn"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/BATCORN.json",
+    "fetched_at": "2026-07-20T14:48:01+00:00",
+    "sha256": "3baabe23e2e9c92b658b241de9300eca47da6b3ecf75ca55e75fdfe3bbf0ab31",
+    "url": "https://tokenscan.io/img/cards/BATCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/BITCORNECT.png": {
+    "asset": "BITCORNECT",
+    "bytes": 297589,
+    "cards": [
+      "bitcornect"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/BITCORNECT.json",
+    "fetched_at": "2026-07-20T14:48:02+00:00",
+    "sha256": "2486b3a7051e640531a2ec66fc2dcf44e25139e8463b57a618548cc7688b8b86",
+    "url": "https://tokenscan.io/img/cards/BITCORNECT.png"
+  },
+  "data/source/image/Recovered/japanese-corn/COMEBACKCORN.png": {
+    "asset": "COMEBACKCORN",
+    "bytes": 455209,
+    "cards": [
+      "comebackcorn"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:48:17+00:00",
+    "sha256": "bdc6e53eacad5c3cf1f144bdd3a7fd7df5291bebe3153b46d1d14cb5218f6e3c",
+    "url": "https://tokenscan.io/img/cards/COMEBACKCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNFLAG.jpg": {
+    "asset": "CORNFLAG",
+    "bytes": 497101,
+    "cards": [
+      "cornflag"
+    ],
+    "content_type": "image/jpeg",
+    "description": "",
+    "fetched_at": "2026-07-20T14:48:19+00:00",
+    "sha256": "c42e71ecc3dcde06a72bee7d33800336a3141e3df4ed3ea0f0090ce4b850ab1a",
+    "url": "https://tokenscan.io/img/cards/CORNFLAG.jpg"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNKABUKI.png": {
+    "asset": "CORNKABUKI",
+    "bytes": 275914,
+    "cards": [
+      "cornkabuki"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:48:20+00:00",
+    "sha256": "2aff6d670c109dafb9ed655c90e8ad45428a2ebc8d5a0cc098e51f2c3f8aedd9",
+    "url": "https://tokenscan.io/img/cards/CORNKABUKI.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNPATROL.png": {
+    "asset": "CORNPATROL",
+    "bytes": 507424,
+    "cards": [
+      "cornpatrol"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/CORNPATROL.json",
+    "fetched_at": "2026-07-20T14:48:22+00:00",
+    "sha256": "dc4f8170b14d0d3ae1e43947411fb9a865c636cf1fd3676595e78f81c440ac65",
+    "url": "https://tokenscan.io/img/cards/CORNPATROL.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNPEDIA.jpg": {
+    "asset": "CORNPEDIA",
+    "bytes": 164720,
+    "cards": [
+      "cornpedia"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/CORNPEDIA.json",
+    "fetched_at": "2026-07-20T14:48:23+00:00",
+    "sha256": "d963d7db353a61ec304330d57a5f44bb073d1d7281ed053e846c3a0266c2d107",
+    "url": "https://tokenscan.io/img/cards/CORNPEDIA.jpg"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNROCK.png": {
+    "asset": "CORNROCK",
+    "bytes": 395405,
+    "cards": [
+      "cornrock"
+    ],
+    "content_type": "image/png",
+    "description": "xcp.coindaddy.io/CORNROCK.json",
+    "fetched_at": "2026-07-20T14:48:24+00:00",
+    "sha256": "87ce56eb4e322af57c69f793000926a41848c8409502d27cd2c51071b2f6dda3",
+    "url": "https://tokenscan.io/img/cards/CORNROCK.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNROOM.gif": {
+    "asset": "CORNROOM",
+    "bytes": 1843612,
+    "cards": [
+      "cornroom"
+    ],
+    "content_type": "image/gif",
+    "description": "xcp.coindaddy.io/CORNROOM.json",
+    "fetched_at": "2026-07-20T14:48:25+00:00",
+    "sha256": "4c841784974f16e357df6b0ddaa01550f8d563919493109f7e5f000c6c7a0e03",
+    "url": "https://tokenscan.io/img/cards/CORNROOM.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNSAKAMOTO.png": {
+    "asset": "CORNSAKAMOTO",
+    "bytes": 490432,
+    "cards": [
+      "cornsakamoto"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:48:26+00:00",
+    "sha256": "db06008a3fa7a5f1b058d309607fd7984697ef67237653edaf52b9410a048fcb",
+    "url": "https://tokenscan.io/img/cards/CORNSAKAMOTO.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNSQUIGGLE.png": {
+    "asset": "CORNSQUIGGLE",
+    "bytes": 278717,
+    "cards": [
+      "cornsquiggle"
+    ],
+    "content_type": "image/png",
+    "description": "imgur.com/Guobxk0.png;CORNSQUIGGLE",
+    "fetched_at": "2026-07-20T14:48:28+00:00",
+    "sha256": "1d00d828184c3b9e64dfc5cb6816562690a4af631ec35a66069a6a26f52f88cf",
+    "url": "https://i.imgur.com/Guobxk0.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNTEETH.png": {
+    "asset": "CORNTEETH",
+    "bytes": 350823,
+    "cards": [
+      "cornteeth"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/CORNTEETH.json",
+    "fetched_at": "2026-07-20T14:48:29+00:00",
+    "sha256": "85713ff3d7fd2f867409cc597b74bf88c556b138463c7f12dbe4b000e909b4ae",
+    "url": "https://tokenscan.io/img/cards/CORNTEETH.png"
+  },
+  "data/source/image/Recovered/japanese-corn/CORNTEST.gif": {
+    "asset": "CORNTEST",
+    "bytes": 470170,
+    "cards": [
+      "corntest"
+    ],
+    "content_type": "image/gif",
+    "description": "xcp.coindaddy.io/CORNTEST.json",
+    "fetched_at": "2026-07-20T14:48:30+00:00",
+    "sha256": "dd93e6129d4f5b09ca47eef3d0c48d72ae952752c69b81f5d45c787167d7063b",
+    "url": "https://tokenscan.io/img/cards/CORNTEST.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/DOTCORN.png": {
+    "asset": "DOTCORN",
+    "bytes": 62535,
+    "cards": [
+      "dotcorn"
+    ],
+    "content_type": "image/png",
+    "description": "Corn grains are the basic molecules that make up everything.",
+    "fetched_at": "2026-07-20T14:48:43+00:00",
+    "sha256": "a0d1cf062854853b698816796672cbc79bd5ae6104fa49d52ce39373fbe7626b",
+    "url": "https://tokenscan.io/img/cards/DOTCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/GOGHCORN.jpg": {
+    "asset": "GOGHCORN",
+    "bytes": 275555,
+    "cards": [
+      "goghcorn"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/GOGHCORN.json",
+    "fetched_at": "2026-07-20T14:52:23+00:00",
+    "sha256": "7424b0a7c2ab36e69e885f5fb70414bc20f729bbc1cb6d76801e000dc45d47de",
+    "url": "https://tokenscan.io/img/cards/GOGHCORN.jpg"
+  },
+  "data/source/image/Recovered/japanese-corn/LASTCORN.png": {
+    "asset": "LASTCORN",
+    "bytes": 374611,
+    "cards": [
+      "lastcorn"
+    ],
+    "content_type": "image/png",
+    "description": "You’ll never find the last corn if you’re looking do",
+    "fetched_at": "2026-07-20T14:52:58+00:00",
+    "sha256": "bcb9875e44fa41ae70c7f1721c51445c39cda462881d53887675da6eea782dfe",
+    "url": "https://tokenscan.io/img/cards/LASTCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/LILYCORN.gif": {
+    "asset": "LILYCORN",
+    "bytes": 1073488,
+    "cards": [
+      "lilycorn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/LILYCORN.json",
+    "fetched_at": "2026-07-20T14:53:01+00:00",
+    "sha256": "be734a95da7ecf9d6546f990df693e237e3e46661d573685257cfa9de605e7d4",
+    "url": "https://tokenscan.io/img/cards/LILYCORN.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/MOISTERINGBC.png": {
+    "asset": "MOISTERINGBC",
+    "bytes": 299204,
+    "cards": [
+      "moisteringbc"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:21+00:00",
+    "sha256": "0cab55b93f428ba8a1475eca2785ab87af2729df9905516756d674db97254df0",
+    "url": "https://tokenscan.io/img/cards/MOISTERINGBC.png"
+  },
+  "data/source/image/Recovered/japanese-corn/MONDRIANCORN.png": {
+    "asset": "MONDRIANCORN",
+    "bytes": 69405,
+    "cards": [
+      "mondriancorn"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:22+00:00",
+    "sha256": "2eea0394d82a02a496d81ff84d0c3281bd5bd93ae7fdd16202792eecd9dc30c4",
+    "url": "https://tokenscan.io/img/cards/MONDRIANCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/NFCORN.png": {
+    "asset": "NFCORN",
+    "bytes": 389794,
+    "cards": [
+      "nfcorn"
+    ],
+    "content_type": "image/png",
+    "description": "Non-Fungible Corn",
+    "fetched_at": "2026-07-20T14:53:29+00:00",
+    "sha256": "3496b767be89d385fe06b7ced0176b31a3a6c550dad46570976474c16ed50651",
+    "url": "https://tokenscan.io/img/cards/NFCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/NOBORDERCORN.gif": {
+    "asset": "NOBORDERCORN",
+    "bytes": 359961,
+    "cards": [
+      "nobordercorn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/NOBORDERCORN.json",
+    "fetched_at": "2026-07-20T14:53:31+00:00",
+    "sha256": "76cbc140c119af25d06056a2b1621a7763ce833896cfb52a203da506a89940bc",
+    "url": "https://tokenscan.io/img/cards/NOBORDERCORN.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/ONSENCORN.png": {
+    "asset": "ONSENCORN",
+    "bytes": 271258,
+    "cards": [
+      "onsencorn"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:40+00:00",
+    "sha256": "3dd82b6af3d4efe6a3a446108af97f61293d0cd14c7511535f8e64c04ab1f125",
+    "url": "https://tokenscan.io/img/cards/ONSENCORN.png"
+  },
+  "data/source/image/Recovered/japanese-corn/PENPENPOPCOR.gif": {
+    "asset": "PENPENPOPCOR",
+    "bytes": 2043239,
+    "cards": [
+      "penpenpopcor"
+    ],
+    "content_type": "image/gif",
+    "description": "xcp.coindaddy.io/PENPENPOPCOR.json",
+    "fetched_at": "2026-07-20T14:53:47+00:00",
+    "sha256": "b58139cdc7a7d1ce95e55cc59726544e2e15355be4f5c801cffe5d66ad679b35",
+    "url": "https://tokenscan.io/img/cards/PENPENPOPCOR.gif"
+  },
+  "data/source/image/Recovered/japanese-corn/VIVIDCORN.png": {
+    "asset": "VIVIDCORN",
+    "bytes": 344181,
+    "cards": [
+      "vividcorn"
+    ],
+    "content_type": "image/png",
+    "description": "*Corn grown on the best farms becomes vivid",
+    "fetched_at": "2026-07-20T14:56:16+00:00",
+    "sha256": "b3da3a6b71c8b144abd16a0ab903aa9938dfe80e7c3b22d2cc10143251334722",
+    "url": "https://tokenscan.io/img/cards/VIVIDCORN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/BLOWPEPE.gif": {
+    "asset": "BLOWPEPE",
+    "bytes": 261543,
+    "cards": [
+      "blowpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/BLOWPEPE.json",
+    "fetched_at": "2026-07-20T14:48:06+00:00",
+    "sha256": "9e93858c210af924136530c1fffc7c83b347372ac8bc3764ffe36769b2d2b362",
+    "url": "https://tokenscan.io/img/cards/BLOWPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/BREATHEDPEPE.gif": {
+    "asset": "BREATHEDPEPE",
+    "bytes": 230479,
+    "cards": [
+      "breathedpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/BREATHEDPEPE.json",
+    "fetched_at": "2026-07-20T14:48:07+00:00",
+    "sha256": "6e84fe353e3b38b416edcea335505994014f212880789288bd237c25b51943a9",
+    "url": "https://tokenscan.io/img/cards/BREATHEDPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/CHURNIPEPE.jpg": {
+    "asset": "CHUNRIPEPE",
+    "bytes": 55479,
+    "cards": [
+      "chunripepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/CHUNRIPEPE.json",
+    "fetched_at": "2026-07-20T14:48:12+00:00",
+    "sha256": "d2c1b55de8d7a0db9e47788a04816809656d26098e0d5e1245c50b75072440e0",
+    "url": "https://tokenscan.io/img/cards/CHUNRIPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/CLAYPEPE.png": {
+    "asset": "CLAYPEPE",
+    "bytes": 459035,
+    "cards": [
+      "claypepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/CLAYPEPE.json",
+    "fetched_at": "2026-07-20T14:48:13+00:00",
+    "sha256": "683e19cc783491ff67392b24701600a938cd7e700d5603c51483b87b34723893",
+    "url": "https://tokenscan.io/img/cards/CLAYPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/COMEDYPEPE.gif": {
+    "asset": "COMEDYPEPE",
+    "bytes": 35354,
+    "cards": [
+      "comedypepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/COMEDYPEPE.json",
+    "fetched_at": "2026-07-20T14:48:18+00:00",
+    "sha256": "bc2516822aaedb3a9d9af92e92495425fcf188d454d621ed055776a0d27ab3f0",
+    "url": "https://tokenscan.io/img/cards/COMEDYPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/CUPIDPEPE.jpg": {
+    "asset": "CUPIDPEPE",
+    "bytes": 34608,
+    "cards": [
+      "cupidpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/CUPIDPEPE.json",
+    "fetched_at": "2026-07-20T14:48:32+00:00",
+    "sha256": "a126d3401a143eab842d8fe4f8d988a821866d769b68ad8d7c1bb17019bc43fd",
+    "url": "https://tokenscan.io/img/cards/CUPIDPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/DRILLPEPE.gif": {
+    "asset": "DRILLPEPE",
+    "bytes": 422255,
+    "cards": [
+      "drillpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/DRILLPEPE.json",
+    "fetched_at": "2026-07-20T14:48:44+00:00",
+    "sha256": "c569c919e5843231f11eae06a820c1d38382892d0326622fe3180a45737a4e5f",
+    "url": "https://tokenscan.io/img/cards/DRILLPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/DRONEPEPE.gif": {
+    "asset": "DRONEPEPE",
+    "bytes": 303481,
+    "cards": [
+      "dronepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/DRONEPEPE.json",
+    "fetched_at": "2026-07-20T14:48:45+00:00",
+    "sha256": "4c321f2b6eac1a20f7353a326712714b4d4783e0c30dedb96ed9d6b7f091aded",
+    "url": "https://tokenscan.io/img/cards/DRONEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/EARTHPEPE.gif": {
+    "asset": "EARTHPEPE",
+    "bytes": 432469,
+    "cards": [
+      "earthpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/EARTHPEPE.json",
+    "fetched_at": "2026-07-20T14:48:47+00:00",
+    "sha256": "21c9abab881b801070355e443452a2c98eb41622fc91ac4f1b70b0a35a1ee799",
+    "url": "https://tokenscan.io/img/cards/EARTHPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ENDRACISMPE.jpg": {
+    "asset": "ENDRACISMPE",
+    "bytes": 75184,
+    "cards": [
+      "endracismpe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/ENDRACISMPE.json",
+    "fetched_at": "2026-07-20T14:48:48+00:00",
+    "sha256": "7aceb2e5e2d5723235f3d0c1aa8af3fd1b7f60443b9ad524bc146f30bc44c8ed",
+    "url": "https://tokenscan.io/img/cards/ENDRACISMPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ENGELPEPE.png": {
+    "asset": "ENGELPEPE",
+    "bytes": 1205803,
+    "cards": [
+      "engelpepe"
+    ],
+    "content_type": "image/png",
+    "description": "a pepe inspired in finn from adventure time",
+    "fetched_at": "2026-07-20T14:48:49+00:00",
+    "sha256": "f65d898c5d2145e217decd681019c4cd0fa1b820cfdb6086d089814549dcdc85",
+    "url": "https://tokenscan.io/img/cards/ENGELPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/FEATHERSPEPE.png": {
+    "asset": "FEATHERSPEPE",
+    "bytes": 618181,
+    "cards": [
+      "featherspepe"
+    ],
+    "content_type": "image/png",
+    "description": "https://easyasset.art/j/wfmf9w/FEATH.json",
+    "fetched_at": "2026-07-20T14:48:50+00:00",
+    "sha256": "9483e7635939577cb6a07d9572d5428cee293017557e3f6a816d08ceb62fcb73",
+    "url": "https://tokenscan.io/img/cards/FEATHERSPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/FLOWERPEPE.png": {
+    "asset": "FLOWERPEPE",
+    "bytes": 146991,
+    "cards": [
+      "flowerpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/FLOWERPEPE.json",
+    "fetched_at": "2026-07-20T14:48:51+00:00",
+    "sha256": "9e84b84718ffca033ce7518b56496c7b4a986b6670c8c1d947fa10d35d753057",
+    "url": "https://tokenscan.io/img/cards/FLOWERPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/FLYINGACEPEP.jpg": {
+    "asset": "FLYINGACEPEP",
+    "bytes": 63741,
+    "cards": [
+      "flyingacepep"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/FLYINGACEPEP.json",
+    "fetched_at": "2026-07-20T14:48:54+00:00",
+    "sha256": "78694e3ccb2b55abfd53ae1b279cee214d5d69c46641857d7a7e92b77d4c0d30",
+    "url": "https://tokenscan.io/img/cards/FLYINGACEPEP.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/FRIENDSPEPE.gif": {
+    "asset": "FRIENDSPEPE",
+    "bytes": 268457,
+    "cards": [
+      "friendspepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/FRIENDSPEPE.json",
+    "fetched_at": "2026-07-20T14:48:55+00:00",
+    "sha256": "fb692cbd41f3f8c945cbd046a978c2a2595c53776ddce3f5463ddbb520d6142f",
+    "url": "https://tokenscan.io/img/cards/FRIENDSPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/FTERTHERAIN.gif": {
+    "asset": "FTERTHERAIN",
+    "bytes": 418818,
+    "cards": [
+      "ftertherain"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/FTERTHERAIN.json",
+    "fetched_at": "2026-07-20T14:48:56+00:00",
+    "sha256": "6e6d1f984a582b3be12a8be0113782475df83a65eb14b6c7268e302c993bbc03",
+    "url": "https://tokenscan.io/img/cards/FTERTHERAIN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/GANGPEPE.jpg": {
+    "asset": "GANGPEPE",
+    "bytes": 43760,
+    "cards": [
+      "gangpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/GANGPEPE.json",
+    "fetched_at": "2026-07-20T14:52:20+00:00",
+    "sha256": "d9c4f6cf26798298794cce2a41f20765c21fdcab853fccbf3a072bb99c7f6592",
+    "url": "https://tokenscan.io/img/cards/GANGPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/GNITEPEPE.gif": {
+    "asset": "GNITEPEPE",
+    "bytes": 708989,
+    "cards": [
+      "gnitepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:21+00:00",
+    "sha256": "b34b76ad14d6d109ce9d11b9a9acec426d4c52fd25e97d512e0789df7038cb04",
+    "url": "https://tokenscan.io/img/cards/GNITEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/GUESSWHATPEP.gif": {
+    "asset": "GUESSWHATPEP",
+    "bytes": 567043,
+    "cards": [
+      "guesswhatpep"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/GUESSWHATPEP.json",
+    "fetched_at": "2026-07-20T14:52:27+00:00",
+    "sha256": "781ce94c3ec0fdc99426919c3b9da1550b9c68f5aba2cc7dfa62b34097db36e4",
+    "url": "https://tokenscan.io/img/cards/GUESSWHATPEP.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HAIKUPEPE.png": {
+    "asset": "HAIKUPEPE",
+    "bytes": 211846,
+    "cards": [
+      "haikupepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HAIKUPEPE.json",
+    "fetched_at": "2026-07-20T14:52:28+00:00",
+    "sha256": "b1ee786c52b002588e6f4e2148ddfe1b6971e96140489320cb5d62fff25fa255",
+    "url": "https://tokenscan.io/img/cards/HAIKUPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HAIRPEPE.png": {
+    "asset": "HAIRPEPE",
+    "bytes": 267901,
+    "cards": [
+      "hairpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HAIRPEPE.json",
+    "fetched_at": "2026-07-20T14:52:30+00:00",
+    "sha256": "3eff467c49a4cdc3b15d1a1202d9feacba260a6b5ec6db969a50b147fea19669",
+    "url": "https://tokenscan.io/img/cards/HAIRPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HANGINPEPE.jpg": {
+    "asset": "HANGINPEPE",
+    "bytes": 64199,
+    "cards": [
+      "hanginpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/HANGINPEPE.json",
+    "fetched_at": "2026-07-20T14:52:31+00:00",
+    "sha256": "60b4fbefc6a50597a3283c54b50c0fdea92086d2d2676438fae45da9b8565436",
+    "url": "https://tokenscan.io/img/cards/HANGINPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HAPPYRAINY.png": {
+    "asset": "HAPPYRAINY",
+    "bytes": 390502,
+    "cards": [
+      "happyrainy"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HAPPYRAINY.json",
+    "fetched_at": "2026-07-20T14:52:32+00:00",
+    "sha256": "cdea943bc7abb8648e3d46e69695802d5638c9ecb7e6c3538073b3323059a32f",
+    "url": "https://tokenscan.io/img/cards/HAPPYRAINY.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HARAKIRIPEPE.png": {
+    "asset": "HARAKIRIPEPE",
+    "bytes": 85782,
+    "cards": [
+      "harakiripepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:33+00:00",
+    "sha256": "0b81aea1cfa898f014e5de375eb404662684ed4501aec8fae8fe762d6172a433",
+    "url": "https://tokenscan.io/img/cards/HARAKIRIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/HINAMATSURI.png": {
+    "asset": "HINAMATSURI",
+    "bytes": 181437,
+    "cards": [
+      "hinamatsuri"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/HINAMATSURI.json",
+    "fetched_at": "2026-07-20T14:52:34+00:00",
+    "sha256": "fd2c9eaeaa1fc3be5d54c9045604ea87b233aceffe861303c8594f9bf27ae232",
+    "url": "https://tokenscan.io/img/cards/HINAMATSURI.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ICARUSPEPE.png": {
+    "asset": "ICARUSPEPE",
+    "bytes": 222953,
+    "cards": [
+      "icaruspepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/ICARUSPEPE.json",
+    "fetched_at": "2026-07-20T14:52:39+00:00",
+    "sha256": "2cee23aa6efd8a8542897668b874eb0dac0db0b7947f6a8efe8520c8ce7020ce",
+    "url": "https://tokenscan.io/img/cards/ICARUSPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/IMG_9548.gif": {
+    "asset": "CICACOINPEPE",
+    "bytes": 530291,
+    "cards": [
+      "cicacoinpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/CICACOINPEPE.json",
+    "fetched_at": "2026-07-20T14:52:42+00:00",
+    "sha256": "058dea6a0425b50452f89b1b9b5559037e17fa163153a7711684edc0fac99f1b",
+    "url": "https://tokenscan.io/img/cards/CICACOINPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/JAPANESEPEPE.gif": {
+    "asset": "JAPANESEPEPE",
+    "bytes": 611331,
+    "cards": [
+      "japanesepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/JAPANESEPEPE.json",
+    "fetched_at": "2026-07-20T14:52:45+00:00",
+    "sha256": "01825c93191249e92db9239c368bcb142ffb540d9ff5277bb3c75ade2356c84b",
+    "url": "https://tokenscan.io/img/cards/JAPANESEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KABUKIPEPE.png": {
+    "asset": "KABUKIPEPE",
+    "bytes": 237841,
+    "cards": [
+      "kabukipepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/KABUKIPEPE.json",
+    "fetched_at": "2026-07-20T14:52:48+00:00",
+    "sha256": "3cd1c2a7fb836d71efc75286a0ea145f37cb7dea47e4eec159ec3a350a8e7cf2",
+    "url": "https://tokenscan.io/img/cards/KABUKIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KIGURUMIPEPE.png": {
+    "asset": "KIGURUMIPEPE",
+    "bytes": 361632,
+    "cards": [
+      "kigurumipepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/KIGURUMIPEPE.json",
+    "fetched_at": "2026-07-20T14:52:50+00:00",
+    "sha256": "20192013318066b27afe89aa75fbeabc79e77c55ad7cfab542245c6fdf99201d",
+    "url": "https://tokenscan.io/img/cards/KIGURUMIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KINGYOPEPE.png": {
+    "asset": "KINGYOPEPE",
+    "bytes": 345302,
+    "cards": [
+      "kingyopepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:51+00:00",
+    "sha256": "abb7088b33bca915a878d16e7280b1206f7a0db821626af8cee811162c67f020",
+    "url": "https://tokenscan.io/img/cards/KINGYOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KUMADORIPEPE.png": {
+    "asset": "KUMADORIPEPE",
+    "bytes": 186112,
+    "cards": [
+      "kumadoripepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/KUMADORIPEPE.json",
+    "fetched_at": "2026-07-20T14:52:56+00:00",
+    "sha256": "b93a6c5858bf7846345c37d8fd28399f61ec5089e6226b16767a54e2396e6573",
+    "url": "https://tokenscan.io/img/cards/KUMADORIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/KYUDOPEPE.png": {
+    "asset": "KYUDOPEPE",
+    "bytes": 307740,
+    "cards": [
+      "kyudopepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:52:57+00:00",
+    "sha256": "fa7fa2a89af5c5560e7a6d45f9593f559be1c4a0595b9296a96d81881b3fdd10",
+    "url": "https://tokenscan.io/img/cards/KYUDOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/LONELYPEPE.jpg": {
+    "asset": "LONELYPEPE",
+    "bytes": 39801,
+    "cards": [
+      "lonelypepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/LONELYPEPE.json",
+    "fetched_at": "2026-07-20T14:53:02+00:00",
+    "sha256": "1b72f2671a3abe6b164fbb39ac8603065f16045a9838fcbe514adc1ff8729f7a",
+    "url": "https://tokenscan.io/img/cards/LONELYPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/LONGNOSEPEPE.gif": {
+    "asset": "LONGNOSEPEPE",
+    "bytes": 357902,
+    "cards": [
+      "longnosepepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/LONGNOSEPEPE.json",
+    "fetched_at": "2026-07-20T14:53:03+00:00",
+    "sha256": "b183fc717996a3555e5204cb407a1ecb7e14fa82adc331b9d1ec10f338de0e23",
+    "url": "https://tokenscan.io/img/cards/LONGNOSEPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MANDARAPEPE.png": {
+    "asset": "MANDARAPEPE",
+    "bytes": 594623,
+    "cards": [
+      "mandarapepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MANDARAPEPE.json",
+    "fetched_at": "2026-07-20T14:53:08+00:00",
+    "sha256": "59ef9dda24712ef6bc4a07db9411b3c5b7b5fd9bdc2d0cead60d763d59f9a723",
+    "url": "https://tokenscan.io/img/cards/MANDARAPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MAOISMPEPE.jpg": {
+    "asset": "MAOISMPEPE",
+    "bytes": 45044,
+    "cards": [
+      "maoismpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/MAOISMPEPE.json",
+    "fetched_at": "2026-07-20T14:53:09+00:00",
+    "sha256": "456aef6b03e312eb863125ecaf861dae764e80de65edac2deb9d558d7a0b6c69",
+    "url": "https://tokenscan.io/img/cards/MAOISMPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MATSUNIPEPE.gif": {
+    "asset": "MATSUNIPEPE",
+    "bytes": 69591,
+    "cards": [
+      "matsunipepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/MATSUNIPEPE.json",
+    "fetched_at": "2026-07-20T14:53:10+00:00",
+    "sha256": "6e458669e71866d3a416978f46420a426852d8d4d88c6d80889938a82fc0c76d",
+    "url": "https://tokenscan.io/img/cards/MATSUNIPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MATSURIPEPE.png": {
+    "asset": "MATSURIPEPE",
+    "bytes": 346655,
+    "cards": [
+      "matsuripepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MATSURIPEPE.json",
+    "fetched_at": "2026-07-20T14:53:12+00:00",
+    "sha256": "a6d5463e754a9665144beead7f50346eb9e8e979d7b0f0a1a7b69053df1d65cc",
+    "url": "https://tokenscan.io/img/cards/MATSURIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MERMAIDPEPE.jpg": {
+    "asset": "MERMAIDPEPE",
+    "bytes": 58474,
+    "cards": [
+      "mermaidpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:13+00:00",
+    "sha256": "ee2478b7e1ae9dc419d2b14fc4f9767a3d28debb9cdc643504ff066393f995b2",
+    "url": "https://tokenscan.io/img/cards/MERMAIDPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MIKOPEPE.png": {
+    "asset": "MIKOPEPE",
+    "bytes": 482901,
+    "cards": [
+      "mikopepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:15+00:00",
+    "sha256": "d46b729ddc24492718d50a29f26201c57532a47b86eeda947bba77ec40d6ff03",
+    "url": "https://tokenscan.io/img/cards/MIKOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MIYAKO.png": {
+    "asset": "MIYAKO",
+    "bytes": 318960,
+    "cards": [
+      "miyako"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MIYAKO.json",
+    "fetched_at": "2026-07-20T14:53:17+00:00",
+    "sha256": "7b9b3b71dbc95fb7c6c0e7e05ec55f5155ce39f3b0ebf282b1f1b65f8169fb6f",
+    "url": "https://tokenscan.io/img/cards/MIYAKO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MUPEPETS.png": {
+    "asset": "MUPEPETS",
+    "bytes": 235623,
+    "cards": [
+      "mupepets"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/MUPEPETS.json",
+    "fetched_at": "2026-07-20T14:53:24+00:00",
+    "sha256": "666883371b01dea43d6b0f8fc48ec834b378405dc2902df736aaf9d7f1baa460",
+    "url": "https://tokenscan.io/img/cards/MUPEPETS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/MURASAKIPEPE.jpg": {
+    "asset": "MURASAKIPEPE",
+    "bytes": 60169,
+    "cards": [
+      "murasakipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:25+00:00",
+    "sha256": "6605d705074a46267a848da08b6eb428a6bf9353f5f92294a4cba3ee464e4cf5",
+    "url": "https://tokenscan.io/img/cards/MURASAKIPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NATIVEPEPETH.png": {
+    "asset": "NATIVEPEPETH",
+    "bytes": 225079,
+    "cards": [
+      "nativepepeth"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/NATIVEPEPETH.json",
+    "fetched_at": "2026-07-20T14:53:26+00:00",
+    "sha256": "ffe70bda6199e57895478b85b74fb5851dc8d109f69c2f2000415c952b46878a",
+    "url": "https://tokenscan.io/img/cards/NATIVEPEPETH.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NEWYEARPEPE.gif": {
+    "asset": "NEWYEARPEPE",
+    "bytes": 795954,
+    "cards": [
+      "newyearpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/NEWYEARPEPE.json",
+    "fetched_at": "2026-07-20T14:53:27+00:00",
+    "sha256": "3f370ed1a692c141c6089ac44dd598c66e1d6759c71851ec37ed84c289bb3b53",
+    "url": "https://tokenscan.io/img/cards/NEWYEARPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NOBORDERPEPE.gif": {
+    "asset": "NOBORDERPEPE",
+    "bytes": 283245,
+    "cards": [
+      "noborderpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/NOBORDERPEPE.json",
+    "fetched_at": "2026-07-20T14:53:32+00:00",
+    "sha256": "e11ebb0d08d1949b356355c8c2759efb4f1e33ddda635ddf541c351dd3a8b80a",
+    "url": "https://tokenscan.io/img/cards/NOBORDERPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NOBUSHIPEPE.png": {
+    "asset": "NOBUSHIPEPE",
+    "bytes": 185268,
+    "cards": [
+      "nobushipepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:53:35+00:00",
+    "sha256": "05c9506a8fbc3319aad417984fbc25a70941a37a3157953ca80c5a4c06da7c19",
+    "url": "https://tokenscan.io/img/cards/NOBUSHIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/NOHPEPE.jpg": {
+    "asset": "NOHPEPE",
+    "bytes": 66994,
+    "cards": [
+      "nohpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/NOHPEPE.json",
+    "fetched_at": "2026-07-20T14:53:37+00:00",
+    "sha256": "11c14e24226c46f735a695b774ed33aaa35820d907ee9b4794670f2f9767de91",
+    "url": "https://tokenscan.io/img/cards/NOHPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ONSENPEPE.png": {
+    "asset": "ONSENPEPE",
+    "bytes": 98192,
+    "cards": [
+      "onsenpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/ONSENPEPE.json",
+    "fetched_at": "2026-07-20T14:53:42+00:00",
+    "sha256": "0d4ab98e4fb0cdbd53fce2c84fff63e7e03095698071fd2cb72c423ba8937ee0",
+    "url": "https://tokenscan.io/img/cards/ONSENPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEEKABOOPEPE.gif": {
+    "asset": "PEEKABOOPEPE",
+    "bytes": 269519,
+    "cards": [
+      "peekaboopepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEEKABOOPEPE.json",
+    "fetched_at": "2026-07-20T14:53:44+00:00",
+    "sha256": "f3411d38816826b28c834f87f84143572e8a5d3b81a86a5861336ed64ac40ece",
+    "url": "https://tokenscan.io/img/cards/PEEKABOOPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PENPEN.gif": {
+    "asset": "PENPEN",
+    "bytes": 1465292,
+    "cards": [
+      "penpen"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PENPEN.json",
+    "fetched_at": "2026-07-20T14:53:45+00:00",
+    "sha256": "ee657bcb26a4559b7029868bbfbf719ca32c6e48825587ff9100f7522e1d0d05",
+    "url": "https://tokenscan.io/img/cards/PENPEN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEADDICTS.png": {
+    "asset": "PEPEADDICTS",
+    "bytes": 175012,
+    "cards": [
+      "pepeaddicts"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEADDICTS.json",
+    "fetched_at": "2026-07-20T14:53:48+00:00",
+    "sha256": "b9c60cd746ebd5365097b107e55ce21781cd859ca27f0468aa2995fa3a5ae80d",
+    "url": "https://tokenscan.io/img/cards/PEPEADDICTS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEAKI.png": {
+    "asset": "PEPEAKI",
+    "bytes": 541210,
+    "cards": [
+      "pepeaki"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEAKI.json",
+    "fetched_at": "2026-07-20T14:53:49+00:00",
+    "sha256": "720f5166991b56a9f3dcee5d9f720a27493569e6253ed35e8d29be5d9861f530",
+    "url": "https://tokenscan.io/img/cards/PEPEAKI.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEAKIBA.jpg": {
+    "asset": "PEPEAKIBA",
+    "bytes": 67489,
+    "cards": [
+      "pepeakiba"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEAKIBA.json",
+    "fetched_at": "2026-07-20T14:53:51+00:00",
+    "sha256": "208d8c576e5497ef31bbe37dba7bd51f95e8c0032a9e9815647ad04b7f1f87d7",
+    "url": "https://tokenscan.io/img/cards/PEPEAKIBA.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEAN.png": {
+    "asset": "PEPEAN",
+    "bytes": 236897,
+    "cards": [
+      "pepean"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEAN.json",
+    "fetched_at": "2026-07-20T14:53:52+00:00",
+    "sha256": "2d71dc137c48bf1a3057ed6be2b831bc0a675f6b90d47664122d05fa4fd74f6b",
+    "url": "https://tokenscan.io/img/cards/PEPEAN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEARROW.png": {
+    "asset": "PEPEARROW",
+    "bytes": 128453,
+    "cards": [
+      "pepearrow"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEARROW.json",
+    "fetched_at": "2026-07-20T14:53:54+00:00",
+    "sha256": "820e4807b4d9b4ed56b0defe28fb799e6223585432d9e0b66ea8424469c70dfd",
+    "url": "https://tokenscan.io/img/cards/PEPEARROW.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBALL.png": {
+    "asset": "PEPEBALL",
+    "bytes": 337970,
+    "cards": [
+      "pepeball"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEBALL.json",
+    "fetched_at": "2026-07-20T14:53:55+00:00",
+    "sha256": "7bb133285d6fc170868b868023e904dc49c92b32644dd0c8142915e36df340be",
+    "url": "https://tokenscan.io/img/cards/PEPEBALL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBALLOON.gif": {
+    "asset": "PEPEBALLOON",
+    "bytes": 1515046,
+    "cards": [
+      "pepeballoon"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEBALLOON.json",
+    "fetched_at": "2026-07-20T14:53:56+00:00",
+    "sha256": "569680ae368019cd69312b2cba04af2cf78e503de2e97c215b439254a244824b",
+    "url": "https://tokenscan.io/img/cards/PEPEBALLOON.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBASS.png": {
+    "asset": "PEPEBASS",
+    "bytes": 179365,
+    "cards": [
+      "pepebass"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEBASS.json",
+    "fetched_at": "2026-07-20T14:53:57+00:00",
+    "sha256": "e493afbdb2f10d0765d77ec3520723b1575fe4bfc6669cc4f54566395104505a",
+    "url": "https://tokenscan.io/img/cards/PEPEBASS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBRICCO.jpg": {
+    "asset": "PEPEBRICCO",
+    "bytes": 54085,
+    "cards": [
+      "pepebricco"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEBRICCO.json",
+    "fetched_at": "2026-07-20T14:54:01+00:00",
+    "sha256": "b11b65f4936913d4dcecfa16c0034c53b0fb89d8c6fc4b1c020d7fea8572b24d",
+    "url": "https://tokenscan.io/img/cards/PEPEBRICCO.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEBRIEFS.png": {
+    "asset": "PEPEBRIEFS",
+    "bytes": 170598,
+    "cards": [
+      "pepebriefs"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEBRIEFS.json",
+    "fetched_at": "2026-07-20T14:54:02+00:00",
+    "sha256": "81dd60a6d78da2266d6f2dedf9d6285c438316e94259deb16b870bd684b3d89a",
+    "url": "https://tokenscan.io/img/cards/PEPEBRIEFS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPECAFFE.gif": {
+    "asset": "PEPECAFFE",
+    "bytes": 39292,
+    "cards": [
+      "pepecaffe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPECAFFE.json",
+    "fetched_at": "2026-07-20T14:54:03+00:00",
+    "sha256": "bf2a42daa3919562579fac2325326b548cd416e3a057a54ef5da6089b6d91dff",
+    "url": "https://tokenscan.io/img/cards/PEPECAFFE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPECART.gif": {
+    "asset": "PEPECART",
+    "bytes": 632538,
+    "cards": [
+      "pepecart"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPECART.json",
+    "fetched_at": "2026-07-20T14:54:04+00:00",
+    "sha256": "f0bba36c5007ea2a933ffb104dcc43f1bbeaac7e1deeb75a9678a46db87e1cd3",
+    "url": "https://tokenscan.io/img/cards/PEPECART.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDARKSIDE.png": {
+    "asset": "PEPEDARKSIDE",
+    "bytes": 399197,
+    "cards": [
+      "pepedarkside"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEDARKSIDE.json",
+    "fetched_at": "2026-07-20T14:54:06+00:00",
+    "sha256": "36aec6764616e9285bbb45d3b3c32358a83c70a97b5a994b1cfec22bf5221276",
+    "url": "https://tokenscan.io/img/cards/PEPEDARKSIDE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDJ.jpg": {
+    "asset": "PEPEDJ",
+    "bytes": 47708,
+    "cards": [
+      "pepedj"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEDJ.json",
+    "fetched_at": "2026-07-20T14:54:08+00:00",
+    "sha256": "2b702647cb71db897c4a2620f1b0969deb76941bb434d3ec1d88b021415a3dd9",
+    "url": "https://tokenscan.io/img/cards/PEPEDJ.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDOL.png": {
+    "asset": "PEPEDOL",
+    "bytes": 370921,
+    "cards": [
+      "pepedol"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEDOL.json",
+    "fetched_at": "2026-07-20T14:54:09+00:00",
+    "sha256": "f2e624d34a5051b386eb3339527cb591babdf50790d86047c4240f8af8329af0",
+    "url": "https://tokenscan.io/img/cards/PEPEDOL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEDZILLA-1.png": {
+    "asset": "PEPEDZILLA",
+    "bytes": 99276,
+    "cards": [
+      "pepedzilla"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:54:10+00:00",
+    "sha256": "88c2d03a6b3aa4412b3d358e96a5b22ae0566ad42174d906fcd2ce502d4b1906",
+    "url": "https://tokenscan.io/img/cards/PEPEDZILLA.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEEVO.png": {
+    "asset": "PEPEEVO",
+    "bytes": 302801,
+    "cards": [
+      "pepeevo"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEEVO.json",
+    "fetched_at": "2026-07-20T14:54:12+00:00",
+    "sha256": "0df4c0cfbae1267dceda662c96c625d77a517fa9269cf2559eda6d8fa039b557",
+    "url": "https://tokenscan.io/img/cards/PEPEEVO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFLIES.png": {
+    "asset": "PEPEFLIES",
+    "bytes": 233598,
+    "cards": [
+      "pepeflies"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFLIES.json",
+    "fetched_at": "2026-07-20T14:54:13+00:00",
+    "sha256": "e211dda5c13b15bf92c9056101c569384ab4b65c5c64a7a42eb02b1f935204c2",
+    "url": "https://tokenscan.io/img/cards/PEPEFLIES.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFOREVER.png": {
+    "asset": "PEPEFOREVER",
+    "bytes": 213208,
+    "cards": [
+      "pepeforever"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:54:14+00:00",
+    "sha256": "f369574119907e437adbf4883f0b241f504d94f4e0b8971b594deb0b024d03d6",
+    "url": "https://tokenscan.io/img/cards/PEPEFOREVER.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFORM.png": {
+    "asset": "PEPEFORM",
+    "bytes": 32934,
+    "cards": [
+      "pepeform"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFORM.json",
+    "fetched_at": "2026-07-20T14:54:15+00:00",
+    "sha256": "3baf6eabf039f390a5c3fb61fac0c8d35a39167898392aa8aecdb213e19f3c04",
+    "url": "https://tokenscan.io/img/cards/PEPEFORM.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFRACTAL.png": {
+    "asset": "PEPEFRACTAL",
+    "bytes": 200368,
+    "cards": [
+      "pepefractal"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFRACTAL.json",
+    "fetched_at": "2026-07-20T14:54:16+00:00",
+    "sha256": "ea7cf32b3b9250990dc7fef3769abc58c330b87282aca0ab031223c8379699a9",
+    "url": "https://tokenscan.io/img/cards/PEPEFRACTAL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEFUYU.png": {
+    "asset": "PEPEFUYU",
+    "bytes": 70076,
+    "cards": [
+      "pepefuyu"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEFUYU.json",
+    "fetched_at": "2026-07-20T14:54:18+00:00",
+    "sha256": "ed2fb7ace595475c1a698cbb691c689f019b952a1bb4c498b2e6510d8a462fb5",
+    "url": "https://tokenscan.io/img/cards/PEPEFUYU.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEGIRL.png": {
+    "asset": "PEPEGIRL",
+    "bytes": 198576,
+    "cards": [
+      "pepegirl"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEGIRL.json",
+    "fetched_at": "2026-07-20T14:54:19+00:00",
+    "sha256": "27a8d8deb63c7e380bc9b484e3cd5c2cc0351978493b567b2c5c38158eedddd5",
+    "url": "https://tokenscan.io/img/cards/PEPEGIRL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEGREEN.jpg": {
+    "asset": "PEPEGREEN",
+    "bytes": 13504,
+    "cards": [
+      "pepegreen"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEGREEN.json",
+    "fetched_at": "2026-07-20T14:54:20+00:00",
+    "sha256": "a4470f2f7d2fa87fcfbe5b94ed8bfd7d67cc3f58b6b486c3968ee527b5d98125",
+    "url": "https://tokenscan.io/img/cards/PEPEGREEN.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEHAND.png": {
+    "asset": "PEPEHAND",
+    "bytes": 521179,
+    "cards": [
+      "pepehand"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEHAND.json",
+    "fetched_at": "2026-07-20T14:54:21+00:00",
+    "sha256": "d1de6aed8a2d6de2e415847f91980a3be3d14d0d72d8fe66c81421156107b2b8",
+    "url": "https://tokenscan.io/img/cards/PEPEHAND.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEHARU.png": {
+    "asset": "PEPEHARU",
+    "bytes": 161258,
+    "cards": [
+      "pepeharu"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEHARU.json",
+    "fetched_at": "2026-07-20T14:54:23+00:00",
+    "sha256": "4b01732292c99ec99b6c164db096d68a6d0db624ab404ea9b9e3a0c68d834646",
+    "url": "https://tokenscan.io/img/cards/PEPEHARU.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEJIRAIYA.jpg": {
+    "asset": "PEPEJIRAIYA",
+    "bytes": 56757,
+    "cards": [
+      "pepejiraiya"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEJIRAIYA.json",
+    "fetched_at": "2026-07-20T14:54:24+00:00",
+    "sha256": "094a000e19c0465c7596f7ad56746e1bb8b0c47868e137c09622439d7108bb55",
+    "url": "https://tokenscan.io/img/cards/PEPEJIRAIYA.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEJIRO.png": {
+    "asset": "PEPEJIRO",
+    "bytes": 392254,
+    "cards": [
+      "pepejiro"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEJIRO.json",
+    "fetched_at": "2026-07-20T14:54:25+00:00",
+    "sha256": "170652b110d980e1beb9a8b23e57a3ffe394e0ab3213f941c45785feed013942",
+    "url": "https://tokenscan.io/img/cards/PEPEJIRO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEJPN.gif": {
+    "asset": "PEPEJPN",
+    "bytes": 954655,
+    "cards": [
+      "pepejpn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEJPN.json",
+    "fetched_at": "2026-07-20T14:54:27+00:00",
+    "sha256": "1cfd5ba2f4d71f25d895c5feed1d53073c8dba99d4c0b1abb4a18a333499e962",
+    "url": "https://tokenscan.io/img/cards/PEPEJPN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEKAPARKER.png": {
+    "asset": "PEPEKAPARKER",
+    "bytes": 526889,
+    "cards": [
+      "pepekaparker"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEKAPARKER.json",
+    "fetched_at": "2026-07-20T14:54:28+00:00",
+    "sha256": "d154e8577a4b44ac12c5fe36e068f8b0f6259778330b90d2963f1fd44966f86d",
+    "url": "https://tokenscan.io/img/cards/PEPEKAPARKER.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEMAONE.jpg": {
+    "asset": "PEPEMAONE",
+    "bytes": 135215,
+    "cards": [
+      "pepemaone"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEMAONE.json",
+    "fetched_at": "2026-07-20T14:54:31+00:00",
+    "sha256": "e34e2f4c084e395f3599ca0a703e0d9b80b60340821ce7062dd039422d68a701",
+    "url": "https://tokenscan.io/img/cards/PEPEMAONE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEMERMAN.png": {
+    "asset": "PEPEMERMAN",
+    "bytes": 267688,
+    "cards": [
+      "pepemerman"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEMERMAN.json",
+    "fetched_at": "2026-07-20T14:54:32+00:00",
+    "sha256": "788d8eb1234cd633871e6b96da86f134d7df09998827f09e5706090ff521919c",
+    "url": "https://tokenscan.io/img/cards/PEPEMERMAN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEMOM.png": {
+    "asset": "PEPEMOM",
+    "bytes": 541007,
+    "cards": [
+      "pepemom"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEMOM.json",
+    "fetched_at": "2026-07-20T14:54:33+00:00",
+    "sha256": "348c02958d7615ec9e44f0f1dd98ab57158ccc02213402c1c1af7093d2fda671",
+    "url": "https://tokenscan.io/img/cards/PEPEMOM.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPENAL.png": {
+    "asset": "PEPENAL",
+    "bytes": 327291,
+    "cards": [
+      "pepenal"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPENAL.json",
+    "fetched_at": "2026-07-20T14:54:34+00:00",
+    "sha256": "70f1592cb6fdc0363f11e2c13f38e65fceee24d1782961f24914906f0b126abd",
+    "url": "https://tokenscan.io/img/cards/PEPENAL.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPENIN.png": {
+    "asset": "PEPENIN",
+    "bytes": 191754,
+    "cards": [
+      "pepenin"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPENIN.json",
+    "fetched_at": "2026-07-20T14:54:35+00:00",
+    "sha256": "f1d1a1501d66a525c7a9d6fc344b53cb4526da041945f6cdc140929748c9bae3",
+    "url": "https://tokenscan.io/img/cards/PEPENIN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEON.png": {
+    "asset": "PEPEON",
+    "bytes": 68564,
+    "cards": [
+      "pepeon"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEON.json",
+    "fetched_at": "2026-07-20T14:54:37+00:00",
+    "sha256": "a8dedbbcbcd3be1d1a3712b9d9e698cf210f6acd8f98fcd660fd19cf11c613fb",
+    "url": "https://tokenscan.io/img/cards/PEPEON.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEOROCHI.gif": {
+    "asset": "PEPEOROCHI",
+    "bytes": 458282,
+    "cards": [
+      "pepeorochi"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEOROCHI.json",
+    "fetched_at": "2026-07-20T14:54:38+00:00",
+    "sha256": "6a13ff243a123f411ef7160c09ab648d42409c7c8bc41a4e405d378b87aa7bfd",
+    "url": "https://tokenscan.io/img/cards/PEPEOROCHI.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEPEACE.gif": {
+    "asset": "PEPEPEACE",
+    "bytes": 862824,
+    "cards": [
+      "pepepeace"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEPEACE.json",
+    "fetched_at": "2026-07-20T14:54:39+00:00",
+    "sha256": "dd9ceefa618b971a3908b26a3a14ff469ae87baa8c030759fed8b1a9df1c033f",
+    "url": "https://tokenscan.io/img/cards/PEPEPEACE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEPENPEN.png": {
+    "asset": "PEPEPENPEN",
+    "bytes": 322999,
+    "cards": [
+      "pepepenpen"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEPENPEN.json",
+    "fetched_at": "2026-07-20T14:54:40+00:00",
+    "sha256": "7c528b3cb67d96ce59fca3f581b61034ae02530887658c6ead85eff9f0e5eb2e",
+    "url": "https://tokenscan.io/img/cards/PEPEPENPEN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEPET.png": {
+    "asset": "PEPEPET",
+    "bytes": 89395,
+    "cards": [
+      "pepepet"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEPET.json",
+    "fetched_at": "2026-07-20T14:54:41+00:00",
+    "sha256": "21853a0d9b59e596cee746f49eaed7875efbf5e37944b9f04a7a25c77a4f3034",
+    "url": "https://tokenscan.io/img/cards/PEPEPET.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEPOOR.jpg": {
+    "asset": "PEPEPOOR",
+    "bytes": 51773,
+    "cards": [
+      "pepepoor"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEPOOR.json",
+    "fetched_at": "2026-07-20T14:54:43+00:00",
+    "sha256": "f29bcbf4245aeab583fcc626b31f3e1301f99573f6bae187989bd44819f6d4ea",
+    "url": "https://tokenscan.io/img/cards/PEPEPOOR.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEPRAKEK.png": {
+    "asset": "PEPEPRAKEK",
+    "bytes": 292385,
+    "cards": [
+      "pepeprakek"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:54:44+00:00",
+    "sha256": "76f8762a72cc520d670bd202eb1f21271c6468383662af09d0429049944a9f21",
+    "url": "https://tokenscan.io/img/cards/PEPEPRAKEK.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEREME.gif": {
+    "asset": "PEPEREME",
+    "bytes": 1538586,
+    "cards": [
+      "pepereme"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEREME.json",
+    "fetched_at": "2026-07-20T14:54:45+00:00",
+    "sha256": "d53c1b5bbdeb2320edd20402e1ff07c69bfe2bea818c86d83b1dbf7a5544f673",
+    "url": "https://tokenscan.io/img/cards/PEPEREME.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPERIKISHI.jpg": {
+    "asset": "PEPERIKISHI",
+    "bytes": 63605,
+    "cards": [
+      "peperikishi"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPERIKISHI.json",
+    "fetched_at": "2026-07-20T14:54:47+00:00",
+    "sha256": "a4e1ff7a2fa259b5f505d6299b861a3d94646e516e12bd18fdf79a3fe91ccf9a",
+    "url": "https://tokenscan.io/img/cards/PEPERIKISHI.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPERONCINO.jpg": {
+    "asset": "PEPERONCINO",
+    "bytes": 83031,
+    "cards": [
+      "peperoncino"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPERONCINO.json",
+    "fetched_at": "2026-07-20T14:54:50+00:00",
+    "sha256": "1a8bf58962053e7c0fd8d3aad5b82a9a43ded3a78e3482f1e1428858de88ba61",
+    "url": "https://tokenscan.io/img/cards/PEPERONCINO.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESAX.png": {
+    "asset": "PEPESAX",
+    "bytes": 155474,
+    "cards": [
+      "pepesax"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPESAX.json",
+    "fetched_at": "2026-07-20T14:54:51+00:00",
+    "sha256": "c28f7d9f8fca0d7a713d1ca4cf2bfa6f5beeed1ec9b9376f4b8ebdf3c96a86d9",
+    "url": "https://tokenscan.io/img/cards/PEPESAX.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESCREAM.png": {
+    "asset": "PEPESCREAM",
+    "bytes": 90843,
+    "cards": [
+      "pepescream"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPESCREAM.json",
+    "fetched_at": "2026-07-20T14:54:52+00:00",
+    "sha256": "c729093b461734a59727961bef3c82e427b75388e0274722f9e8d501bea4b17d",
+    "url": "https://tokenscan.io/img/cards/PEPESCREAM.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESEARCH.png": {
+    "asset": "PEPESEARCH",
+    "bytes": 11819,
+    "cards": [
+      "pepesearch"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPESEARCH.json",
+    "fetched_at": "2026-07-20T14:54:53+00:00",
+    "sha256": "fb2b670863f16ff4d92122fe49de788f88b36ff4c720e21ebe46d4599076a622",
+    "url": "https://tokenscan.io/img/cards/PEPESEARCH.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESGYM.png": {
+    "asset": "PEPESGYM",
+    "bytes": 24839,
+    "cards": [
+      "pepesgym"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPESGYM.json",
+    "fetched_at": "2026-07-20T14:54:55+00:00",
+    "sha256": "6f7ec85284a285cca1d3f62d58160169f27e3552fc338a876015f91a0d0217f6",
+    "url": "https://tokenscan.io/img/cards/PEPESGYM.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESPLANET.png": {
+    "asset": "PEPESPLANET",
+    "bytes": 226229,
+    "cards": [
+      "pepesplanet"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPESPLANET.json",
+    "fetched_at": "2026-07-20T14:54:56+00:00",
+    "sha256": "7093f5d0638480f873de8421c5c9a582b73c253528b243db8c11678f2bd56c71",
+    "url": "https://tokenscan.io/img/cards/PEPESPLANET.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESUMMER.png": {
+    "asset": "PEPESUMMER",
+    "bytes": 120019,
+    "cards": [
+      "pepesummer"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPESUMMER.json",
+    "fetched_at": "2026-07-20T14:54:57+00:00",
+    "sha256": "444e567c75f9885fda07c3c8141a2459322a0d6d29ef519d1405f9939c3b1063",
+    "url": "https://tokenscan.io/img/cards/PEPESUMMER.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESURF.jpg": {
+    "asset": "PEPESURF",
+    "bytes": 56583,
+    "cards": [
+      "pepesurf"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPESURF.json",
+    "fetched_at": "2026-07-20T14:55:00+00:00",
+    "sha256": "347ce58b59b9edd9b4b6e9b01fde1b7f2b8a7bff708a064dddeeaf3eec0f5756",
+    "url": "https://tokenscan.io/img/cards/PEPESURF.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPESURFING.gif": {
+    "asset": "PEPESURFING",
+    "bytes": 596629,
+    "cards": [
+      "pepesurfing"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPESURFING.json",
+    "fetched_at": "2026-07-20T14:55:01+00:00",
+    "sha256": "32c8476352f3cd4b547a6199f76fff48bb55e02dcdc83750bff60c0925900f09",
+    "url": "https://tokenscan.io/img/cards/PEPESURFING.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETARO.png": {
+    "asset": "PEPETARO",
+    "bytes": 200075,
+    "cards": [
+      "pepetaro"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPETARO.json",
+    "fetched_at": "2026-07-20T14:55:02+00:00",
+    "sha256": "da3fee2e99716975c377625df75404722d61d608a43ed1200bf34fcbfa37f176",
+    "url": "https://tokenscan.io/img/cards/PEPETARO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETIE.png": {
+    "asset": "PEPETIE",
+    "bytes": 121951,
+    "cards": [
+      "pepetie"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPETIE.json",
+    "fetched_at": "2026-07-20T14:55:03+00:00",
+    "sha256": "97f0bd8dd8676d2b4261a9e024e845c09b8f9c76847cbc0060345ccc7a39a8d6",
+    "url": "https://tokenscan.io/img/cards/PEPETIE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETITAN.png": {
+    "asset": "PEPETITAN",
+    "bytes": 564008,
+    "cards": [
+      "pepetitan"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:55:04+00:00",
+    "sha256": "6d7f705571da2ef28e83c5bd56c602855bff84c16405f4210eede06e69255acc",
+    "url": "https://tokenscan.io/img/cards/PEPETITAN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETOBI.gif": {
+    "asset": "PEPETOBI",
+    "bytes": 950738,
+    "cards": [
+      "pepetobi"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPETOBI.json",
+    "fetched_at": "2026-07-20T14:55:06+00:00",
+    "sha256": "f79fe9df3d0b28603786b12b8afc6df34c525b9b30f741bdc8ca000c96b7c910",
+    "url": "https://tokenscan.io/img/cards/PEPETOBI.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETREK.png": {
+    "asset": "PEPETREK",
+    "bytes": 144605,
+    "cards": [
+      "pepetrek"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPETREK.json",
+    "fetched_at": "2026-07-20T14:55:07+00:00",
+    "sha256": "be508c90d16278c0498c65880d181fc97dab136a61ceaf281c0ed17181f8dc1a",
+    "url": "https://tokenscan.io/img/cards/PEPETREK.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETSAMURAI.jpg": {
+    "asset": "PEPETSAMURAI",
+    "bytes": 60638,
+    "cards": [
+      "pepetsamurai"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPETSAMURAI.json",
+    "fetched_at": "2026-07-20T14:55:09+00:00",
+    "sha256": "1fee45e805b30f4d1c25cbbd3a6019357e6b3e04a07a3478573e533d58fd6d34",
+    "url": "https://tokenscan.io/img/cards/PEPETSAMURAI.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETTER.png": {
+    "asset": "PEPETTER",
+    "bytes": 60641,
+    "cards": [
+      "pepetter"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPETTER.json",
+    "fetched_at": "2026-07-20T14:55:10+00:00",
+    "sha256": "7c421709f4fb169d90486ae91a1d46d01287460cf2deed796470a01aafddb936",
+    "url": "https://tokenscan.io/img/cards/PEPETTER.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPETUNADE.jpg": {
+    "asset": "PEPETUNADE",
+    "bytes": 208636,
+    "cards": [
+      "pepetunade"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPETUNADE.json",
+    "fetched_at": "2026-07-20T14:55:12+00:00",
+    "sha256": "4d0af123b41d3597a6c5e2f1ac56d35fdf3edf7661aba6c4aac4a7d3d9deeac2",
+    "url": "https://tokenscan.io/img/cards/PEPETUNADE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEXECUTIVE.gif": {
+    "asset": "PEPEXECUTIVE",
+    "bytes": 572239,
+    "cards": [
+      "pepexecutive"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEXECUTIVE.json",
+    "fetched_at": "2026-07-20T14:55:13+00:00",
+    "sha256": "8e4335910ec7e6a2ed24205c9703ab78131370fcbbb61145a4c91780be60da90",
+    "url": "https://tokenscan.io/img/cards/PEPEXECUTIVE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEZAALBINO.png": {
+    "asset": "PEPEZAALBINO",
+    "bytes": 164977,
+    "cards": [
+      "pepezaalbino"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEZAALBINO.json",
+    "fetched_at": "2026-07-20T14:55:14+00:00",
+    "sha256": "753aa0ad55ad176b4f634c60ae95626f8852aa17ee802f3a801b2b66cbe21927",
+    "url": "https://tokenscan.io/img/cards/PEPEZAALBINO.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEZONCARD.png": {
+    "asset": "PEPEZONCARD",
+    "bytes": 32069,
+    "cards": [
+      "pepezoncard"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEPEZONCARD.json",
+    "fetched_at": "2026-07-20T14:55:15+00:00",
+    "sha256": "385c606b9379dea048573f71ab26ce4041b5b17c72844f8c1c584fb96e485618",
+    "url": "https://tokenscan.io/img/cards/PEPEZONCARD.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEPEZ_slowmore.gif": {
+    "asset": "PEPEZ",
+    "bytes": 1012560,
+    "cards": [
+      "pepez"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEZ.json",
+    "fetched_at": "2026-07-20T14:55:16+00:00",
+    "sha256": "f58ede830d2288605f0a7bc65089561193a4cc17161accefa942348b744d153a",
+    "url": "https://tokenscan.io/img/cards/PEPEZ.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PEROCHI.png": {
+    "asset": "PEROCHI",
+    "bytes": 257714,
+    "cards": [
+      "perochi"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PEROCHI.json",
+    "fetched_at": "2026-07-20T14:55:18+00:00",
+    "sha256": "d99735e1ee695de81e61c64da26527bfe910b3eac0d00234c243f2e569021769",
+    "url": "https://tokenscan.io/img/cards/PEROCHI.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/POKERPEPE.jpg": {
+    "asset": "POKERPEPE",
+    "bytes": 30021,
+    "cards": [
+      "pokerpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/POKERPEPE.json",
+    "fetched_at": "2026-07-20T14:55:20+00:00",
+    "sha256": "38c0148fbf9d3b735175551ade769517a39db28968b25f5d44980257eda80fa0",
+    "url": "https://tokenscan.io/img/cards/POKERPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/PRISONERPEPE.png": {
+    "asset": "PRISONERPEPE",
+    "bytes": 136716,
+    "cards": [
+      "prisonerpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/PRISONERPEPE.json",
+    "fetched_at": "2026-07-20T14:55:21+00:00",
+    "sha256": "c9f9871ae3adbd6b9afe96fd0660f31175147d8b6bdf40c45f33e898781df5a5",
+    "url": "https://tokenscan.io/img/cards/PRISONERPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/Pepekyrie.png": {
+    "asset": "PEPEKYRIE",
+    "bytes": 403012,
+    "cards": [
+      "pepekyrie"
+    ],
+    "content_type": "image/png",
+    "description": "Created by Aria Minase.",
+    "fetched_at": "2026-07-20T14:55:22+00:00",
+    "sha256": "09d45ad149e9ec4f283fd9c4a3d785b1f001f91b8fab9ee0786191569c61d012",
+    "url": "https://tokenscan.io/img/cards/PEPEKYRIE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/RAINYPEPE.gif": {
+    "asset": "RAINYPEPE",
+    "bytes": 59817,
+    "cards": [
+      "rainypepe"
+    ],
+    "content_type": "image/gif",
+    "description": "btc",
+    "fetched_at": "2026-07-20T14:55:24+00:00",
+    "sha256": "a78e2c1a5c6a4c37cbe605f97ba3567fcacf01eaf45bc75f034857ae36c49bad",
+    "url": "https://tokenscan.io/img/cards/RAINYPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/RAREPEGO.gif": {
+    "asset": "RAREPEGO",
+    "bytes": 885070,
+    "cards": [
+      "rarepego"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/RAREPEGO.json",
+    "fetched_at": "2026-07-20T14:55:25+00:00",
+    "sha256": "7751864d998fddeb794164a5adc68e8f4e8ce48ed832aef6d7a8fe26f7dc8f68",
+    "url": "https://tokenscan.io/img/cards/RAREPEGO.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SAKURANIPEPE.jpg": {
+    "asset": "SAKURANIPEPE",
+    "bytes": 50678,
+    "cards": [
+      "sakuranipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/SAKURANIPEPE.json",
+    "fetched_at": "2026-07-20T14:55:34+00:00",
+    "sha256": "c4f0316ff162e59ba4e889974f5d25fc2126f8b2efc10658a668c551dced1580",
+    "url": "https://tokenscan.io/img/cards/SAKURANIPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SAKURAPENPEN.png": {
+    "asset": "SAKURAPENPEN",
+    "bytes": 166606,
+    "cards": [
+      "sakurapenpen"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/SAKURAPENPEN.json",
+    "fetched_at": "2026-07-20T14:55:35+00:00",
+    "sha256": "026fd3834a748f700a0a218387dd725e4a65390d9a9da7107c3ac7c737c8b5c4",
+    "url": "https://tokenscan.io/img/cards/SAKURAPENPEN.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SANPOPEPE.png": {
+    "asset": "SANPOPEPE",
+    "bytes": 26686,
+    "cards": [
+      "sanpopepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/SANPOPEPE.json",
+    "fetched_at": "2026-07-20T14:55:39+00:00",
+    "sha256": "d378aec251b94236e9c13b1b1d53a676e7ab7db352418447f828ac320b7b4a40",
+    "url": "https://tokenscan.io/img/cards/SANPOPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SECRETPEPE.gif": {
+    "asset": "SECRETPEPE",
+    "bytes": 333099,
+    "cards": [
+      "secretpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/SECRETPEPE.json",
+    "fetched_at": "2026-07-20T14:55:44+00:00",
+    "sha256": "10d729e5fa23db88d5126fcd00e20cf43856ef73bfdbc4ea77cdb2cb93d7bddd",
+    "url": "https://tokenscan.io/img/cards/SECRETPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SENJUPEPE.png": {
+    "asset": "SENJUPEPE",
+    "bytes": 349653,
+    "cards": [
+      "senjupepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/SENJUPEPE.json",
+    "fetched_at": "2026-07-20T14:55:45+00:00",
+    "sha256": "22d6089fe3f97e7829b68f312f152d12f71df4153bd726d09c2d218be3107bf3",
+    "url": "https://tokenscan.io/img/cards/SENJUPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SIXTYSIXPEPE.gif": {
+    "asset": "SIXTYSIXPEPE",
+    "bytes": 910217,
+    "cards": [
+      "sixtysixpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/SIXTYSIXPEPE.json",
+    "fetched_at": "2026-07-20T14:55:53+00:00",
+    "sha256": "f859afdfb300195689614778d7b8e8fc5f9a807cc2fc76f55cf0da559c498d13",
+    "url": "https://tokenscan.io/img/cards/SIXTYSIXPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SNOTPEPE.gif": {
+    "asset": "SNOTPEPE",
+    "bytes": 401652,
+    "cards": [
+      "snotpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/SNOTPEPE.json",
+    "fetched_at": "2026-07-20T14:55:55+00:00",
+    "sha256": "e041324482566f71297b0fe3cb4f03a7a482922d65bd40346760d4828bc08cf2",
+    "url": "https://tokenscan.io/img/cards/SNOTPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SPEPECTRE.png": {
+    "asset": "SPEPECTRE",
+    "bytes": 63997,
+    "cards": [
+      "spepectre"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/SPEPECTRE.json",
+    "fetched_at": "2026-07-20T14:55:56+00:00",
+    "sha256": "d6d7596bf602f30b8f8579d0736499bea067caae344fef73d8f40f527cab4fbf",
+    "url": "https://tokenscan.io/img/cards/SPEPECTRE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SUSUKINIPEPE.jpg": {
+    "asset": "SUSUKINIPEPE",
+    "bytes": 24229,
+    "cards": [
+      "susukinipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/SUSUKINIPEPE.json",
+    "fetched_at": "2026-07-20T14:55:58+00:00",
+    "sha256": "369e1f48071aea822418a7d752cc60e4985c5b942a7aab54b094468d5412673f",
+    "url": "https://tokenscan.io/img/cards/SUSUKINIPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/SWAROPEPE.png": {
+    "asset": "SWAROPEPE",
+    "bytes": 703752,
+    "cards": [
+      "swaropepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/SWAROPEPE.json",
+    "fetched_at": "2026-07-20T14:55:59+00:00",
+    "sha256": "6959b661a458a37bf64416ddb6a75da43073b527f0a2670ebf929b06a706cad2",
+    "url": "https://tokenscan.io/img/cards/SWAROPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/TADPOLEPEPE.png": {
+    "asset": "TADPOLEPEPE",
+    "bytes": 203103,
+    "cards": [
+      "tadpolepepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/TADPOLEPEPE.json",
+    "fetched_at": "2026-07-20T14:56:01+00:00",
+    "sha256": "94e8d4518520b30315a74a3dbfb874b6fdce34eae33512c277e33d219e75f7a4",
+    "url": "https://tokenscan.io/img/cards/TADPOLEPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/TEMPURAPEPE.gif": {
+    "asset": "TEMPURAPEPE",
+    "bytes": 1046694,
+    "cards": [
+      "tempurapepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/TEMPURAPEPE.json",
+    "fetched_at": "2026-07-20T14:56:04+00:00",
+    "sha256": "f14c9874324f0feb64e0b246972018b30e10a88cfd772fef27bf73bd0ea1a37c",
+    "url": "https://tokenscan.io/img/cards/TEMPURAPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/THEPEPE.png": {
+    "asset": "THEPEPE",
+    "bytes": 369251,
+    "cards": [
+      "thepepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/THEPEPE.json",
+    "fetched_at": "2026-07-20T14:56:05+00:00",
+    "sha256": "ca25d1423b4fa4fc3d19c21003a976ae515e2c3d95c459c43d2b6a80a488ed08",
+    "url": "https://tokenscan.io/img/cards/THEPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/UMENIPEPE.jpg": {
+    "asset": "UMENIPEPE",
+    "bytes": 49879,
+    "cards": [
+      "umenipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/UMENIPEPE.json",
+    "fetched_at": "2026-07-20T14:56:10+00:00",
+    "sha256": "4e5eccdab100766090397101272d0fbf0b779f4336cbe1fb33a227ed84cb5ed9",
+    "url": "https://tokenscan.io/img/cards/UMENIPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/UNGAISOUTEN.jpg": {
+    "asset": "UNGAISOUTEN",
+    "bytes": 68771,
+    "cards": [
+      "ungaisouten"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/UNGAISOUTEN.json",
+    "fetched_at": "2026-07-20T14:56:12+00:00",
+    "sha256": "b1d2fb54bcd4ced1da2b1d240e2524056a0b605d72c479126aa361790356dd04",
+    "url": "https://tokenscan.io/img/cards/UNGAISOUTEN.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/UZUMAKIPEPE.png": {
+    "asset": "UZUMAKIPEPE",
+    "bytes": 632551,
+    "cards": [
+      "uzumakipepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/UZUMAKIPEPE.json",
+    "fetched_at": "2026-07-20T14:56:14+00:00",
+    "sha256": "92b6752876fb3fc2815bacc450df1d60fd3c5c07f6a016419be5109d8e289dab",
+    "url": "https://tokenscan.io/img/cards/UZUMAKIPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/VENUSPEPE.gif": {
+    "asset": "VENUSPEPE",
+    "bytes": 1460644,
+    "cards": [
+      "venuspepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/VENUSPEPE.json",
+    "fetched_at": "2026-07-20T14:56:15+00:00",
+    "sha256": "34f96660c1f84f833e89710debe29aee0bd2dc3302345762070d233680be2dc7",
+    "url": "https://tokenscan.io/img/cards/VENUSPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/XMASANTAPEPE.gif": {
+    "asset": "XMASANTAPEPE",
+    "bytes": 391474,
+    "cards": [
+      "xmasantapepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/XMASANTAPEPE.json",
+    "fetched_at": "2026-07-20T14:56:21+00:00",
+    "sha256": "27d5b45f926bf46004616713e574876551d5a28120086e8d8c9d044e19b49fed",
+    "url": "https://tokenscan.io/img/cards/XMASANTAPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/YANAGINIPEPE.jpg": {
+    "asset": "YANAGINIPEPE",
+    "bytes": 50564,
+    "cards": [
+      "yanaginipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/YANAGINIPEPE.json",
+    "fetched_at": "2026-07-20T14:56:24+00:00",
+    "sha256": "8258723f16dac52a13d1330b436020b8672e7649deab0c2948497d909b8faca0",
+    "url": "https://tokenscan.io/img/cards/YANAGINIPEPE.jpeg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/YUGUREPEPE.png": {
+    "asset": "YUGUREPEPE",
+    "bytes": 356449,
+    "cards": [
+      "yugurepepe"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:56:26+00:00",
+    "sha256": "b37d534e8159f0855f704329b32c7fe0d9588efc7e6a2a3f2209998d615cb085",
+    "url": "https://tokenscan.io/img/cards/YUGUREPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/YUMMYPEPE.png": {
+    "asset": "YUMMYPEPE",
+    "bytes": 104251,
+    "cards": [
+      "yummypepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/YUMMYPEPE.json",
+    "fetched_at": "2026-07-20T14:56:27+00:00",
+    "sha256": "a43492bfe00ef3faff9dc918405289be61f5fcd94fdb1f0583921ae68259586f",
+    "url": "https://tokenscan.io/img/cards/YUMMYPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ZAZENPEPE.png": {
+    "asset": "ZAZENPEPE",
+    "bytes": 266752,
+    "cards": [
+      "zazenpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/ZAZENPEPE.json",
+    "fetched_at": "2026-07-20T14:56:29+00:00",
+    "sha256": "1072551fac8d4f7f2fc93eff0a31cbf857d6f1ee53dbcc451ccb6fa61811831b",
+    "url": "https://tokenscan.io/img/cards/ZAZENPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ZZZZPEPE.gif": {
+    "asset": "ZZZZPEPE",
+    "bytes": 93328,
+    "cards": [
+      "zzzzpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/ZZZZPEPE.json",
+    "fetched_at": "2026-07-20T14:56:30+00:00",
+    "sha256": "34aa37cbecfcaa4d84bff074b1589ada29e46ec1deaaef53ca9970b3df5b542d",
+    "url": "https://tokenscan.io/img/cards/ZZZZPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/bulbapepe.png": {
+    "asset": "BULBAPEPECRD",
+    "bytes": 210128,
+    "cards": [
+      "bulbapepecrd"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:56:34+00:00",
+    "sha256": "3424963b67440dc53d127c9f1f079a94f17f16dd492e8f29603d8ed4652824b6",
+    "url": "https://tokenscan.io/img/cards/BULBAPEPECRD.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/cnpepe.png": {
+    "asset": "CNPEPE",
+    "bytes": 57396,
+    "cards": [
+      "cnpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/CNPEPE.json",
+    "fetched_at": "2026-07-20T14:56:35+00:00",
+    "sha256": "843b371f28c72c24c26fc482a3e350ab1ea896494d6173673cfda846e2683d55",
+    "url": "https://tokenscan.io/img/cards/CNPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/crystalpepe.gif": {
+    "asset": "CRYSTALPEPE",
+    "bytes": 897529,
+    "cards": [
+      "crystalpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "RAREST MINERAL PEPE FOUND IN SPACE",
+    "fetched_at": "2026-07-20T14:56:37+00:00",
+    "sha256": "183524072f47caa62483c30bb0c7b098f572869886e6c967b2490df6f678f267",
+    "url": "https://tokenscan.io/img/cards/CRYSTALPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/dokuganpepecomplete.png": {
+    "asset": "DOKUGANPEPE",
+    "bytes": 356941,
+    "cards": [
+      "dokuganpepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/DOKUGANPEPE.json",
+    "fetched_at": "2026-07-20T14:56:38+00:00",
+    "sha256": "e633703a9f0b5a515f44161b0da0bd8edf37c591ea6191200aaeea975e7f0a10",
+    "url": "https://tokenscan.io/img/cards/DOKUGANPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/ezgif.com-optimize-2.gif": {
+    "asset": "MAPEPENEMR",
+    "bytes": 980471,
+    "cards": [
+      "mapepenemr"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/MAPEPENEMR.json",
+    "fetched_at": "2026-07-20T14:56:39+00:00",
+    "sha256": "50ab70eab7faca3a20d56e5b866ecc4e86f5256e84bc9549a191c13b312649d5",
+    "url": "https://tokenscan.io/img/cards/MAPEPENEMR.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/hanseipepe.gif": {
+    "asset": "HANSEIPEPE",
+    "bytes": 296758,
+    "cards": [
+      "hanseipepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/HANSEIPEPE.json",
+    "fetched_at": "2026-07-20T14:56:41+00:00",
+    "sha256": "58ffbe9acd319ca7f86f86b8bfe23e3391262277486342e21bf9e5ec99cf39ab",
+    "url": "https://tokenscan.io/img/cards/HANSEIPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/kappapepe.jpg": {
+    "asset": "KAPPAPEPE",
+    "bytes": 86003,
+    "cards": [
+      "kappapepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/KAPPAPEPE.json",
+    "fetched_at": "2026-07-20T14:56:42+00:00",
+    "sha256": "0653ddb7fdd195568771d5b29e0a6153eec194466a0a01daca077c56e276aff3",
+    "url": "https://tokenscan.io/img/cards/KAPPAPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/kojipepe.jpg": {
+    "asset": "KOJIPEPE",
+    "bytes": 55069,
+    "cards": [
+      "kojipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/KOJIPEPE.json",
+    "fetched_at": "2026-07-20T14:56:43+00:00",
+    "sha256": "646c46c64fd98f76dec100ecdcecce4f37151abf2717e534e948157b6898dcf9",
+    "url": "https://tokenscan.io/img/cards/KOJIPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/maomyriad.jpg": {
+    "asset": "MYRIADMPEPE",
+    "bytes": 46359,
+    "cards": [
+      "myriadmpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/MYRIADMPEPE.json",
+    "fetched_at": "2026-07-20T14:56:44+00:00",
+    "sha256": "5d82053af428ec7661e6995dead95dfd94dc30957320ad386998d75009dcd2c7",
+    "url": "https://tokenscan.io/img/cards/MYRIADMPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/maozepepe.jpg": {
+    "asset": "MAOZEPEPE",
+    "bytes": 54622,
+    "cards": [
+      "maozepepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/MAOZEPEPE.json",
+    "fetched_at": "2026-07-20T14:56:45+00:00",
+    "sha256": "430468e16e114234f07baf6af71dc0108ba3394cba4c1ccdc73d7d61695ddf0d",
+    "url": "https://tokenscan.io/img/cards/MAOZEPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/marilynpepe.jpg": {
+    "asset": "PPLNMDNTNY",
+    "bytes": 56950,
+    "cards": [
+      "pplnmdntny"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PPLNMDNTNY.json",
+    "fetched_at": "2026-07-20T14:59:28+00:00",
+    "sha256": "8c68f94125ab2e0b2f9c1f6c927404db6e4b5afb55779b6824faa6f97e1dd09b",
+    "url": "https://tokenscan.io/img/cards/PPLNMDNTNY.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pepecamo1.jpg": {
+    "asset": "PEPECAMO",
+    "bytes": 38699,
+    "cards": [
+      "pepecamo"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPECAMO.json",
+    "fetched_at": "2026-07-20T14:56:49+00:00",
+    "sha256": "3736d1554ff875e4946bbaa7d9e567ad0555baf6258cf8ed380d272709ec26bf",
+    "url": "https://tokenscan.io/img/cards/PEPECAMO.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pepegiga.jpg": {
+    "asset": "PEPEGIGA",
+    "bytes": 52684,
+    "cards": [
+      "pepegiga"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPEGIGA.json",
+    "fetched_at": "2026-07-20T14:56:51+00:00",
+    "sha256": "d2fa7971ca02fab3f173791fe87998d8109e83a5639c24c95ddf07e2854a05e5",
+    "url": "https://tokenscan.io/img/cards/PEPEGIGA.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pepejapan.gif": {
+    "asset": "PEPEJAPAN",
+    "bytes": 127276,
+    "cards": [
+      "pepejapan"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPEJAPAN.json",
+    "fetched_at": "2026-07-20T14:56:53+00:00",
+    "sha256": "c383b688e5af431a081bd2e99731ad6eb8757023c3390cf02c2cfda3e80ec54c",
+    "url": "https://tokenscan.io/img/cards/PEPEJAPAN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pepelyncomplete.gif": {
+    "asset": "PEPELYN",
+    "bytes": 1580389,
+    "cards": [
+      "pepelyn"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPELYN.json",
+    "fetched_at": "2026-07-20T14:56:55+00:00",
+    "sha256": "23f1e7df6efe1fbd86b63892b8ff870b9fb626249c124390ca487db2d8343fea",
+    "url": "https://tokenscan.io/img/cards/PEPELYN.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pepemorphs.png": {
+    "asset": "PEPEMORPHS",
+    "bytes": 354432,
+    "cards": [
+      "pepemorphs"
+    ],
+    "content_type": "image/png",
+    "description": "",
+    "fetched_at": "2026-07-20T14:56:56+00:00",
+    "sha256": "e6bdada78f7f863ec468b41c57e376277cd0fdfb1a32fd6478fe241a9cb8c1f4",
+    "url": "https://tokenscan.io/img/cards/PEPEMORPHS.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pepenuma.jpg": {
+    "asset": "PEPENUMA",
+    "bytes": 45128,
+    "cards": [
+      "pepenuma"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPENUMA.json",
+    "fetched_at": "2026-07-20T14:56:57+00:00",
+    "sha256": "e18b08499b08974b2b3329cdfc75644203576b83d17f314a5cec8c755f11d582",
+    "url": "https://tokenscan.io/img/cards/PEPENUMA.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/peperaccoon.gif": {
+    "asset": "PEPERACCOON",
+    "bytes": 22176,
+    "cards": [
+      "peperaccoon"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PEPERACCOON.json",
+    "fetched_at": "2026-07-20T14:56:59+00:00",
+    "sha256": "b592ea4e821d5d16a7015fe883f7f9c23cd2c2c1ed6dae0dc63fbbb091f1a654",
+    "url": "https://tokenscan.io/img/cards/PEPERACCOON.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/peperich.jpg": {
+    "asset": "PEPERICH",
+    "bytes": 52704,
+    "cards": [
+      "peperich"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPERICH.json",
+    "fetched_at": "2026-07-20T14:57:00+00:00",
+    "sha256": "11ffa8dc451b37680a20b719b0aacd6496cee627d86e61ed0d3e731ae0c68f78",
+    "url": "https://tokenscan.io/img/cards/PEPERICH.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/philantrhopecomplete400x560.gif": {
+    "asset": "PHILANTHROPE",
+    "bytes": 379937,
+    "cards": [
+      "philanthrope"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/PHILANTHROPE.json",
+    "fetched_at": "2026-07-20T14:57:01+00:00",
+    "sha256": "80b842b350c2ecdb117cd4f80ccecea780f292fd96ac6862717c8a33041a50a4",
+    "url": "https://tokenscan.io/img/cards/PHILANTHROPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/pppglobal.jpg": {
+    "asset": "PPPGLOBAL",
+    "bytes": 29116,
+    "cards": [
+      "pppglobal"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PPPGLOBAL.json",
+    "fetched_at": "2026-07-20T14:57:02+00:00",
+    "sha256": "195f1469fc3a6d0b1c217fb693dd43d3efefd40c0ea074ade80db8dc27a67221",
+    "url": "https://tokenscan.io/img/cards/PPPGLOBAL.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/proofofpepe.jpg": {
+    "asset": "PROOFOFPEPE",
+    "bytes": 47148,
+    "cards": [
+      "proofofpepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PROOFOFPEPE.json",
+    "fetched_at": "2026-07-20T14:57:04+00:00",
+    "sha256": "4a1a18cb74e81e6781e8ab08d6379c032a5bd94e59051a999290a279db12dcb3",
+    "url": "https://tokenscan.io/img/cards/PROOFOFPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/samuraipepe1.jpg": {
+    "asset": "SAMURAIPEPE",
+    "bytes": 64696,
+    "cards": [
+      "samuraipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/SAMURAIPEPE.json",
+    "fetched_at": "2026-07-20T14:57:05+00:00",
+    "sha256": "0e94a80b0d5b7d27738956e45999d89c00234a89fa94cd63c85da264f2e8f783",
+    "url": "https://tokenscan.io/img/cards/SAMURAIPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/sartubipepe1.jpg": {
+    "asset": "SARUTOBIPEPE",
+    "bytes": 61330,
+    "cards": [
+      "sarutobipepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/SARUTOBIPEPE.json",
+    "fetched_at": "2026-07-20T14:57:06+00:00",
+    "sha256": "3fcd6322ea17c49758294af471609db8fc6875c378793ae61ea1ea2650cea7e4",
+    "url": "https://tokenscan.io/img/cards/SARUTOBIPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/servalpepecom-1.gif": {
+    "asset": "SERVALPEPE",
+    "bytes": 688678,
+    "cards": [
+      "servalpepe"
+    ],
+    "content_type": "image/gif",
+    "description": "res.indiesquare.me/json/SERVALPEPE.json",
+    "fetched_at": "2026-07-20T14:57:07+00:00",
+    "sha256": "06eb3d50988db155f61b8044fd612e947876fb59bafb81ff23a67777affe06e1",
+    "url": "https://tokenscan.io/img/cards/SERVALPEPE.gif"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/thispepe3.png": {
+    "asset": "THISPEPE",
+    "bytes": 384808,
+    "cards": [
+      "thispepe"
+    ],
+    "content_type": "image/png",
+    "description": "res.indiesquare.me/json/THISPEPE.json",
+    "fetched_at": "2026-07-20T14:57:08+00:00",
+    "sha256": "a4d5506ccbc1c3fc74ec4c66a24c6b9f38daedff86b3f70fce37e6f542b3ef98",
+    "url": "https://tokenscan.io/img/cards/THISPEPE.png"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/todamoon.jpg": {
+    "asset": "PEPETODAMOON",
+    "bytes": 59446,
+    "cards": [
+      "pepetodamoon"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/PEPETODAMOON.json",
+    "fetched_at": "2026-07-20T14:57:10+00:00",
+    "sha256": "f73ea857a4879a80e9e7190dac239818ff5b4338359b984ab8118773e92ba511",
+    "url": "https://tokenscan.io/img/cards/PEPETODAMOON.jpg"
+  },
+  "data/source/image/Recovered/japanese-rarepepe/weneedpepe.jpg": {
+    "asset": "WNPEPEPEPEPE",
+    "bytes": 58900,
+    "cards": [
+      "wnpepepepepe"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/WNPEPEPEPEPE.json",
+    "fetched_at": "2026-07-20T14:57:11+00:00",
+    "sha256": "936f4e8e525cedbe3a0f6cf61367ab982d6c8a9069ce5571b187a336c15968d3",
+    "url": "https://tokenscan.io/img/cards/WNPEPEPEPEPE.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/CCMCARD.jpg": {
+    "asset": "CCMCARD",
+    "bytes": 47975,
+    "cards": [
+      "ccmcard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "https://arweave.net/k6HWoPa3VrPTugdh5r5Py2k5jAj72wqOSO1sD6_Vo20/x.json",
+    "fetched_at": "2026-07-20T14:48:08+00:00",
+    "sha256": "2af80757ba7c8664202dd0645adea589f01540379a29e369c8420830f3f7e8ca",
+    "url": "https://tokenscan.io/img/cards/CCMCARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/CNPCARD.jpg": {
+    "asset": "CNPCARD",
+    "bytes": 43189,
+    "cards": [
+      "cnpcard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "https://arweave.net/P2LUd0DNZuU4ew5YHdebN-ZXzk7ib52uj04P1HXMIJY/x.json",
+    "fetched_at": "2026-07-20T14:48:14+00:00",
+    "sha256": "18512fce37df69dfb82361e01e481cb616c9b1f051ca7a6e8e4d53d8a9c802bc",
+    "url": "https://tokenscan.io/img/cards/CNPCARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/COINPORTALCD.jpg": {
+    "asset": "COINPORTALCD",
+    "bytes": 51382,
+    "cards": [
+      "coinportalcd"
+    ],
+    "content_type": "image/jpeg",
+    "description": "Spells of Genesis card",
+    "fetched_at": "2026-07-20T14:48:16+00:00",
+    "sha256": "bc9a786b68261ba73c29ff3cff51db8b434c002ce0b6d3f1fa4ccface6538d9c",
+    "url": "https://tokenscan.io/img/cards/COINPORTALCD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/DOGECOINCARD.jpg": {
+    "asset": "DOGECOINCARD",
+    "bytes": 50868,
+    "cards": [
+      "dogecoincard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "SOG card",
+    "fetched_at": "2026-07-20T14:48:38+00:00",
+    "sha256": "873789316fb5534b53d67b95c3516dd73eff128903b40b4cfb1c1698e2a6deed",
+    "url": "https://tokenscan.io/img/cards/DOGECOINCARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/GOXCARD.jpg": {
+    "asset": "GOXCARD",
+    "bytes": 47049,
+    "cards": [
+      "goxcard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "Spells of Genesis game asset",
+    "fetched_at": "2026-07-20T14:52:24+00:00",
+    "sha256": "ef85ebf3ed9e9c112e3a32130b038d6323c2a24c9c9ace6eb41381ec68c2c2e8",
+    "url": "https://tokenscan.io/img/cards/GOXCARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/SARUTOBICARD.jpg": {
+    "asset": "SARUTOBICARD",
+    "bytes": 44704,
+    "cards": [
+      "sarutobicard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "res.indiesquare.me/json/SARUTOBICARD.json",
+    "fetched_at": "2026-07-20T14:55:40+00:00",
+    "sha256": "276cea0f1c53a1aab2cea46ec59eb0892a061406a9fef8dff0c33b1c58b9a71a",
+    "url": "https://tokenscan.io/img/cards/SARUTOBICARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/SHUMAICARD.jpg": {
+    "asset": "SHUMAICARD",
+    "bytes": 52411,
+    "cards": [
+      "shumaicard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "https://arweave.net/kNiN7lEgFZcgtJblf2onISa05cNRSJ5Cr6UPbERKbGA/x.json",
+    "fetched_at": "2026-07-20T14:55:51+00:00",
+    "sha256": "074728ab86359f1afb22f0f663b7fa5dc5f4a2ead68d7e48d9fe8881b846eabc",
+    "url": "https://tokenscan.io/img/cards/SHUMAICARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/WHEREBCYCARD.jpg": {
+    "asset": "WHEREBCYCARD",
+    "bytes": 51305,
+    "cards": [
+      "wherebcycard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "",
+    "fetched_at": "2026-07-20T14:56:20+00:00",
+    "sha256": "25255364bdb02454c972690090f0e23b7f3df771fec798b884d3c138a9000857",
+    "url": "https://tokenscan.io/img/cards/WHEREBCYCARD.jpg"
+  },
+  "data/source/image/Recovered/japanese-sog/ZAIFCARD.jpg": {
+    "asset": "ZAIFCARD",
+    "bytes": 45433,
+    "cards": [
+      "zaifcard"
+    ],
+    "content_type": "image/jpeg",
+    "description": "SOG game asset",
+    "fetched_at": "2026-07-20T14:56:28+00:00",
+    "sha256": "dc107f4208a2320611c3862c5a89c4758bc7a6f107b8306ec234a065daac0d79",
+    "url": "https://tokenscan.io/img/cards/ZAIFCARD.jpg"
+  }
+}
