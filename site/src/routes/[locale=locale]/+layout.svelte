@@ -1,37 +1,24 @@
 <script lang="ts">
-	import { base } from '$app/paths';
-	import { page } from '$app/state';
-	import { ui, otherLocale, type Locale } from '$lib/i18n';
+	import { ui, type Locale } from '$lib/i18n';
 	import { homeUrl } from '$lib/urls';
+	import BrandMark from '$lib/components/BrandMark.svelte';
+	import LocaleSwitch from '$lib/components/LocaleSwitch.svelte';
 
 	let { data, children } = $props();
 	const locale = $derived(data.locale as Locale);
-
-	// Language switch: keep the reader on the same entity, swapping only the
-	// locale segment. `base` (from $app/paths) is a per-page RELATIVE prefix
-	// when paths.relative is on, so we mirror the other URL builders:
-	// `${base}/${locale}${rest}`. We pull `rest` (everything after the locale
-	// segment) out of the absolute pathname, which already includes the real base.
-	const otherUrl = $derived.by(() => {
-		const other = otherLocale(locale);
-		const rest = page.url.pathname.match(/\/(?:ja|en)(\/.*)?$/)?.[1] ?? '/';
-		return `${base}/${other}${rest}`;
-	});
 </script>
 
 <header class="site-header">
 	<div class="wrap header-inner">
 		<a class="brand" href={homeUrl(locale)}>
-			<span class="brand-mark">日</span>
+			<BrandMark />
 			<span class="brand-text">
 				<strong>{ui(locale, 'siteTitle')}</strong>
 				<small>{ui(locale, 'siteTagline')}</small>
 			</span>
 		</a>
 		<nav class="lang">
-			<a href={otherUrl} hreflang={otherLocale(locale)} rel="alternate">
-				{otherLocale(locale) === 'ja' ? '日本語' : 'English'}
-			</a>
+			<LocaleSwitch {locale} />
 		</nav>
 	</div>
 </header>

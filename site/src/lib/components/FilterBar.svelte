@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { Series, Artist } from '$lib/data/types';
+	import { seriesLabel } from '$lib/data';
 	import { ui, t, type Locale } from '$lib/i18n';
 
 	let {
@@ -30,7 +31,7 @@
 	<select class="select" aria-label={ui(locale, 'series')} bind:value={seriesId}>
 		<option value="">{ui(locale, 'allSeries')}</option>
 		{#each seriesList as s (s.id)}
-			<option value={s.id}>{s.collectionName} — {s.name}</option>
+			<option value={s.id}>{seriesLabel(s)}</option>
 		{/each}
 	</select>
 	<select class="select" aria-label={ui(locale, 'artist')} bind:value={artistId}>
