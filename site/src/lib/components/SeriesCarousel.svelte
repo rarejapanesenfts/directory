@@ -187,8 +187,9 @@
 	.arrows button {
 		display: grid;
 		place-items: center;
-		width: 2.1rem;
-		height: 2.1rem;
+		/* 44px touch target on phones; trimmed once there's a pointer-sized UI. */
+		width: 2.75rem;
+		height: 2.75rem;
 		padding: 0;
 		border: 1px solid var(--border);
 		border-radius: 999px;
@@ -242,7 +243,9 @@
 		position: relative;
 		background: var(--surface-2);
 		overflow: hidden;
-		aspect-ratio: 16 / 10;
+		/* The covers are portrait card scans shown whole, so on phones the box is
+		   nearly square — a letterbox would shrink the artwork to a stamp. */
+		aspect-ratio: 5 / 4;
 	}
 	.art img {
 		position: absolute;
@@ -258,7 +261,7 @@
 	}
 	.cover {
 		object-fit: contain;
-		padding: 0.9rem;
+		padding: 0.6rem;
 	}
 	.art-fallback {
 		position: absolute;
@@ -291,6 +294,20 @@
 		color: var(--accent);
 	}
 
+	/* Narrow phones: the lead line wraps and squeezes the arrows, and swiping is
+	   the natural gesture there anyway. The dots still work as controls. */
+	@media (max-width: 479px) {
+		.lead {
+			display: none;
+		}
+		.cover {
+			padding: 0.4rem;
+		}
+		.body {
+			padding: 0.9rem 1rem 1.1rem;
+		}
+	}
+
 	@media (min-width: 720px) {
 		.slide {
 			grid-template-rows: none;
@@ -302,6 +319,9 @@
 			aspect-ratio: auto;
 			height: 100%;
 		}
+		.cover {
+			padding: 0.9rem;
+		}
 		.body {
 			justify-content: center;
 			padding: 1.75rem 2rem;
@@ -309,25 +329,41 @@
 		.body h3 {
 			font-size: 1.6rem;
 		}
+		.arrows button {
+			width: 2.25rem;
+			height: 2.25rem;
+		}
 	}
 
 	.dots {
 		display: flex;
 		justify-content: center;
 		flex-wrap: wrap;
-		gap: 0.4rem;
-		margin-top: 0.85rem;
+		margin-top: 0.35rem;
 	}
+	/* The dot stays 8px; the button around it is a 32px touch target (nine of
+	   them still fit on a 320px screen without wrapping). */
 	.dot {
-		width: 0.5rem;
-		height: 0.5rem;
+		display: grid;
+		place-items: center;
+		width: 2rem;
+		height: 2rem;
 		padding: 0;
 		border: 0;
-		border-radius: 999px;
-		background: var(--border);
+		background: none;
 		cursor: pointer;
 	}
-	.dot.active {
+	.dot::before {
+		content: '';
+		width: 0.5rem;
+		height: 0.5rem;
+		border-radius: 999px;
+		background: var(--border);
+		transition:
+			background 0.15s ease,
+			transform 0.15s ease;
+	}
+	.dot.active::before {
 		background: var(--accent);
 		transform: scale(1.25);
 	}

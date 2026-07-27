@@ -164,7 +164,11 @@ main.wrap {
 	.locale-switch-label {
 		display: none;
 	}
+	/* Icon-only, but still a comfortable touch target. */
 	.locale-switch {
+		justify-content: center;
+		min-width: 2.5rem;
+		min-height: 2.5rem;
 		padding: 0.35rem 0.5rem;
 	}
 	.brand-text strong {

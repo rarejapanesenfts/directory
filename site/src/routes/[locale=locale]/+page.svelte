@@ -175,6 +175,34 @@
 		filter: brightness(1.08);
 	}
 
+	/* Phones: keep the hero from eating the whole first screen — the carousel
+	   should be visible (or nearly) without scrolling. */
+	@media (max-width: 559px) {
+		.hero {
+			padding: 1.3rem 1.1rem 1.4rem;
+			border-radius: 14px;
+		}
+		.hero h1 {
+			font-size: clamp(1.3rem, 6vw, 1.65rem);
+			margin-bottom: 0.4rem;
+		}
+		.lede {
+			font-size: 0.9rem;
+			line-height: 1.6;
+		}
+		.stats {
+			gap: 0.9rem 1.6rem;
+			margin-top: 1.05rem;
+		}
+		.stats dd {
+			font-size: 1.2rem;
+		}
+		.cta {
+			margin-top: 1.05rem;
+			padding: 0.65rem 1.1rem;
+		}
+	}
+
 	.browse {
 		scroll-margin-top: 5rem;
 	}
