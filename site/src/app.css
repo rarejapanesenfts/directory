@@ -81,6 +81,7 @@ main.wrap {
 /* Header */
 .site-header {
 	border-bottom: 1px solid var(--border);
+	background: var(--surface);
 	background: color-mix(in srgb, var(--surface) 88%, transparent);
 	backdrop-filter: blur(6px);
 	position: sticky;

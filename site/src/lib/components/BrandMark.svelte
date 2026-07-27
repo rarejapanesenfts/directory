@@ -2,14 +2,14 @@
 	// Logomark: a hinomaru rising over a card frame — "classic Japanese NFT
 	// cards" without leaning on a bare kanji glyph, which read as a stray
 	// character rather than a logo. Purely decorative; the wordmark next to it
-	// carries the accessible name.
-	let { size = 32 }: { size?: number } = $props();
+	// carries the accessible name. The size lives in CSS (app.css shrinks it on
+	// small phones); the attributes below just reserve layout space.
 </script>
 
 <svg
 	class="brand-mark"
-	width={size}
-	height={size}
+	width="32"
+	height="32"
 	viewBox="0 0 32 32"
 	aria-hidden="true"
 	focusable="false"

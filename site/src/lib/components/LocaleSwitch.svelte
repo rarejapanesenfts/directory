@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { browser } from '$app/environment';
 	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import { ui, otherLocale, type Locale } from '$lib/i18n';
@@ -11,10 +12,13 @@
 	// `base` (from $app/paths) is a per-page RELATIVE prefix when paths.relative
 	// is on, so we mirror the other URL builders: `${base}/${locale}${rest}`. We
 	// pull `rest` (everything after the locale segment) out of the absolute
-	// pathname, which already includes the real base.
+	// pathname, which already includes the real base. The query string rides
+	// along so switching languages (or copying this link) keeps the reader's
+	// search and filters — client-side only, since a prerendered page is not
+	// allowed to depend on the query string (and never has one).
 	const href = $derived.by(() => {
 		const rest = page.url.pathname.match(/\/(?:ja|en)(\/.*)?$/)?.[1] ?? '/';
-		return `${base}/${other}${rest}`;
+		return `${base}/${other}${rest}${browser ? page.url.search : ''}`;
 	});
 </script>
 

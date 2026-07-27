@@ -7,12 +7,6 @@ import { browser } from '$app/environment';
 
 export type ListQuery = { q: string; series: string; artist: string };
 
-export const EMPTY_QUERY: ListQuery = { q: '', series: '', artist: '' };
-
-export function isEmptyQuery(query: ListQuery): boolean {
-	return !query.q && !query.series && !query.artist;
-}
-
 export function readQuery(url: URL): ListQuery {
 	return {
 		q: url.searchParams.get('q') ?? '',

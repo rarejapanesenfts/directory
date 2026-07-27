@@ -21,6 +21,35 @@
 		return track ? (Array.from(track.children) as HTMLElement[]) : [];
 	}
 
+	// While goTo() animates, the scroll position is mid-flight and must not be
+	// allowed to redefine `index` — otherwise a second click reads a rolled-back
+	// index (losing a slide) and the dots light up one by one along the way.
+	let animating = false;
+	let settleTimer: ReturnType<typeof setTimeout> | undefined;
+	let syncQueued = false;
+
+	function settle(ms = 160) {
+		clearTimeout(settleTimer);
+		settleTimer = setTimeout(() => {
+			animating = false;
+			syncIndex();
+		}, ms);
+	}
+
+	/** Scroll handler: one layout read per frame, and none while animating. */
+	function onScroll() {
+		if (animating) {
+			settle();
+			return;
+		}
+		if (syncQueued) return;
+		syncQueued = true;
+		requestAnimationFrame(() => {
+			syncQueued = false;
+			syncIndex();
+		});
+	}
+
 	function syncIndex() {
 		const kids = slides();
 		if (!track || kids.length === 0) return;
@@ -41,8 +70,19 @@
 		const kids = slides();
 		if (!track || kids.length === 0) return;
 		const target = ((i % kids.length) + kids.length) % kids.length;
-		track.scrollTo({ left: kids[target].offsetLeft, behavior: reduceMotion ? 'auto' : 'smooth' });
+		// Wrapping means travelling the whole track: smooth-scrolling that flies
+		// past every slide, so the loop point jumps instead.
+		const wraps =
+			(index === kids.length - 1 && target === 0) || (index === 0 && target === kids.length - 1);
 		index = target;
+		animating = true;
+		track.scrollTo({
+			left: kids[target].offsetLeft,
+			behavior: reduceMotion || wraps ? 'auto' : 'smooth'
+		});
+		// Released by the scroll handler once movement stops; this covers the case
+		// where the track is already there and no scroll event ever fires.
+		settle(700);
 	}
 
 	onMount(() => {
@@ -59,6 +99,7 @@
 
 		return () => {
 			clearInterval(timer);
+			clearTimeout(settleTimer);
 			mq.removeEventListener('change', onChange);
 		};
 	});
@@ -107,7 +148,7 @@
 			</div>
 		</div>
 
-		<div class="track" bind:this={track} onscroll={syncIndex}>
+		<div class="track" bind:this={track} onscroll={onScroll}>
 			{#each items as item, i (item.series.id)}
 				{@const img = resolveImage(item.cover.image?.source)}
 				<a

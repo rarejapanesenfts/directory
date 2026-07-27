@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { replaceState } from '$app/navigation';
+	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
-	import { nfts, series, artists, getSeries, seriesLabel } from '$lib/data';
+	import { nfts, series, artists, getSeries, getArtist, seriesLabel } from '$lib/data';
 	import { featuredSeries } from '$lib/featured';
 	import { ui, type Locale } from '$lib/i18n';
 	import { queryString, readQuery, rememberQuery } from '$lib/search';
@@ -25,16 +25,20 @@
 	// HTML), then keep the URL in sync as the reader types. That is what makes
 	// "search → open a card → back" come back to the same result set.
 	//
-	// Everything here reads window.location rather than `page.url`: a shallow
-	// replaceState() updates the address bar but not `page.url`, so on a Back
-	// into this page `page.url` still carries the pre-search URL.
+	// The URL is written with goto(replaceState) rather than the shallow
+	// replaceState(): shallow routing leaves `page.url` pointing at the
+	// pre-search URL, and everything else on the page (the locale switch, most
+	// of all) builds its links from `page.url`.
 	let hydrated = $state(false);
 
 	onMount(() => {
-		const initial = readQuery(new URL(location.href));
+		const initial = readQuery(page.url);
 		query = initial.q;
-		seriesId = initial.series;
-		artistId = initial.artist;
+		// Ids that match nothing would filter the list down to zero with the
+		// select showing "all", so a bogus ?series=/?artist= is dropped — the
+		// effect below then rewrites it out of the URL.
+		seriesId = getSeries(initial.series) ? initial.series : '';
+		artistId = getArtist(initial.artist) ? initial.artist : '';
 		hydrated = true;
 	});
 
@@ -44,9 +48,9 @@
 		rememberQuery(current);
 		// Replace (not push) so typing doesn't bury the previous page under one
 		// history entry per keystroke. The hash, if any, is left alone.
-		const next = `${location.pathname}${queryString(current)}${location.hash}`;
-		if (next !== `${location.pathname}${location.search}${location.hash}`) {
-			replaceState(next, page.state);
+		const next = `${page.url.pathname}${queryString(current)}${page.url.hash}`;
+		if (next !== `${page.url.pathname}${page.url.search}${page.url.hash}`) {
+			goto(next, { replaceState: true, noScroll: true, keepFocus: true });
 		}
 	});
 
@@ -124,6 +128,9 @@
 		padding: 1.75rem 1.5rem 1.85rem;
 		border: 1px solid var(--border);
 		border-radius: 18px;
+		/* Plain fill first: the gradient below is one declaration, so a browser
+		   without color-mix() drops the surface colour along with it. */
+		background: var(--surface);
 		background:
 			radial-gradient(
 				110% 140% at 100% 0%,
