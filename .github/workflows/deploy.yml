@@ -56,6 +56,9 @@ jobs:
       - name: Typecheck
         run: bun run check
 
+      - name: Unit tests
+        run: bun run test
+
       - name: Build
         env:
           BASE_PATH: /directory

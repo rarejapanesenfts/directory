@@ -4,6 +4,8 @@
 // be read on the client — see the onMount sync in the list page.
 
 import { browser } from '$app/environment';
+import { getSeries, seriesLabel } from './data';
+import type { Nft } from './data/types';
 
 export type ListQuery = { q: string; series: string; artist: string };
 
@@ -23,6 +25,39 @@ export function queryString(query: ListQuery): string {
 	if (query.artist) params.set('artist', query.artist);
 	const s = params.toString();
 	return s ? `?${s}` : '';
+}
+
+/**
+ * Lowercase search haystack per card (name + series label), built once for the
+ * whole list so typing doesn't re-resolve every card's series on each keystroke.
+ * Keyed by nft id.
+ */
+export function buildHaystacks(cards: Nft[]): Map<string, string> {
+	return new Map(
+		cards.map((n) => {
+			const s = getSeries(n.seriesId);
+			return [n.id, `${n.name} ${s ? seriesLabel(s) : ''}`.toLowerCase()];
+		})
+	);
+}
+
+/**
+ * Cards matching every active filter (empty fields match everything). The text
+ * query is matched case-insensitively against the haystacks above; a card
+ * missing from the map matches nothing.
+ */
+export function filterCards(
+	cards: Nft[],
+	haystacks: Map<string, string>,
+	query: ListQuery
+): Nft[] {
+	const q = query.q.trim().toLowerCase();
+	return cards.filter((n) => {
+		if (query.series && n.seriesId !== query.series) return false;
+		if (query.artist && n.artistId !== query.artist) return false;
+		if (q && !haystacks.get(n.id)?.includes(q)) return false;
+		return true;
+	});
 }
 
 // Detail pages link back to the list with the reader's filters still applied.
