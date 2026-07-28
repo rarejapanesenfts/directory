@@ -4,7 +4,7 @@
 	import { t } from '$lib/i18n';
 	import { cardUrl } from '$lib/urls';
 	import { resolveImage } from '$lib/images';
-	import { getSeries } from '$lib/data';
+	import { getSeries, seriesTitle } from '$lib/data';
 	import Placeholder from './Placeholder.svelte';
 
 	let { nft, locale }: { nft: Nft; locale: Locale } = $props();
@@ -31,7 +31,7 @@
 	</div>
 	<div class="meta">
 		<span class="name">{nft.name}</span>
-		{#if series}<span class="series">{series.name}</span>{/if}
+		{#if series}<span class="series">{seriesTitle(series)}</span>{/if}
 		{#if issued}<span class="issued">{issued}</span>{/if}
 	</div>
 </a>

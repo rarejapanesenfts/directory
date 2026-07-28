@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { ui, t, type Locale } from '$lib/i18n';
-	import { homeUrl } from '$lib/urls';
+	import BackToList from '$lib/components/BackToList.svelte';
 	import CardGrid from '$lib/components/CardGrid.svelte';
 	import Seo from '$lib/components/Seo.svelte';
 
@@ -28,12 +28,10 @@
 	subpath={`/artists/${encodeURIComponent(artist.id)}/`}
 />
 
-<nav class="crumbs">
-	<a href={homeUrl(locale)}>← {ui(locale, 'backToList')}</a>
-</nav>
+<BackToList {locale} />
 
 <header class="page-head">
-	<p class="kicker">{ui(locale, 'artist')}</p>
+	<p class="label">{ui(locale, 'artist')}</p>
 	<h1>{name}</h1>
 	{#if bio}<p class="desc">{bio}</p>{/if}
 
@@ -53,22 +51,11 @@
 <CardGrid {cards} {locale} />
 
 <style>
-	.crumbs {
-		margin: 0.5rem 0 1.25rem;
-		font-size: 0.9rem;
-	}
 	.page-head {
 		margin-bottom: 1.5rem;
 	}
-	.kicker {
-		margin: 0 0 0.25rem;
-		font-size: 0.8rem;
-		text-transform: uppercase;
-		letter-spacing: 0.06em;
-		color: var(--muted);
-	}
 	.page-head h1 {
-		margin: 0 0 0.4rem;
+		margin: 0.25rem 0 0.4rem;
 		font-size: 1.7rem;
 		overflow-wrap: anywhere;
 	}

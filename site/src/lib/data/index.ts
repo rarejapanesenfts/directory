@@ -33,6 +33,20 @@ export function getArtist(id: string): Artist | undefined {
 	return artistById.get(norm(id));
 }
 
+// A few series have no name of their own (the collection is a single series,
+// e.g. Force of Will), so labels fall back to the collection name instead of
+// rendering a dangling "Collection — ".
+
+/** Series heading: its own name, or the collection name when it has none. */
+export function seriesTitle(s: Pick<Series, 'collectionName' | 'name'>): string {
+	return s.name || s.collectionName;
+}
+
+/** Fully qualified series label, e.g. "Memorychain — Series 7". */
+export function seriesLabel(s: Pick<Series, 'collectionName' | 'name'>): string {
+	return s.name ? `${s.collectionName} — ${s.name}` : s.collectionName;
+}
+
 /** Resolve a card's series/artist references into a display-ready object. */
 export function joinCard(nft: Nft): JoinedNft {
 	return {

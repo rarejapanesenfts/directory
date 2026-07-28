@@ -1,7 +1,10 @@
 <script lang="ts">
 	import { ui, t, type Locale } from '$lib/i18n';
-	import { homeUrl, seriesUrl, artistUrl } from '$lib/urls';
+	import { seriesUrl, artistUrl } from '$lib/urls';
+	import { seriesLabel } from '$lib/data';
 	import { resolveImage } from '$lib/images';
+	import { parseDescription } from '$lib/description';
+	import BackToList from '$lib/components/BackToList.svelte';
 	import Placeholder from '$lib/components/Placeholder.svelte';
 	import Seo from '$lib/components/Seo.svelte';
 
@@ -10,12 +13,14 @@
 	const card = $derived(data.card);
 
 	const img = $derived(resolveImage(card.image?.source));
-	const description = $derived(t(card.description, locale));
+	// "アーティストからのコメント" is a label baked into the exported prose; split
+	// it off so it can be rendered as one (and not as a stray line of body text).
+	const description = $derived(parseDescription(t(card.description, locale)));
 	const issued = $derived(t(card.issued?.display, locale));
 
 	const seoDesc = $derived(
-		description ||
-			[card.series?.name, card.artist ? t(card.artist.name, locale) : '', issued]
+		description.body ||
+			[card.series ? seriesLabel(card.series) : '', card.artist ? t(card.artist.name, locale) : '', issued]
 				.filter(Boolean)
 				.join(' · ')
 	);
@@ -29,9 +34,7 @@
 	image={img?.rawFull}
 />
 
-<nav class="crumbs">
-	<a href={homeUrl(locale)}>← {ui(locale, 'backToList')}</a>
-</nav>
+<BackToList {locale} />
 
 <article class="detail">
 	<div class="media">
@@ -51,30 +54,48 @@
 			</p>
 		{/if}
 
-		<p class="desc">{description || ui(locale, 'noDescription')}</p>
+		<p class="desc">{description.body || ui(locale, 'noDescription')}</p>
 
-		<dl class="facts">
-			{#if card.series}
-				<dt>{ui(locale, 'series')}</dt>
-				<dd><a href={seriesUrl(locale, card.series.id)}>{card.series.collectionName} — {card.series.name}</a></dd>
-			{/if}
-			{#if issued}
-				<dt>{ui(locale, 'issued')}</dt>
-				<dd>{issued}</dd>
-			{/if}
-			{#if card.card != null}
-				<dt>{ui(locale, 'card')}</dt>
-				<dd>#{card.card}</dd>
-			{/if}
-			{#if card.totalSupply != null}
-				<dt>{ui(locale, 'totalSupply')}</dt>
-				<dd>{card.totalSupply.toLocaleString()}</dd>
-			{/if}
-		</dl>
+		{#if description.artistComment}
+			<figure class="comment">
+				<figcaption class="label">{ui(locale, 'artistComment')}</figcaption>
+				<blockquote>{description.artistComment}</blockquote>
+			</figure>
+		{/if}
+
+		<section class="facts-block">
+			<h2 class="label">{ui(locale, 'details')}</h2>
+			<dl class="facts">
+				{#if card.series}
+					<div class="fact">
+						<dt>{ui(locale, 'series')}</dt>
+						<dd><a href={seriesUrl(locale, card.series.id)}>{seriesLabel(card.series)}</a></dd>
+					</div>
+				{/if}
+				{#if issued}
+					<div class="fact">
+						<dt>{ui(locale, 'issued')}</dt>
+						<dd>{issued}</dd>
+					</div>
+				{/if}
+				{#if card.card != null}
+					<div class="fact">
+						<dt>{ui(locale, 'card')}</dt>
+						<dd>#{card.card}</dd>
+					</div>
+				{/if}
+				{#if card.totalSupply != null}
+					<div class="fact">
+						<dt>{ui(locale, 'totalSupply')}</dt>
+						<dd>{card.totalSupply.toLocaleString()}</dd>
+					</div>
+				{/if}
+			</dl>
+		</section>
 
 		{#if card.chains?.length}
 			<div class="chains">
-				<h2>{ui(locale, 'links')}</h2>
+				<h2 class="label">{ui(locale, 'links')}</h2>
 				<ul>
 					{#each card.chains as chain}
 						<li>
@@ -90,10 +111,6 @@
 </article>
 
 <style>
-	.crumbs {
-		margin: 0.5rem 0 1.25rem;
-		font-size: 0.9rem;
-	}
 	.detail {
 		display: grid;
 		grid-template-columns: 1fr;
@@ -126,31 +143,68 @@
 		color: var(--muted);
 	}
 	.desc {
+		margin: 0;
 		line-height: 1.65;
 		white-space: pre-line;
 	}
+
+	/* Artist comment: a labelled quote, not body copy. */
+	.comment {
+		margin: 1.5rem 0 0;
+	}
+	.comment blockquote {
+		margin: 0.4rem 0 0;
+		padding: 0.85rem 1rem;
+		border-left: 3px solid var(--accent);
+		border-radius: 0 10px 10px 0;
+		background: var(--surface-2);
+		line-height: 1.7;
+		white-space: pre-line;
+	}
+
+	/* Facts: a full-width panel with the label on the left and the value on the
+	   right, so the pair spans the column instead of huddling on the left edge. */
+	.facts-block {
+		margin: 1.75rem 0 0;
+	}
 	.facts {
-		display: grid;
-		grid-template-columns: auto 1fr;
-		gap: 0.35rem 1rem;
-		margin: 1.5rem 0;
-		font-size: 0.95rem;
+		margin: 0.5rem 0 0;
+		border: 1px solid var(--border);
+		border-radius: 12px;
+		background: var(--surface);
+		overflow: hidden;
 	}
-	.facts dt {
+	.fact {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 0.35rem 1.5rem;
+		padding: 0.7rem 0.95rem;
+	}
+	.fact + .fact {
+		border-top: 1px solid var(--border);
+	}
+	.fact dt {
 		color: var(--muted);
+		font-size: 0.82rem;
+		white-space: nowrap;
 	}
-	.facts dd {
+	.fact dd {
 		margin: 0;
+		text-align: right;
+		font-size: 0.95rem;
+		font-weight: 600;
 		overflow-wrap: anywhere;
 	}
-	.chains h2 {
-		font-size: 1rem;
-		margin: 1.5rem 0 0.5rem;
+
+	.chains {
+		margin-top: 1.75rem;
 	}
 	.chains ul {
 		list-style: none;
 		padding: 0;
-		margin: 0;
+		margin: 0.5rem 0 0;
 		display: flex;
 		flex-wrap: wrap;
 		gap: 0.5rem;
