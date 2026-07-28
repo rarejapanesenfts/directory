@@ -48,9 +48,24 @@ IMAGE_EXTS = {".png", ".gif", ".jpg", ".jpeg"}
 # CSVのArtists表記 → アーティストxlsxの表記(同一人物の表記ゆれを吸収)
 ENRICHMENT_ALIASES = {"空廻ロジカ《Sorane Logica》": "ロジカ"}
 
+# xlsx由来のリンクにはスキームが欠けているものがある。そのままhrefに入ると
+# ページ相対URLとして解決され外部サイトへ飛べないため、変換時に補完する。
+# 既定は https。HTTPSを提供しないホストのみ下記で http を明示する。
+SCHEME_RE = re.compile(r"^[a-zA-Z][a-zA-Z0-9+.-]*://")
+HTTP_ONLY_HOSTS = {"kasaneate.starfree.jp"}  # TLS未対応(接続不可)を確認済み
+
 # 対訳ペアで一致すべき言語非依存フィールド(不一致は英語版を採用しISSUESへ)
 SHARED_FIELDS = ["Title", "Artists", "artist_name", "collections",
                  "issued", "issued_ja", "total_supply", "card", "Blockchains"]
+
+
+def normalize_url(url):
+    """スキームが無いURLに補完する。補完した場合は (URL, 補完したスキーム) を返す。"""
+    if not url or SCHEME_RE.match(url):
+        return url, None
+    host = url.split("/", 1)[0].lower()
+    scheme = "http" if host in HTTP_ONLY_HOSTS else "https"
+    return f"{scheme}://{url}", scheme
 
 
 def slugify(text):
@@ -328,14 +343,16 @@ def build_artists(pairs, issues):
                 excerpt = excerpt[:80] + "…"
             issues["artists"].append(
                 f"`{artist}`: xlsx「その他」欄の記載はJSON未収載(掲載可否は編集判断): {excerpt}")
+        links = {}
+        for kind in ("twitter", "opensea", "website"):
+            links[kind], added = normalize_url(extra.get(kind))
+            if added:
+                issues["artists"].append(
+                    f"`{artist}`: {kind}のURLにスキームが無いため `{added}://` を補完")
         artists.append({
             "id": artist_id,
             "name": {"en": artist, "ja": names[artist]},
-            "links": {
-                "twitter": extra.get("twitter"),
-                "opensea": extra.get("opensea"),
-                "website": extra.get("website"),
-            },
+            "links": links,
             "cpAddress": extra.get("cpAddress"),
             "bio": {"en": None, "ja": extra.get("bioJa")},
             "nftCount": counts[artist],

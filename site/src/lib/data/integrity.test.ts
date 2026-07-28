@@ -155,29 +155,16 @@ describe('series and artist shape', () => {
 		for (const a of artists) expect(a.name.ja || a.name.en, a.id).toBeTruthy();
 	});
 
-	// Two links in the export lost their scheme. The artist page puts these
-	// straight into href, so they currently resolve relative to the artist page
-	// instead of leaving the site. Pinned here rather than relaxed away, so the
-	// guard still catches any NEW scheme-less link — and so the list shrinks to
-	// empty once the two are fixed upstream (data/source or scripts/convert.py).
-	const KNOWN_SCHEMELESS = new Set(['kassy.website', 'tky.website']);
-
+	// The artist page puts these straight into href, so a scheme-less value
+	// would resolve relative to the artist page instead of leaving the site.
+	// convert.py normalizes them; this keeps that guarantee.
 	it('keeps artist links absolute when present', () => {
 		for (const a of artists) {
 			for (const [kind, url] of Object.entries(a.links)) {
 				if (url === null) continue;
-				if (KNOWN_SCHEMELESS.has(`${a.id}.${kind}`)) continue;
 				expect(url, `${a.id}.${kind}`).toMatch(/^https?:\/\//);
+				expect(() => new URL(url), `${a.id}.${kind}`).not.toThrow();
 			}
 		}
-	});
-
-	it('has no scheme-less links beyond the two known ones', () => {
-		const schemeless = artists.flatMap((a) =>
-			Object.entries(a.links)
-				.filter(([, url]) => url !== null && !/^https?:\/\//.test(url))
-				.map(([kind]) => `${a.id}.${kind}`)
-		);
-		expect(new Set(schemeless)).toEqual(KNOWN_SCHEMELESS);
 	});
 });
