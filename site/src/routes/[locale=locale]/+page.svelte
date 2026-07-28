@@ -2,10 +2,10 @@
 	import { onMount } from 'svelte';
 	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
-	import { nfts, series, artists, getSeries, getArtist, seriesLabel } from '$lib/data';
+	import { nfts, series, artists, getSeries, getArtist } from '$lib/data';
 	import { featuredSeries } from '$lib/featured';
 	import { ui, type Locale } from '$lib/i18n';
-	import { queryString, readQuery, rememberQuery } from '$lib/search';
+	import { buildHaystacks, filterCards, queryString, readQuery, rememberQuery } from '$lib/search';
 	import CardGrid from '$lib/components/CardGrid.svelte';
 	import FilterBar from '$lib/components/FilterBar.svelte';
 	import SeriesCarousel from '$lib/components/SeriesCarousel.svelte';
@@ -55,22 +55,9 @@
 	});
 
 	// Precompute a lowercase search haystack (name + series name) per card once.
-	const haystacks = new Map<string, string>(
-		nfts.map((n) => {
-			const s = getSeries(n.seriesId);
-			return [n.id, `${n.name} ${s ? seriesLabel(s) : ''}`.toLowerCase()];
-		})
-	);
+	const haystacks = buildHaystacks(nfts);
 
-	const filtered = $derived.by(() => {
-		const q = query.trim().toLowerCase();
-		return nfts.filter((n) => {
-			if (seriesId && n.seriesId !== seriesId) return false;
-			if (artistId && n.artistId !== artistId) return false;
-			if (q && !haystacks.get(n.id)?.includes(q)) return false;
-			return true;
-		});
-	});
+	const filtered = $derived(filterCards(nfts, haystacks, { q: query, series: seriesId, artist: artistId }));
 </script>
 
 <Seo
