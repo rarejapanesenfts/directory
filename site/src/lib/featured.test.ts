@@ -1,18 +1,22 @@
 import { describe, it, expect } from 'vitest';
-import { featuredSeries } from './featured';
-import { series, seriesLabel } from './data';
+import { featuredSeries, FEATURED } from './featured';
+import { getNft, getSeries, seriesLabel } from './data';
 import { resolveImage } from './images';
 
 describe('featuredSeries', () => {
 	const featured = featuredSeries();
 
-	it('returns at least one slide', () => {
-		expect(featured.length).toBeGreaterThan(0);
+	it('returns every curated slide, in order', () => {
+		expect(featured.map((f) => [f.cover.id, f.series.id])).toEqual(
+			FEATURED.map(([cover, series]) => [cover, series])
+		);
 	});
 
-	it('picks at most one series per collection', () => {
-		const collections = featured.map((f) => f.series.collectionId);
-		expect(new Set(collections).size).toBe(collections.length);
+	it('resolves each curated pair to real data', () => {
+		for (const [cover, series] of FEATURED) {
+			expect(getNft(cover), cover).toBeDefined();
+			expect(getSeries(series), series).toBeDefined();
+		}
 	});
 
 	it('always has a cover card with a resolvable image', () => {
@@ -39,13 +43,9 @@ describe('featuredSeries', () => {
 		}
 	});
 
-	it('orders collections by how much of the archive they are', () => {
-		const totals = featured.map((f) =>
-			series
-				.filter((s) => s.collectionId === f.series.collectionId)
-				.reduce((sum, s) => sum + s.nftCount, 0)
-		);
-		expect([...totals]).toEqual([...totals].sort((a, b) => b - a));
+	it('lists no series twice', () => {
+		const ids = featured.map((f) => f.series.id);
+		expect(new Set(ids).size).toBe(ids.length);
 	});
 
 	it('respects the limit', () => {
