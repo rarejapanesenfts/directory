@@ -1,12 +1,37 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
-	import { ui, type Locale } from '$lib/i18n';
-	import { seriesUrl } from '$lib/urls';
+	import { t, ui, type Locale } from '$lib/i18n';
+	import { seriesLabel, seriesTitle } from '$lib/data';
+	import { artistUrl, seriesUrl } from '$lib/urls';
 	import { resolveImage } from '$lib/images';
-	import type { FeaturedSeries } from '$lib/featured';
+	import type { FeaturedSlide } from '$lib/featured';
 	import Placeholder from './Placeholder.svelte';
 
-	let { items, locale }: { items: FeaturedSeries[]; locale: Locale } = $props();
+	let { items, locale }: { items: FeaturedSlide[]; locale: Locale } = $props();
+
+	// A slide fronts either a series or an artist; everything below the artwork
+	// differs only in these strings. `title` is the heading, which leans on the
+	// kicker above it for context ("Collection: Memorychain" / "Series 1");
+	// `label` is the self-contained version, for the link's accessible name.
+	function slideText(item: FeaturedSlide) {
+		return item.kind === 'artist'
+			? {
+					key: `artist:${item.artist.id}`,
+					href: artistUrl(locale, item.artist.id),
+					kicker: ui(locale, 'artist'),
+					title: t(item.artist.name, locale),
+					label: t(item.artist.name, locale),
+					cta: ui(locale, 'viewArtist')
+				}
+			: {
+					key: `series:${item.series.id}`,
+					href: seriesUrl(locale, item.series.id),
+					kicker: `${ui(locale, 'collection')}: ${item.series.collectionName}`,
+					title: seriesTitle(item.series),
+					label: seriesLabel(item.series),
+					cta: ui(locale, 'viewSeries')
+				};
+	}
 
 	// The track is a scroll-snap container, so it swipes natively and works
 	// without JS; the buttons/auto-advance just drive scrollTo() on top of it.
@@ -149,12 +174,13 @@
 		</div>
 
 		<div class="track" bind:this={track} onscroll={onScroll}>
-			{#each items as item, i (item.series.id)}
+			{#each items as item, i (slideText(item).key)}
 				{@const img = resolveImage(item.cover.image?.source)}
+				{@const text = slideText(item)}
 				<a
 					class="slide"
-					href={seriesUrl(locale, item.series.id)}
-					aria-label={`${item.label} — ${item.count} ${ui(locale, 'works')}`}
+					href={text.href}
+					aria-label={`${text.label} — ${item.count} ${ui(locale, 'works')}`}
 				>
 					<div class="art">
 						{#if img}
@@ -176,17 +202,17 @@
 						{/if}
 					</div>
 					<div class="body">
-						<p class="label">{ui(locale, 'collection')}: {item.series.collectionName}</p>
-						<h3>{item.series.name || item.series.collectionName}</h3>
+						<p class="label">{text.kicker}</p>
+						<h3>{text.title}</h3>
 						<p class="meta">{item.count} {ui(locale, 'works')}</p>
-						<span class="cta">{ui(locale, 'viewSeries')} →</span>
+						<span class="cta">{text.cta} →</span>
 					</div>
 				</a>
 			{/each}
 		</div>
 
 		<div class="dots">
-			{#each items as item, i (item.series.id)}
+			{#each items as item, i (slideText(item).key)}
 				<button
 					type="button"
 					class="dot"
