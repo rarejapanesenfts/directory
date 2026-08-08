@@ -3,7 +3,7 @@
 	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
 	import { nfts, series, artists, getSeries, getArtist } from '$lib/data';
-	import { featuredSeries } from '$lib/featured';
+	import { featuredSlides } from '$lib/featured';
 	import { ui, type Locale } from '$lib/i18n';
 	import { buildHaystacks, filterCards, queryString, readQuery, rememberQuery } from '$lib/search';
 	import CardGrid from '$lib/components/CardGrid.svelte';
@@ -14,7 +14,7 @@
 	let { data } = $props();
 	const locale = $derived(data.locale as Locale);
 
-	const featured = featuredSeries();
+	const featured = featuredSlides();
 
 	let query = $state('');
 	let seriesId = $state('');
