@@ -1,7 +1,8 @@
 <script lang="ts">
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
-	import { SITE_URL } from '$lib/site';
+	import { ui } from '$lib/i18n';
+	import Seo from '$lib/components/Seo.svelte';
 
 	const target = `${base}/ja/`;
 
@@ -10,11 +11,19 @@
 	});
 </script>
 
+<!-- The bare site root is the URL people paste when they share the directory
+     itself, so it needs the full OGP set even though a reader never stops here.
+     Seo emits the same <title> and absolute canonical (SITE_URL/ja/) this page
+     used to hand-roll, plus the default share card. -->
+<Seo
+	title={`${ui('ja', 'siteTitle')} — ${ui('ja', 'siteTagline')}`}
+	description={ui('ja', 'siteIntro')}
+	locale="ja"
+	subpath="/"
+/>
+
 <svelte:head>
-	<title>Rare Japanese NFTs</title>
 	<meta http-equiv="refresh" content={`0; url=${target}`} />
-	<!-- Absolute canonical, consistent with every Seo-rendered page. -->
-	<link rel="canonical" href={`${SITE_URL}/ja/`} />
 </svelte:head>
 
 <p>Redirecting to <a href={target}>{target}</a>…</p>

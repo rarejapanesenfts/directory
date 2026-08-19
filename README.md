@@ -28,6 +28,12 @@ bun run check      # 型チェック(svelte-check)
   WebP化(サムネイル400px / 詳細用最大1200px、アニメGIFはアニメWebP)。出力は `static/img/`
   (gitignore)、マニフェストは `src/lib/data/images.json`。`.image-cache/` で未変更分はスキップ。
   画像が無いカードはイニシャルのプレースホルダー表示。
+- **OGP画像**: 同じスクリプトが SNS 共有用の 1200×630 JPEG も `static/og/`(gitignore)に生成する。
+  カードアートをぼかし背景の上に全体が収まるサイズで配置したもので、アート無しのページ
+  (ホーム/シリーズ/アーティスト)は代表作のモザイクで作った `og/default.jpg` を使う。
+  詳細用のWebPを流用しないのは、X と LINE のクローラが WebP を描画せず、縦長アート(約0.71)が
+  `summary_large_image` の 1.91:1 で大きく切れてしまうため。画像内に文字は焼き込まない
+  (日本語フォント同梱を避けるため。タイトルは `og:title` として各SNSが表示する)。
 - **デプロイ**: `main` への push で `.github/workflows/deploy.yml` が Pages に自動公開
   (`BASE_PATH=/directory`)。**初回のみ手動**でリポジトリ設定 → Pages → Source を
   「GitHub Actions」に変更する必要がある。

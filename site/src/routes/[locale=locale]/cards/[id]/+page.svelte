@@ -31,7 +31,9 @@
 	description={seoDesc.slice(0, 200)}
 	{locale}
 	subpath={`/cards/${card.id}/`}
-	image={img?.rawFull}
+	image={img?.og}
+	imageAlt={card.name}
+	ogType="article"
 />
 
 <BackToList {locale} />

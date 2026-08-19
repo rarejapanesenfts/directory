@@ -2,6 +2,7 @@ node_modules
 /build
 /.svelte-kit
 /static/img
+/static/og
 /.image-cache
 .env
 .env.*
