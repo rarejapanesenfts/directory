@@ -59,6 +59,8 @@ export type JoinedNft = Nft & {
 export type ImageEntry = {
 	thumb: string;
 	full: string;
+	/** 1200x630 JPEG share card (og/<slug>.jpg). */
+	og: string;
 	width: number;
 	height: number;
 };

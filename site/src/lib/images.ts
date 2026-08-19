@@ -11,8 +11,14 @@ const images = manifest as Record<string, ImageEntry>;
 export type ResolvedImage = {
 	thumb: string;
 	full: string;
-	/** Manifest-relative full path (no base), e.g. 'img/foo.webp' — for absolute OGP URLs. */
+	/** Manifest-relative full path (no base), e.g. 'img/foo.webp'. */
 	rawFull: string;
+	/**
+	 * Manifest-relative share card (no base), e.g. 'og/foo.jpg' — feed this to
+	 * <Seo image>, never `full`: OGP crawlers on X and LINE don't render WebP,
+	 * and the portrait card art gets center-cropped at 1.91:1.
+	 */
+	og: string;
 	/**
 	 * Intrinsic size of the FULL image. The thumbnail shares the same aspect
 	 * ratio (and the grid tile crops to 1/1 via CSS), so CardTile reuses these
@@ -31,6 +37,7 @@ export function resolveImage(source: string | null | undefined): ResolvedImage |
 		thumb: asset(entry.thumb),
 		full: asset(entry.full),
 		rawFull: entry.full,
+		og: entry.og,
 		width: entry.width,
 		height: entry.height
 	};
